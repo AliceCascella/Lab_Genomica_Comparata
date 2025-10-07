@@ -1,2 +1,2 @@
 # Lab_Genomica_Comparata
-Corso di Genomica Comparata UniBo
+# Corso_di_Genomica_Comparata_UniBo
