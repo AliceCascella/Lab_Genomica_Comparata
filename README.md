@@ -1,2 +1,2 @@
 # Lab_Genomica_Comparata
-# Corso_di_Genomica_Comparata_UniBo
+Corso_di_Genomica_Comparata_UniBo_2025
