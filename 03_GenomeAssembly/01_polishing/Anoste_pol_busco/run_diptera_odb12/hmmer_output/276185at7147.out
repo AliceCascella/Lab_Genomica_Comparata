@@ -1,0 +1,15 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+276185at7147_1496333_0:0001e9|ctg5:5913333-5914797|- -            132 276185               -            125   6.8e-59  184.4   4.4   1   1   7.8e-59   7.8e-59  184.2   4.4     3   125     7   131     5   131 0.96 <unknown description>
+276185at7147_7396_0:00040d|ctg5:5913339-5913468|-    -             44 276185               -            125   5.8e-23   68.3   0.7   1   1   6.2e-23   6.2e-23   68.2   0.7    81   124     1    44     1    44 0.98 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/276185at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/276185at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/276185at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/276185at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/276185at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:25 2025
+# [ok]

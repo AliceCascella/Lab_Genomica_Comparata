@@ -1,0 +1,20 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+198185at7147_30069_0:000ff7|ctg2:9689046-9692652|-  -           1203 198185               -           1094         0 1779.2   6.1   1   2  3.1e-300  3.1e-300  987.2   0.1     9   480    11   481     4   507 0.97 <unknown description>
+198185at7147_30069_0:000ff7|ctg2:9689046-9692652|-  -           1203 198185               -           1094         0 1779.2   6.1   2   2  7.2e-242  7.2e-242  793.9   2.1   560  1094   650  1202   637  1202 0.92 <unknown description>
+198185at7147_329112_0:003f2b|ctg2:9689046-9691749|- -            758 198185               -           1094         0 1195.9  15.0   1   2  2.7e-125  2.7e-125  407.9   3.4   301   477     1   177     1   192 0.98 <unknown description>
+198185at7147_329112_0:003f2b|ctg2:9689046-9691749|- -            758 198185               -           1094         0 1195.9  15.0   2   2  6.2e-242  6.2e-242  794.1   3.8   559  1094   204   757   189   757 0.92 <unknown description>
+198185at7147_7225_0:003474|ctg2:9691224-9691641|-   -            140 198185               -           1094   4.7e-98  317.7   3.2   1   1   5.1e-98   5.1e-98  317.6   3.2   337   475     1   139     1   140 0.99 <unknown description>
+198185at7147_329112_0:003e5b|ctg2:9692082-9692619|- -            180 198185               -           1094   1.5e-94  306.1   0.2   1   1   1.6e-94   1.6e-94  306.0   0.2    10   190     1   180     1   180 0.99 <unknown description>
+198185at7147_7160_0:003bd2|ctg2:9689100-9689370|-   -             91 198185               -           1094   8.9e-29   88.3   8.9   1   1   9.7e-29   9.7e-29   88.2   8.9   994  1074     1    82     1    91 0.75 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/198185at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/198185at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/198185at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/198185at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/198185at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:12 2025
+# [ok]

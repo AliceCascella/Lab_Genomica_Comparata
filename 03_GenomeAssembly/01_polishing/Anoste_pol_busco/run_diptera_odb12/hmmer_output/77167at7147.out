@@ -1,0 +1,20 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+77167at7147_30069_0:0005ef|ctg2:8378478-8381146|- -            863 77167                -            307   5.2e-65  208.3  26.1   1   7   2.3e-14   1.6e-13   39.2   0.1     3    39    19    55    17    62 0.86 <unknown description>
+77167at7147_30069_0:0005ef|ctg2:8378478-8381146|- -            863 77167                -            307   5.2e-65  208.3  26.1   2   7    0.0099     0.069    0.9   0.3    30    58    85   113    81   148 0.69 <unknown description>
+77167at7147_30069_0:0005ef|ctg2:8378478-8381146|- -            863 77167                -            307   5.2e-65  208.3  26.1   3   7     0.078      0.55   -2.0   0.9    38    91   179   232   166   302 0.66 <unknown description>
+77167at7147_30069_0:0005ef|ctg2:8378478-8381146|- -            863 77167                -            307   5.2e-65  208.3  26.1   4   7   1.4e-07     1e-06   16.8   1.9    36   117   353   427   343   466 0.69 <unknown description>
+77167at7147_30069_0:0005ef|ctg2:8378478-8381146|- -            863 77167                -            307   5.2e-65  208.3  26.1   5   7      0.02      0.14   -0.1   0.2    68   111   483   524   447   529 0.68 <unknown description>
+77167at7147_30069_0:0005ef|ctg2:8378478-8381146|- -            863 77167                -            307   5.2e-65  208.3  26.1   6   7   0.00021    0.0014    6.5   0.0   113   150   576   614   566   628 0.76 <unknown description>
+77167at7147_30069_0:0005ef|ctg2:8378478-8381146|- -            863 77167                -            307   5.2e-65  208.3  26.1   7   7   1.7e-50   1.2e-49  157.8   0.0   154   305   673   835   650   837 0.88 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/77167at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/77167at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/77167at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/77167at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/77167at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:45 2025
+# [ok]

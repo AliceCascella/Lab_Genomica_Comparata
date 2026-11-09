@@ -1,0 +1,16 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+74048at7147_30069_0:000224|ctg5:5993521-5999780|+  -           1344 74048                -            479  2.9e-293  960.1   0.9   1   2   6.4e-15   9.6e-15   41.6   0.0     1    34   147   180   147   184 0.97 <unknown description>
+74048at7147_30069_0:000224|ctg5:5993521-5999780|+  -           1344 74048                -            479  2.9e-293  960.1   0.9   2   2    2e-280    3e-280  917.1   0.3    22   479   192   661   182   661 0.94 <unknown description>
+74048at7147_139045_0:002dd0|ctg5:5993527-5998435|+ -            820 74048                -            479  8.3e-282  922.3   0.3   1   1  7.5e-282  1.1e-281  921.9   0.3     1   448   145   603   145   619 0.95 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/74048at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/74048at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/74048at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/74048at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/74048at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:36 2025
+# [ok]

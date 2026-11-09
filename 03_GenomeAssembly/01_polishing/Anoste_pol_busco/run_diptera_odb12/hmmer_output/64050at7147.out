@@ -1,0 +1,28 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+64050at7147_30069_0:000cbe|ctg13:2523854-2530121|-  -           1729 64050                -           1327         0 2705.1  15.8   1   6         0         0 1375.6   0.0     1   763     1   811     1   820 0.91 <unknown description>
+64050at7147_30069_0:000cbe|ctg13:2523854-2530121|-  -           1729 64050                -           1327         0 2705.1  15.8   2   6   6.8e-18   6.8e-18   50.8   0.1   706   764   824   882   814   891 0.91 <unknown description>
+64050at7147_30069_0:000cbe|ctg13:2523854-2530121|-  -           1729 64050                -           1327         0 2705.1  15.8   3   6   1.5e-18   1.5e-18   53.0   0.1   702   767   887   952   879   957 0.90 <unknown description>
+64050at7147_30069_0:000cbe|ctg13:2523854-2530121|-  -           1729 64050                -           1327         0 2705.1  15.8   4   6   3.8e-18   3.8e-18   51.6   0.1   704   767   971  1035   955  1040 0.86 <unknown description>
+64050at7147_30069_0:000cbe|ctg13:2523854-2530121|-  -           1729 64050                -           1327         0 2705.1  15.8   5   6   6.6e-19   6.6e-19   54.1   0.0   699   765  1039  1105  1031  1116 0.86 <unknown description>
+64050at7147_30069_0:000cbe|ctg13:2523854-2530121|-  -           1729 64050                -           1327         0 2705.1  15.8   6   6         0         0 1119.3   1.9   696  1327  1113  1728  1106  1728 0.93 <unknown description>
+64050at7147_139045_0:0029a4|ctg13:2523854-2540100|- -           2298 64050                -           1327         0 2206.5  47.7   1   8         3         3  -14.8  13.3   740   778   255   294   165   447 0.57 <unknown description>
+64050at7147_139045_0:0029a4|ctg13:2523854-2540100|- -           2298 64050                -           1327         0 2206.5  47.7   2   8       0.4       0.4   -4.8   2.6   696   789   418   508   332   544 0.57 <unknown description>
+64050at7147_139045_0:0029a4|ctg13:2523854-2540100|- -           2298 64050                -           1327         0 2206.5  47.7   3   8  4.9e-277  4.9e-277  909.3   0.7   279   763   870  1380   857  1389 0.92 <unknown description>
+64050at7147_139045_0:0029a4|ctg13:2523854-2540100|- -           2298 64050                -           1327         0 2206.5  47.7   4   8   1.1e-17   1.1e-17   50.1   0.1   706   764  1393  1451  1384  1458 0.91 <unknown description>
+64050at7147_139045_0:0029a4|ctg13:2523854-2540100|- -           2298 64050                -           1327         0 2206.5  47.7   5   8   1.9e-18   1.9e-18   52.6   0.1   702   767  1456  1521  1448  1529 0.90 <unknown description>
+64050at7147_139045_0:0029a4|ctg13:2523854-2540100|- -           2298 64050                -           1327         0 2206.5  47.7   6   8   5.3e-18   5.3e-18   51.1   0.1   704   767  1540  1604  1524  1609 0.86 <unknown description>
+64050at7147_139045_0:0029a4|ctg13:2523854-2540100|- -           2298 64050                -           1327         0 2206.5  47.7   7   8     9e-19     9e-19   53.7   0.0   699   765  1608  1674  1600  1685 0.86 <unknown description>
+64050at7147_139045_0:0029a4|ctg13:2523854-2540100|- -           2298 64050                -           1327         0 2206.5  47.7   8   8         0         0 1118.5   1.9   696  1327  1682  2297  1675  2297 0.93 <unknown description>
+64050at7147_139649_0:002ff0|ctg13:2523854-2525782|- -            609 64050                -           1327         0 1129.0   1.8   1   1         0         0 1121.9   1.8   707  1327     4   608     1   608 0.94 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/64050at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/64050at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/64050at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/64050at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/64050at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:38 2025
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+289612at7147_1496333_0:0003b1|ctg5:12906919-12928377|+ -            772 289612               -            474  2.4e-215  703.5  44.4   1   5    1e-177    1e-177  579.4   5.5     4   296   102   405    98   419 0.93 <unknown description>
+289612at7147_1496333_0:0003b1|ctg5:12906919-12928377|+ -            772 289612               -            474  2.4e-215  703.5  44.4   2   5   3.4e-21   3.4e-21   63.3   4.7   299   364   437   507   419   510 0.81 <unknown description>
+289612at7147_1496333_0:0003b1|ctg5:12906919-12928377|+ -            772 289612               -            474  2.4e-215  703.5  44.4   3   5   3.9e-16   3.9e-16   46.6   5.4   349   397   554   603   545   620 0.73 <unknown description>
+289612at7147_1496333_0:0003b1|ctg5:12906919-12928377|+ -            772 289612               -            474  2.4e-215  703.5  44.4   4   5   1.9e-05   1.9e-05   11.4   0.5   392   422   635   666   622   674 0.72 <unknown description>
+289612at7147_1496333_0:0003b1|ctg5:12906919-12928377|+ -            772 289612               -            474  2.4e-215  703.5  44.4   5   5   3.1e-09   3.1e-09   23.9   0.7   383   474   670   771   664   771 0.70 <unknown description>
+289612at7147_30069_0:0003f9|ctg5:12901396-12928377|+   -            797 289612               -            474  2.6e-212  693.5  45.4   1   5    9e-175    9e-175  569.7   6.5     4   296   123   430   119   443 0.93 <unknown description>
+289612at7147_30069_0:0003f9|ctg5:12901396-12928377|+   -            797 289612               -            474  2.6e-212  693.5  45.4   2   5   3.9e-21   3.9e-21   63.1   4.9   299   364   462   532   444   535 0.81 <unknown description>
+289612at7147_30069_0:0003f9|ctg5:12901396-12928377|+   -            797 289612               -            474  2.6e-212  693.5  45.4   3   5   4.2e-16   4.2e-16   46.5   5.5   349   397   579   628   570   645 0.73 <unknown description>
+289612at7147_30069_0:0003f9|ctg5:12901396-12928377|+   -            797 289612               -            474  2.6e-212  693.5  45.4   4   5     2e-05     2e-05   11.3   0.5   392   422   660   691   647   699 0.72 <unknown description>
+289612at7147_30069_0:0003f9|ctg5:12901396-12928377|+   -            797 289612               -            474  2.6e-212  693.5  45.4   5   5   3.2e-09   3.2e-09   23.9   0.6   383   474   695   796   689   796 0.70 <unknown description>
+289612at7147_139649_0:001ad1|ctg5:12914370-12928377|+  -            496 289612               -            474  4.7e-130  422.3  40.5   1   4   4.6e-86   4.6e-86  277.2   8.5   136   296     4   169     2   182 0.92 <unknown description>
+289612at7147_139649_0:001ad1|ctg5:12914370-12928377|+  -            496 289612               -            474  4.7e-130  422.3  40.5   2   4   9.5e-20   9.5e-20   58.5   3.7   299   362   201   269   182   275 0.77 <unknown description>
+289612at7147_139649_0:001ad1|ctg5:12914370-12928377|+  -            496 289612               -            474  4.7e-130  422.3  40.5   3   4   1.3e-22   1.3e-22   68.0   8.7   349   423   318   400   311   408 0.72 <unknown description>
+289612at7147_139649_0:001ad1|ctg5:12914370-12928377|+  -            496 289612               -            474  4.7e-130  422.3  40.5   4   4   4.4e-12   4.4e-12   33.3   0.2   383   474   403   495   399   495 0.77 <unknown description>
+289612at7147_68878_0:0000bf|ctg5:12926902-12928377|+   -            465 289612               -            474   3.8e-80  257.7  47.1   1   5   8.7e-42   8.7e-42  131.2   6.7   205   296     8    98     2   111 0.90 <unknown description>
+289612at7147_68878_0:0000bf|ctg5:12926902-12928377|+   -            465 289612               -            474   3.8e-80  257.7  47.1   2   5   2.2e-21   2.2e-21   63.9   5.1   299   364   130   200   111   203 0.81 <unknown description>
+289612at7147_68878_0:0000bf|ctg5:12926902-12928377|+   -            465 289612               -            474   3.8e-80  257.7  47.1   3   5   2.3e-16   2.3e-16   47.4   5.6   349   397   247   296   239   312 0.73 <unknown description>
+289612at7147_68878_0:0000bf|ctg5:12926902-12928377|+   -            465 289612               -            474   3.8e-80  257.7  47.1   4   5   1.2e-05   1.2e-05   12.1   0.6   393   422   329   359   320   367 0.71 <unknown description>
+289612at7147_68878_0:0000bf|ctg5:12926902-12928377|+   -            465 289612               -            474   3.8e-80  257.7  47.1   5   5   1.8e-09   1.8e-09   24.7   0.9   383   474   363   464   358   464 0.70 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/289612at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/289612at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/289612at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/289612at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/289612at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:10 2025
+# [ok]

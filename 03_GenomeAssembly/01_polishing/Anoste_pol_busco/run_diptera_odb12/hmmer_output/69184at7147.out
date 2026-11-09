@@ -1,0 +1,27 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+69184at7147_30069_0:0029c4|ctg9:3276478-3278982|-   -            802 69184                -            631  1.4e-267  877.1  19.8   1   5  2.2e-247  2.2e-247  810.4   0.2     1   449     1   456     1   463 0.96 <unknown description>
+69184at7147_30069_0:0029c4|ctg9:3276478-3278982|-   -            802 69184                -            631  1.4e-267  877.1  19.8   2   5   1.4e-06   1.4e-06   14.8   0.2   443   487   477   523   472   551 0.73 <unknown description>
+69184at7147_30069_0:0029c4|ctg9:3276478-3278982|-   -            802 69184                -            631  1.4e-267  877.1  19.8   3   5   1.4e-08   1.4e-08   21.5   0.1   504   534   572   604   535   615 0.75 <unknown description>
+69184at7147_30069_0:0029c4|ctg9:3276478-3278982|-   -            802 69184                -            631  1.4e-267  877.1  19.8   4   5   5.8e-15   5.8e-15   42.6   1.1   536   607   639   716   635   738 0.75 <unknown description>
+69184at7147_30069_0:0029c4|ctg9:3276478-3278982|-   -            802 69184                -            631  1.4e-267  877.1  19.8   5   5      0.21      0.21   -2.3   0.4   607   629   772   794   759   796 0.69 <unknown description>
+69184at7147_7396_0:0020f2|ctg9:3270105-3278839|-    -            802 69184                -            631    1e-266  874.2  13.8   1   4  5.7e-245  5.7e-245  802.4   0.3    16   449     3   442     1   449 0.97 <unknown description>
+69184at7147_7396_0:0020f2|ctg9:3270105-3278839|-    -            802 69184                -            631    1e-266  874.2  13.8   2   4   1.4e-06   1.4e-06   14.8   0.2   443   487   463   509   458   537 0.73 <unknown description>
+69184at7147_7396_0:0020f2|ctg9:3270105-3278839|-    -            802 69184                -            631    1e-266  874.2  13.8   3   4   1.4e-08   1.4e-08   21.5   0.1   504   534   558   590   521   601 0.75 <unknown description>
+69184at7147_7396_0:0020f2|ctg9:3270105-3278839|-    -            802 69184                -            631    1e-266  874.2  13.8   4   4   5.8e-15   5.8e-15   42.6   1.1   536   607   625   702   621   724 0.75 <unknown description>
+69184at7147_2530218_0:001f7e|ctg9:3276904-3278833|- -            644 69184                -            631  5.2e-261  855.4  13.8   1   4  4.4e-245  4.4e-245  802.8   0.3    17   449     2   440     1   447 0.97 <unknown description>
+69184at7147_2530218_0:001f7e|ctg9:3276904-3278833|- -            644 69184                -            631  5.2e-261  855.4  13.8   2   4     1e-06     1e-06   15.3   0.2   443   488   461   508   456   541 0.73 <unknown description>
+69184at7147_2530218_0:001f7e|ctg9:3276904-3278833|- -            644 69184                -            631  5.2e-261  855.4  13.8   3   4     1e-08     1e-08   21.9   0.1   504   534   556   588   519   599 0.74 <unknown description>
+69184at7147_2530218_0:001f7e|ctg9:3276904-3278833|- -            644 69184                -            631  5.2e-261  855.4  13.8   4   4     5e-09     5e-09   22.9   0.8   536   556   623   643   619   644 0.92 <unknown description>
+69184at7147_68878_0:000b1c|ctg9:3277639-3278982|-   -            415 69184                -            631  1.3e-237  778.1   0.4   1   1  1.4e-237  1.4e-237  777.9   0.4     1   410     1   415     1   415 0.97 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/69184at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/69184at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/69184at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/69184at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/69184at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:41 2025
+# [ok]

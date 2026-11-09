@@ -1,0 +1,24 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+75933at7147_30069_0:0021f5|ctg12:3073452-3086009|+ -           1518 75933                -           1251         0 1236.3  20.3   1   4   1.2e-05   1.2e-05   10.9   0.0    30    72     4    46     1    72 0.74 <unknown description>
+75933at7147_30069_0:0021f5|ctg12:3073452-3086009|+ -           1518 75933                -           1251         0 1236.3  20.3   2   4   8.5e-05   8.5e-05    8.1   0.1   123   194   227   298   169   310 0.66 <unknown description>
+75933at7147_30069_0:0021f5|ctg12:3073452-3086009|+ -           1518 75933                -           1251         0 1236.3  20.3   3   4         0         0 1115.1  16.3   197  1142   368  1371   307  1376 0.85 <unknown description>
+75933at7147_30069_0:0021f5|ctg12:3073452-3086009|+ -           1518 75933                -           1251         0 1236.3  20.3   4   4   1.5e-29   1.5e-29   90.1   0.0  1139  1250  1398  1516  1384  1517 0.91 <unknown description>
+75933at7147_53552_0:002808|ctg12:3076371-3086009|+ -           1425 75933                -           1251         0 1222.9  20.4   1   4   7.9e-05   7.9e-05    8.2   0.1   123   194   134   205    76   217 0.66 <unknown description>
+75933at7147_53552_0:002808|ctg12:3076371-3086009|+ -           1425 75933                -           1251         0 1222.9  20.4   2   4   1.2e-13   1.2e-13   37.5   1.6   196   289   274   359   213   371 0.73 <unknown description>
+75933at7147_53552_0:002808|ctg12:3076371-3086009|+ -           1425 75933                -           1251         0 1222.9  20.4   3   4         0         0 1093.4  10.7   251  1142   351  1278   345  1283 0.90 <unknown description>
+75933at7147_53552_0:002808|ctg12:3076371-3086009|+ -           1425 75933                -           1251         0 1222.9  20.4   4   4   1.4e-29   1.4e-29   90.2   0.0  1139  1250  1305  1423  1291  1424 0.91 <unknown description>
+75933at7147_7160_0:0008a7|ctg12:3076638-3078873|+  -            652 75933                -           1251  9.1e-158  514.8  13.9   1   3   3.9e-05   3.9e-05    9.2   0.0   126   194    48   116    25   127 0.61 <unknown description>
+75933at7147_7160_0:0008a7|ctg12:3076638-3078873|+  -            652 75933                -           1251  9.1e-158  514.8  13.9   2   3   4.7e-14   4.7e-14   38.8   2.5   195   291   184   272   115   291 0.70 <unknown description>
+75933at7147_7160_0:0008a7|ctg12:3076638-3078873|+  -            652 75933                -           1251  9.1e-158  514.8  13.9   3   3  2.1e-145  2.1e-145  473.9   4.3   253   633   264   648   260   652 0.91 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/75933at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/75933at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/75933at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/75933at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/75933at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:30 2025
+# [ok]

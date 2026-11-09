@@ -1,0 +1,68 @@
+# Large sequencing and alignment files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+
+# Large genome assemblies
+*.fasta
+*.fasta.gz
+*.fna
+*.fna.gz
+
+# OrthoFinder intermediate results
+05_OG.Inference_Phylogenomic/OrthoFinder/
+
+# BMGE trimming outputs
+08_GeneAnnotation_Functional_Enrichment/01_trimmed/
+
+# Temporary files
+*.tmp
+*.swp
+.DS_Store
+
+# Genome assembly intermediate files
+*.mx
+*.bam
+*.bai
+
+# Quality control archives
+*.zip
+
+# BUSCO temporary files
+**/tmp/
+**/busco_downloads/
+
+# Genome annotations and large sequence files
+*.gff
+*.gff3
+*.fa
+*.faa
+
+# Large assembly intermediate files
+*.ctg.lay.gz
+*.alignments.gz
+*.nodes
+*.reads
+*.dot.gz
+
+# BUSCO intermediate outputs
+**/miniprot_output/
+**/logs/
+
+# FastQC generated directories
+*_fastqc/
+
+# Old protein sequence backups
+*.faa.old
+
+# Generated sequence indexes
+*.index
+
+# Genome assembly intermediate files
+*.clps
+*.events
+*.binkmer

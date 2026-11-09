@@ -1,0 +1,20 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+71559at7147_343691_0:002b5c|ctg18:2642359-2644132|+ -            592 71559                -            529  2.9e-278  912.2   0.0   1   1  3.6e-278  3.6e-278  911.9   0.0     1   468     7   488     7   519 0.95 <unknown description>
+71559at7147_68878_0:001728|ctg18:2637222-2644621|+  -            773 71559                -            529    3e-278  912.2   1.2   1   2  8.6e-278  8.6e-278  910.7   0.0     1   468    56   537    56   566 0.95 <unknown description>
+71559at7147_68878_0:001728|ctg18:2637222-2644621|+  -            773 71559                -            529    3e-278  912.2   1.2   2   2      0.13      0.13   -0.7   1.0   457   509   671   724   643   740 0.63 <unknown description>
+71559at7147_30069_0:002a5a|ctg18:2642113-2644621|+  -            816 71559                -            529  4.1e-278  911.7   0.5   1   2    1e-277    1e-277  910.5   0.0     1   468    68   549    68   578 0.95 <unknown description>
+71559at7147_30069_0:002a5a|ctg18:2642113-2644621|+  -            816 71559                -            529  4.1e-278  911.7   0.5   2   2      0.24      0.24   -1.5   0.4   461   508   718   766   676   781 0.66 <unknown description>
+71559at7147_265458_0:0023ab|ctg18:2642359-2643754|+ -            466 71559                -            529  3.7e-276  905.3   0.0   1   1  4.2e-276  4.2e-276  905.1   0.0     1   447     7   466     7   466 0.97 <unknown description>
+71559at7147_42839_0:000986|ctg18:2642335-2643151|+  -            273 71559                -            529  2.1e-158  516.7   0.0   1   1  2.4e-158  2.4e-158  516.5   0.0     1   255    15   273    15   273 0.99 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/71559at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/71559at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/71559at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/71559at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/71559at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:43 2025
+# [ok]

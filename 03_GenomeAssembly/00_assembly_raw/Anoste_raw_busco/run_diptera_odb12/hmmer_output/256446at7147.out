@@ -1,0 +1,21 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+256446at7147_290404_0:000f7c|ctg3:2239938-2250169|+ -            882 256446               -            876  1.5e-299  984.4   2.5   1   2  3.3e-263  3.3e-263  864.1   0.5     1   545     2   566     2   580 0.92 <unknown description>
+256446at7147_290404_0:000f7c|ctg3:2239938-2250169|+ -            882 256446               -            876  1.5e-299  984.4   2.5   2   2   2.3e-38   2.3e-38  120.2   0.1   601   849   582   843   574   869 0.70 <unknown description>
+256446at7147_343691_0:002793|ctg3:2239941-2255998|+ -            868 256446               -            876  1.9e-299  984.0   1.6   1   2  3.6e-263  3.6e-263  864.0   0.5     1   545     1   565     1   573 0.93 <unknown description>
+256446at7147_343691_0:002793|ctg3:2239941-2255998|+ -            868 256446               -            876  1.9e-299  984.0   1.6   2   2   5.1e-38   5.1e-38  119.1   0.0   601   836   581   830   569   867 0.69 <unknown description>
+256446at7147_30069_0:000e44|ctg3:2239941-2246531|+  -            879 256446               -            876  6.1e-299  982.4   2.1   1   2  3.6e-263  3.6e-263  864.0   0.5     1   545     1   565     1   574 0.93 <unknown description>
+256446at7147_30069_0:000e44|ctg3:2239941-2246531|+  -            879 256446               -            876  6.1e-299  982.4   2.1   2   2   1.2e-37   1.2e-37  117.8   0.0   601   826   581   821   572   837 0.72 <unknown description>
+256446at7147_7159_0:002cff|ctg3:2243698-2246507|+   -            749 256446               -            876  3.2e-227  745.1   0.4   1   2  5.9e-191  5.9e-191  625.1   0.0   123   545     1   443     1   454 0.90 <unknown description>
+256446at7147_7159_0:002cff|ctg3:2243698-2246507|+   -            749 256446               -            876  3.2e-227  745.1   0.4   2   2     9e-38     9e-38  118.2   0.0   601   826   459   699   451   715 0.72 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/256446at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/256446at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/256446at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/256446at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/256446at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:08 2025
+# [ok]

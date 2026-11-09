@@ -1,0 +1,20 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+341602at7147_13632_0:000429|ctg9:5384361-5403349|-    -            614 341602               -            758   6.3e-07   17.9  25.3   1   6      0.58       4.6   -4.8   6.6   699   736    19    56     8    60 0.66 <unknown description>
+341602at7147_13632_0:000429|ctg9:5384361-5403349|-    -            614 341602               -            758   6.3e-07   17.9  25.3   2   6       1.3        10   -6.0   7.1   698   729    63    94    46   120 0.51 <unknown description>
+341602at7147_13632_0:000429|ctg9:5384361-5403349|-    -            614 341602               -            758   6.3e-07   17.9  25.3   3   6         2        16  -17.1  26.7   553   706   147   298   105   322 0.55 <unknown description>
+341602at7147_13632_0:000429|ctg9:5384361-5403349|-    -            614 341602               -            758   6.3e-07   17.9  25.3   4   6   7.9e-08   6.3e-07   17.9  25.3   378   439   343   406   328   443 0.73 <unknown description>
+341602at7147_13632_0:000429|ctg9:5384361-5403349|-    -            614 341602               -            758   6.3e-07   17.9  25.3   5   6         2        16   -6.9  15.9   351   412   480   538   472   547 0.68 <unknown description>
+341602at7147_13632_0:000429|ctg9:5384361-5403349|-    -            614 341602               -            758   6.3e-07   17.9  25.3   6   6      0.16       1.3   -2.9   9.5   369   411   575   602   549   613 0.48 <unknown description>
+341602at7147_7200_0:001f5f|ctg3:11005527-11005810|+   -             95 341602               -            758    0.0011    7.1  23.4   1   1   0.00014    0.0011    7.1  23.4   393   468    17    92     2    95 0.74 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/341602at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/341602at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/341602at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/341602at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/341602at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:25 2025
+# [ok]

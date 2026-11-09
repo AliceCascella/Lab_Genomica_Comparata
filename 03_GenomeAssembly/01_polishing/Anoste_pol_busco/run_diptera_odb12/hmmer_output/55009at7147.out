@@ -1,0 +1,22 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+55009at7147_30069_0:001f0e|ctg6:129306-131123|-  -            496 55009                -            353  3.9e-146  475.4   0.2   1   1  4.1e-146  4.9e-146  475.1   0.2     7   352    97   455    92   456 0.94 <unknown description>
+55009at7147_174621_0:000e04|ctg6:129405-134422|- -            465 55009                -            353  2.8e-139  452.9   6.3   1   2   1.8e-42   2.2e-42  134.2   0.0     7   131    68   199    63   212 0.87 <unknown description>
+55009at7147_174621_0:000e04|ctg6:129405-134422|- -            465 55009                -            353  2.8e-139  452.9   6.3   2   2   8.3e-99   9.9e-99  319.5   3.5   128   352   226   457   219   458 0.94 <unknown description>
+55009at7147_290404_0:001230|ctg6:129414-152618|- -            532 55009                -            353  4.9e-139  452.1   6.3   1   2   2.3e-42   2.8e-42  133.8   0.0     7   131   138   269   133   282 0.87 <unknown description>
+55009at7147_290404_0:001230|ctg6:129414-152618|- -            532 55009                -            353  4.9e-139  452.1   6.3   2   2   1.2e-98   1.4e-98  319.0   3.5   128   352   296   527   289   528 0.94 <unknown description>
+55009at7147_7159_0:0000d2|ctg6:129423-139833|-   -            435 55009                -            353  1.7e-138  450.3   7.4   1   2   6.4e-42   7.7e-42  132.4   0.1    12   131    49   175    40   188 0.87 <unknown description>
+55009at7147_7159_0:0000d2|ctg6:129423-139833|-   -            435 55009                -            353  1.7e-138  450.3   7.4   2   2     7e-99   8.4e-99  319.8   3.5   128   352   202   433   195   434 0.94 <unknown description>
+55009at7147_53552_0:000740|ctg6:129408-130802|-  -            386 55009                -            353  1.3e-137  447.4   6.8   1   2   8.7e-41     1e-40  128.7   0.1    18   131     1   121     1   134 0.88 <unknown description>
+55009at7147_53552_0:000740|ctg6:129408-130802|-  -            386 55009                -            353  1.3e-137  447.4   6.8   2   2     5e-99     6e-99  320.2   3.5   128   352   148   379   141   380 0.94 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/55009at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/55009at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/55009at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/55009at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/55009at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:31 2025
+# [ok]

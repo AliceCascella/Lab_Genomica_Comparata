@@ -1,0 +1,20 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+64887at7147_30069_0:001054|ctg3:2717656-2718937|-  -            357 64887                -            246  3.6e-113  365.1   4.6   1   2   2.8e-90   2.8e-90  290.2   0.8     2   167     6   173     5   197 0.93 <unknown description>
+64887at7147_30069_0:001054|ctg3:2717656-2718937|-  -            357 64887                -            246  3.6e-113  365.1   4.6   2   2   3.9e-25   3.9e-25   76.8   0.2   142   243   223   336   213   339 0.75 <unknown description>
+64887at7147_104688_0:0030c3|ctg3:2716878-2718910|- -            310 64887                -            246  1.2e-110  356.9   0.0   1   1  1.5e-110  1.5e-110  356.5   0.0     6   243     1   249     1   252 0.89 <unknown description>
+64887at7147_7274_0:002ead|ctg3:2716322-2718910|-   -            306 64887                -            246  5.3e-107  344.9   9.5   1   2   5.2e-83   5.2e-83  266.3   0.9     6   142     1   137     1   150 0.98 <unknown description>
+64887at7147_7274_0:002ead|ctg3:2716322-2718910|-   -            306 64887                -            246  5.3e-107  344.9   9.5   2   2   6.2e-27   6.2e-27   82.7   2.2   140   243   158   279   147   282 0.74 <unknown description>
+64887at7147_68878_0:001d1f|ctg3:2717662-2718674|-  -            292 64887                -            246   8.1e-76  242.8   6.3   1   2   5.6e-53   5.6e-53  168.0   1.7    60   167     1   110     1   134 0.90 <unknown description>
+64887at7147_68878_0:001d1f|ctg3:2717662-2718674|-  -            292 64887                -            246   8.1e-76  242.8   6.3   2   2   2.5e-25   2.5e-25   77.4   0.2   141   243   159   273   150   276 0.75 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/64887at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/64887at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/64887at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/64887at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/64887at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:41 2025
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+33480at7147_1521116_0:0023b8|ctg4:1630953-1672324|+ -            417 33480                -            301  4.1e-204  665.2   0.1   1   1  4.9e-204  4.9e-204  665.0   0.1     1   301    20   322    20   322 1.00 <unknown description>
+33480at7147_139047_0:0012fa|ctg4:1612011-1672300|+  -            440 33480                -            301  4.8e-204  665.0   0.1   1   1  5.8e-204  5.8e-204  664.7   0.1     1   301    51   353    51   353 1.00 <unknown description>
+33480at7147_30069_0:0028a3|ctg4:1587925-1672327|+   -            440 33480                -            301  4.8e-204  665.0   0.1   1   1  5.8e-204  5.8e-204  664.7   0.1     1   301    42   344    42   344 1.00 <unknown description>
+33480at7147_42026_0:000ac4|ctg4:1632599-1656009|+   -            254 33480                -            301  4.1e-173  563.4   0.8   1   1  4.6e-173  4.6e-173  563.3   0.8     1   242    12   253    12   254 1.00 <unknown description>
+33480at7147_68878_0:0029c2|ctg4:1652767-1656009|+   -            211 33480                -            301  1.5e-153  499.2   2.1   1   1  1.7e-153  1.7e-153  499.0   2.1    33   242     1   210     1   211 1.00 <unknown description>
+33480at7147_7160_0:003acb|ctg4:1652917-1672207|+    -            277 33480                -            301  3.8e-145  471.6   0.1   1   1  4.4e-145  4.4e-145  471.4   0.1    83   301     1   221     1   221 1.00 <unknown description>
+33480at7147_42026_0:00342c|ctg4:1664078-1672207|+   -            101 33480                -            301   1.5e-15   46.1   0.0   1   1   1.8e-15   1.8e-15   45.8   0.0   264   301     1    40     1    40 0.97 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/33480at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/33480at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/33480at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/33480at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/33480at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:21 2025
+# [ok]

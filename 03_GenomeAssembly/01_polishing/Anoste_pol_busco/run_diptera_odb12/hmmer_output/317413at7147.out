@@ -1,0 +1,21 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+317413at7147_30069_0:002bb3|ctg6:375114-378961|+ -           1215 317413               -            289   2.2e-82  264.4  28.1   1   4   1.5e-41   2.9e-41  129.4   2.1     4   124     9   139     6   143 0.81 <unknown description>
+317413at7147_30069_0:002bb3|ctg6:375114-378961|+ -           1215 317413               -            289   2.2e-82  264.4  28.1   2   4     3e-46   5.9e-46  144.8  11.3    91   240   169   329   160   342 0.86 <unknown description>
+317413at7147_30069_0:002bb3|ctg6:375114-378961|+ -           1215 317413               -            289   2.2e-82  264.4  28.1   3   4      0.57       1.1   -3.8   0.0   268   282   660   674   634   678 0.62 <unknown description>
+317413at7147_30069_0:002bb3|ctg6:375114-378961|+ -           1215 317413               -            289   2.2e-82  264.4  28.1   4   4     0.059      0.12   -0.5   0.2   248   282   737   771   724   778 0.79 <unknown description>
+317413at7147_28588_0:0003b9|ctg6:375138-391040|+ -           1028 317413               -            289   1.4e-79  255.2  26.5   1   4   1.5e-40   2.9e-40  126.1   2.5     5    93     2    98     1   106 0.88 <unknown description>
+317413at7147_28588_0:0003b9|ctg6:375138-391040|+ -           1028 317413               -            289   1.4e-79  255.2  26.5   2   4   4.3e-44   8.7e-44  137.7  10.2    91   240   183   330   174   343 0.89 <unknown description>
+317413at7147_28588_0:0003b9|ctg6:375138-391040|+ -           1028 317413               -            289   1.4e-79  255.2  26.5   3   4      0.47      0.95   -3.5   0.0   268   282   574   588   548   592 0.62 <unknown description>
+317413at7147_28588_0:0003b9|ctg6:375138-391040|+ -           1028 317413               -            289   1.4e-79  255.2  26.5   4   4     0.043     0.086   -0.1   0.1   249   283   652   686   638   709 0.81 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/317413at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/317413at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/317413at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/317413at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/317413at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:34 2025
+# [ok]

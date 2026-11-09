@@ -1,0 +1,32 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+45557at7147_139649_0:00429f|ctg4:24059474-24084920|+ -           1954 45557                -            955         0 1607.6  26.6   1   4   3.4e-58   3.4e-58  185.6   0.1     6   107   145   246   142   266 0.87 <unknown description>
+45557at7147_139649_0:00429f|ctg4:24059474-24084920|+ -           1954 45557                -            955         0 1607.6  26.6   2   4   9.4e-52   9.4e-52  164.3   9.0    93   257   393   567   386   596 0.74 <unknown description>
+45557at7147_139649_0:00429f|ctg4:24059474-24084920|+ -           1954 45557                -            955         0 1607.6  26.6   3   4  4.5e-256  4.5e-256  840.5   0.9   280   710   833  1281   822  1303 0.89 <unknown description>
+45557at7147_139649_0:00429f|ctg4:24059474-24084920|+ -           1954 45557                -            955         0 1607.6  26.6   4   4  2.1e-131  2.1e-131  427.9   0.2   693   944  1447  1701  1432  1705 0.93 <unknown description>
+45557at7147_104688_0:0020bf|ctg4:24072026-24102442|+ -           2086 45557                -            955         0 1603.3  19.9   1   4   3.7e-58   3.7e-58  185.5   0.1     6   107    83   184    80   204 0.87 <unknown description>
+45557at7147_104688_0:0020bf|ctg4:24072026-24102442|+ -           2086 45557                -            955         0 1603.3  19.9   2   4   7.7e-52   7.7e-52  164.6   4.0   135   257   385   516   334   545 0.73 <unknown description>
+45557at7147_104688_0:0020bf|ctg4:24072026-24102442|+ -           2086 45557                -            955         0 1603.3  19.9   3   4  1.8e-254  1.8e-254  835.2   0.2   280   689   782  1209   771  1229 0.94 <unknown description>
+45557at7147_104688_0:0020bf|ctg4:24072026-24102442|+ -           2086 45557                -            955         0 1603.3  19.9   4   4  2.6e-131  2.6e-131  427.6   0.2   693   944  1413  1667  1398  1670 0.93 <unknown description>
+45557at7147_30069_0:0021b3|ctg4:24071606-24084938|+  -           2256 45557                -            955         0 1598.7  26.1   1   4   4.1e-58   4.1e-58  185.3   0.1     6   107   194   295   191   315 0.87 <unknown description>
+45557at7147_30069_0:0021b3|ctg4:24071606-24084938|+  -           2256 45557                -            955         0 1598.7  26.1   2   4   1.6e-51   1.6e-51  163.5   7.9    88   257   508   684   500   713 0.72 <unknown description>
+45557at7147_30069_0:0021b3|ctg4:24071606-24084938|+  -           2256 45557                -            955         0 1598.7  26.1   3   4  6.1e-254  6.1e-254  833.5   0.9   280   718   950  1410   939  1422 0.91 <unknown description>
+45557at7147_30069_0:0021b3|ctg4:24071606-24084938|+  -           2256 45557                -            955         0 1598.7  26.1   4   4  2.9e-131  2.9e-131  427.4   0.2   693   944  1561  1815  1546  1818 0.93 <unknown description>
+45557at7147_265458_0:0039a4|ctg4:24072254-24078150|+ -           1213 45557                -            955         0 1583.2  26.6   1   4   1.9e-58   1.9e-58  186.4   0.1     6   107     7   108     4   128 0.87 <unknown description>
+45557at7147_265458_0:0039a4|ctg4:24072254-24078150|+ -           1213 45557                -            955         0 1583.2  26.6   2   4   9.1e-53   9.1e-53  167.6   4.8    88   253   165   337   157   391 0.73 <unknown description>
+45557at7147_265458_0:0039a4|ctg4:24072254-24078150|+ -           1213 45557                -            955         0 1583.2  26.6   3   4  3.4e-255  3.4e-255  837.6   0.1   280   690   416   844   405   870 0.92 <unknown description>
+45557at7147_265458_0:0039a4|ctg4:24072254-24078150|+ -           1213 45557                -            955         0 1583.2  26.6   4   4    2e-123    2e-123  401.5   5.6   722   944   955  1180   891  1184 0.96 <unknown description>
+45557at7147_329112_0:002943|ctg4:24073433-24077760|+ -            808 45557                -            955         0 1341.5  23.7   1   3  1.5e-211  1.5e-211  693.2   0.1   163   563     1   430     1   437 0.88 <unknown description>
+45557at7147_329112_0:002943|ctg4:24073433-24077760|+ -            808 45557                -            955         0 1341.5  23.7   2   3   2.6e-81   2.6e-81  262.1   5.2   557   688   447   581   445   588 0.95 <unknown description>
+45557at7147_329112_0:002943|ctg4:24073433-24077760|+ -            808 45557                -            955         0 1341.5  23.7   3   3  2.1e-121  2.1e-121  394.8   6.6   722   937   590   808   582   808 0.97 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/45557at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/45557at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/45557at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/45557at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/45557at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:33 2025
+# [ok]

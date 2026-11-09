@@ -1,0 +1,20 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+139357at7147_190385_0:001b4c|ctg4:23085263-23090950|+ -            932 139357               -            375   3.3e-97  313.1   6.8   1   3   2.4e-43   2.4e-43  135.9   0.1    35   174   469   612   435   619 0.77 <unknown description>
+139357at7147_190385_0:001b4c|ctg4:23085263-23090950|+ -            932 139357               -            375   3.3e-97  313.1   6.8   2   3   6.1e-54   6.1e-54  170.7   3.5   176   362   645   849   640   867 0.82 <unknown description>
+139357at7147_190385_0:001b4c|ctg4:23085263-23090950|+ -            932 139357               -            375   3.3e-97  313.1   6.8   3   3      0.39      0.39   -3.0   0.0   356   375   908   928   904   928 0.79 <unknown description>
+139357at7147_139045_0:0012b9|ctg4:23085190-23088362|+ -            957 139357               -            375   5.6e-97  312.4   7.6   1   2   2.5e-43   2.5e-43  135.9   0.1    35   174   493   636   459   643 0.77 <unknown description>
+139357at7147_139045_0:0012b9|ctg4:23085190-23088362|+ -            957 139357               -            375   5.6e-97  312.4   7.6   2   2   4.9e-54   4.9e-54  171.1   3.7   176   362   669   873   664   891 0.82 <unknown description>
+139357at7147_30069_0:002d50|ctg4:23084223-23088365|+  -           1252 139357               -            375   1.9e-96  310.6   7.5   1   2   3.7e-43   3.7e-43  135.3   0.1    37   174   789   930   754   937 0.77 <unknown description>
+139357at7147_30069_0:002d50|ctg4:23084223-23088365|+  -           1252 139357               -            375   1.9e-96  310.6   7.5   2   2   1.2e-53   1.2e-53  169.8   3.6   176   362   963  1167   958  1185 0.82 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/139357at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/139357at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/139357at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/139357at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/139357at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:24:56 2025
+# [ok]

@@ -1,0 +1,27 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+44053at7147_1496333_0:0006af|ctg2:18585001-18591964|- -           1213 44053                -            775  4.3e-251  822.9   0.0   1   4  7.1e-123  7.1e-123  398.9   0.0    20   362    54   454    54   463 0.79 <unknown description>
+44053at7147_1496333_0:0006af|ctg2:18585001-18591964|- -           1213 44053                -            775  4.3e-251  822.9   0.0   2   4   9.3e-48   9.3e-48  150.5   0.0   424   525   586   688   582   719 0.88 <unknown description>
+44053at7147_1496333_0:0006af|ctg2:18585001-18591964|- -           1213 44053                -            775  4.3e-251  822.9   0.0   3   4      0.15      0.15   -2.3   0.0   551   577   871   897   867   903 0.83 <unknown description>
+44053at7147_1496333_0:0006af|ctg2:18585001-18591964|- -           1213 44053                -            775  4.3e-251  822.9   0.0   4   4   2.4e-83   2.4e-83  268.2   0.0   575   770   928  1131   906  1136 0.88 <unknown description>
+44053at7147_263140_0:0001d5|ctg2:18575288-18593637|-  -           1211 44053                -            775  8.3e-245  802.2   0.0   1   4  1.3e-122  1.3e-122  398.1   0.0    13   362    40   447    29   456 0.78 <unknown description>
+44053at7147_263140_0:0001d5|ctg2:18575288-18593637|-  -           1211 44053                -            775  8.3e-245  802.2   0.0   2   4   6.6e-48   6.6e-48  151.0   0.0   424   529   579   685   575   698 0.89 <unknown description>
+44053at7147_263140_0:0001d5|ctg2:18575288-18593637|-  -           1211 44053                -            775  8.3e-245  802.2   0.0   3   4   2.9e-72   2.9e-72  231.6   0.0   571   738   919  1094   904  1102 0.85 <unknown description>
+44053at7147_263140_0:0001d5|ctg2:18575288-18593637|-  -           1211 44053                -            775  8.3e-245  802.2   0.0   4   4   8.3e-07   8.3e-07   15.1   0.0   741   770  1127  1156  1122  1161 0.88 <unknown description>
+44053at7147_30069_0:0009a2|ctg2:18585001-18588567|-   -           1143 44053                -            775  9.4e-242  792.1   0.0   1   4  4.7e-115  4.7e-115  373.1   0.0    35   362     2   386     1   394 0.78 <unknown description>
+44053at7147_30069_0:0009a2|ctg2:18585001-18588567|-   -           1143 44053                -            775  9.4e-242  792.1   0.0   2   4   8.6e-48   8.6e-48  150.6   0.0   424   525   518   620   514   651 0.88 <unknown description>
+44053at7147_30069_0:0009a2|ctg2:18585001-18588567|-   -           1143 44053                -            775  9.4e-242  792.1   0.0   3   4      0.13      0.13   -2.1   0.1   551   578   803   830   799   834 0.82 <unknown description>
+44053at7147_30069_0:0009a2|ctg2:18585001-18588567|-   -           1143 44053                -            775  9.4e-242  792.1   0.0   4   4   9.7e-82   9.7e-82  262.9   0.0   575   770   859  1061   841  1066 0.88 <unknown description>
+44053at7147_7396_0:0016cb|ctg2:18585459-18586990|-    -            278 44053                -            775  1.7e-114  371.2   0.2   1   2   3.4e-46   3.4e-46  145.4   0.1   425   518     1    94     1   111 0.91 <unknown description>
+44053at7147_7396_0:0016cb|ctg2:18585459-18586990|-    -            278 44053                -            775  1.7e-114  371.2   0.2   2   2   4.6e-70   4.6e-70  224.3   0.0   578   730   118   278   114   278 0.88 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/44053at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/44053at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/44053at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/44053at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/44053at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:31 2025
+# [ok]

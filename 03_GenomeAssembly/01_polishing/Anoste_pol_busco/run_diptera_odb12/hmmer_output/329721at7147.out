@@ -1,0 +1,30 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+329721at7147_30069_0:001df0|ctg6:5462057-5466145|+   -           1313 329721               -            496  2.9e-178  581.0  60.1   1   6     2e-55     2e-55  175.7  14.7     2   169   147   328   146   393 0.76 <unknown description>
+329721at7147_30069_0:001df0|ctg6:5462057-5466145|+   -           1313 329721               -            496  2.9e-178  581.0  60.1   2   6         3         3  -11.8  14.4   160   239   405   488   401   495 0.56 <unknown description>
+329721at7147_30069_0:001df0|ctg6:5462057-5466145|+   -           1313 329721               -            496  2.9e-178  581.0  60.1   3   6   3.8e-07   3.8e-07   16.5   0.0   143   172   689   718   674   768 0.79 <unknown description>
+329721at7147_30069_0:001df0|ctg6:5462057-5466145|+   -           1313 329721               -            496  2.9e-178  581.0  60.1   4   6   1.9e-51   1.9e-51  162.6   0.2   213   315   872   974   851   988 0.90 <unknown description>
+329721at7147_30069_0:001df0|ctg6:5462057-5466145|+   -           1313 329721               -            496  2.9e-178  581.0  60.1   5   6   7.4e-30   7.4e-30   91.4   1.5   301   393   994  1106   986  1110 0.79 <unknown description>
+329721at7147_30069_0:001df0|ctg6:5462057-5466145|+   -           1313 329721               -            496  2.9e-178  581.0  60.1   6   6   1.8e-51   1.8e-51  162.7   1.0   391   495  1149  1259  1144  1260 0.91 <unknown description>
+329721at7147_1496333_0:002511|ctg6:5454983-5466145|+ -           1332 329721               -            496  3.2e-178  580.8  60.1   1   6   2.1e-55   2.1e-55  175.7  14.7     2   169   166   347   165   412 0.76 <unknown description>
+329721at7147_1496333_0:002511|ctg6:5454983-5466145|+ -           1332 329721               -            496  3.2e-178  580.8  60.1   2   6         3         3  -11.9  14.4   160   239   424   507   420   514 0.56 <unknown description>
+329721at7147_1496333_0:002511|ctg6:5454983-5466145|+ -           1332 329721               -            496  3.2e-178  580.8  60.1   3   6   3.8e-07   3.8e-07   16.5   0.0   143   172   708   737   693   787 0.79 <unknown description>
+329721at7147_1496333_0:002511|ctg6:5454983-5466145|+ -           1332 329721               -            496  3.2e-178  580.8  60.1   4   6     2e-51     2e-51  162.6   0.2   213   315   891   993   870  1007 0.90 <unknown description>
+329721at7147_1496333_0:002511|ctg6:5454983-5466145|+ -           1332 329721               -            496  3.2e-178  580.8  60.1   5   6   7.5e-30   7.5e-30   91.4   1.5   301   393  1013  1125  1005  1129 0.79 <unknown description>
+329721at7147_1496333_0:002511|ctg6:5454983-5466145|+ -           1332 329721               -            496  3.2e-178  580.8  60.1   6   6   1.8e-51   1.8e-51  162.7   1.0   391   495  1168  1278  1163  1279 0.91 <unknown description>
+329721at7147_263140_0:0023cb|ctg6:5462529-5465727|+  -            958 329721               -            496  6.8e-149  484.1  57.2   1   5   1.1e-55   1.1e-55  176.6  14.6     2   169    15   196    14   262 0.76 <unknown description>
+329721at7147_263140_0:0023cb|ctg6:5462529-5465727|+  -            958 329721               -            496  6.8e-149  484.1  57.2   2   5         3         3  -11.3  14.4   160   239   273   356   269   363 0.56 <unknown description>
+329721at7147_263140_0:0023cb|ctg6:5462529-5465727|+  -            958 329721               -            496  6.8e-149  484.1  57.2   3   5   1.3e-51   1.3e-51  163.2   0.2   213   315   631   733   612   747 0.90 <unknown description>
+329721at7147_263140_0:0023cb|ctg6:5462529-5465727|+  -            958 329721               -            496  6.8e-149  484.1  57.2   4   5   4.8e-30   4.8e-30   92.1   1.5   301   393   753   865   745   869 0.79 <unknown description>
+329721at7147_263140_0:0023cb|ctg6:5462529-5465727|+  -            958 329721               -            496  6.8e-149  484.1  57.2   5   5   4.8e-26   4.8e-26   78.9   0.4   391   440   908   957   903   957 0.95 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/329721at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/329721at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/329721at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/329721at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/329721at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:34 2025
+# [ok]

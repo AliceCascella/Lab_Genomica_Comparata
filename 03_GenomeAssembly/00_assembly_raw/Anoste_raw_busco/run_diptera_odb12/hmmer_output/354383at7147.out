@@ -1,0 +1,35 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+354383at7147_35570_0:002796|ctg2:6258541-6285959|-  -           2177 354383               -            743  1.8e-232  761.1  86.2   1   9     4e-20     4e-20   59.0   0.1    40   127   496   583   473   588 0.84 <unknown description>
+354383at7147_35570_0:002796|ctg2:6258541-6285959|-  -           2177 354383               -            743  1.8e-232  761.1  86.2   2   9         3         3  -11.0   9.5   112   112   701   701   603   820 0.53 <unknown description>
+354383at7147_35570_0:002796|ctg2:6258541-6285959|-  -           2177 354383               -            743  1.8e-232  761.1  86.2   3   9   5.8e-10   5.8e-10   25.4   3.4   105   161  1012  1068  1007  1074 0.78 <unknown description>
+354383at7147_35570_0:002796|ctg2:6258541-6285959|-  -           2177 354383               -            743  1.8e-232  761.1  86.2   4   9     4e-09     4e-09   22.6   0.4   152   197  1107  1159  1095  1162 0.77 <unknown description>
+354383at7147_35570_0:002796|ctg2:6258541-6285959|-  -           2177 354383               -            743  1.8e-232  761.1  86.2   5   9   6.1e-59   6.1e-59  187.3   3.8   200   318  1222  1341  1210  1378 0.87 <unknown description>
+354383at7147_35570_0:002796|ctg2:6258541-6285959|-  -           2177 354383               -            743  1.8e-232  761.1  86.2   6   9   3.8e-43   3.8e-43  135.1   8.2   311   442  1384  1526  1371  1540 0.82 <unknown description>
+354383at7147_35570_0:002796|ctg2:6258541-6285959|-  -           2177 354383               -            743  1.8e-232  761.1  86.2   7   9   4.7e-75   4.7e-75  240.6   2.1   457   644  1638  1827  1626  1840 0.84 <unknown description>
+354383at7147_35570_0:002796|ctg2:6258541-6285959|-  -           2177 354383               -            743  1.8e-232  761.1  86.2   8   9     0.013     0.013    1.1   0.6   600   649  1887  1934  1850  1940 0.71 <unknown description>
+354383at7147_35570_0:002796|ctg2:6258541-6285959|-  -           2177 354383               -            743  1.8e-232  761.1  86.2   9   9   6.3e-45   6.3e-45  141.0   2.9   589   741  1940  2096  1932  2099 0.75 <unknown description>
+354383at7147_30069_0:000e0e|ctg2:6273657-6285995|-  -           2531 354383               -            743  7.4e-232  759.0 102.2   1  10   4.7e-20   4.7e-20   58.8   0.1    40   127   508   595   485   600 0.84 <unknown description>
+354383at7147_30069_0:000e0e|ctg2:6273657-6285995|-  -           2531 354383               -            743  7.4e-232  759.0 102.2   2  10         3         3  -11.2   9.2    64   140   723   799   625   843 0.54 <unknown description>
+354383at7147_30069_0:000e0e|ctg2:6273657-6285995|-  -           2531 354383               -            743  7.4e-232  759.0 102.2   3  10         3         3   -7.3   5.5    15    62   887   928   875   954 0.38 <unknown description>
+354383at7147_30069_0:000e0e|ctg2:6273657-6285995|-  -           2531 354383               -            743  7.4e-232  759.0 102.2   4  10   6.9e-10   6.9e-10   25.2   3.4   105   161  1126  1182  1121  1188 0.78 <unknown description>
+354383at7147_30069_0:000e0e|ctg2:6273657-6285995|-  -           2531 354383               -            743  7.4e-232  759.0 102.2   5  10   4.7e-09   4.7e-09   22.4   0.4   152   197  1221  1273  1209  1276 0.77 <unknown description>
+354383at7147_30069_0:000e0e|ctg2:6273657-6285995|-  -           2531 354383               -            743  7.4e-232  759.0 102.2   6  10   1.1e-58   1.1e-58  186.5   3.3   204   318  1359  1474  1340  1510 0.87 <unknown description>
+354383at7147_30069_0:000e0e|ctg2:6273657-6285995|-  -           2531 354383               -            743  7.4e-232  759.0 102.2   7  10   1.3e-46   1.3e-46  146.6  12.2   312   463  1518  1680  1511  1693 0.81 <unknown description>
+354383at7147_30069_0:000e0e|ctg2:6273657-6285995|-  -           2531 354383               -            743  7.4e-232  759.0 102.2   8  10   5.8e-75   5.8e-75  240.3   2.2   457   644  1799  1988  1787  2002 0.84 <unknown description>
+354383at7147_30069_0:000e0e|ctg2:6273657-6285995|-  -           2531 354383               -            743  7.4e-232  759.0 102.2   9  10     0.014     0.014    1.0   0.4   601   649  2049  2095  2012  2101 0.72 <unknown description>
+354383at7147_30069_0:000e0e|ctg2:6273657-6285995|-  -           2531 354383               -            743  7.4e-232  759.0 102.2  10  10   8.4e-45   8.4e-45  140.6   2.8   592   741  2104  2257  2094  2260 0.75 <unknown description>
+354383at7147_190385_0:003bfa|ctg2:6273657-6275660|- -            668 354383               -            743   1.7e-85  275.1  16.7   1   3   8.7e-44   8.7e-44  137.2   0.5   521   645     1   126     1   139 0.81 <unknown description>
+354383at7147_190385_0:003bfa|ctg2:6273657-6275660|- -            668 354383               -            743   1.7e-85  275.1  16.7   2   3    0.0034    0.0034    3.0   0.7   600   649   185   232   149   239 0.72 <unknown description>
+354383at7147_190385_0:003bfa|ctg2:6273657-6275660|- -            668 354383               -            743   1.7e-85  275.1  16.7   3   3   1.1e-45   1.1e-45  143.4   2.9   588   741   237   394   229   397 0.75 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/354383at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/354383at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/354383at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/354383at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/354383at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:20 2025
+# [ok]

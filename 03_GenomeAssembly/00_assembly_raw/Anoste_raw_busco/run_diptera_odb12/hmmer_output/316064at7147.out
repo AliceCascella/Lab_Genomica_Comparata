@@ -1,0 +1,20 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+316064at7147_30069_0:001f6b|ctg4:18312580-18331621|-  -            691 316064               -            268  1.9e-108  349.0  26.1   1   5         2         2  -10.9  15.5     8    47    34    73    19    86 0.39 <unknown description>
+316064at7147_30069_0:001f6b|ctg4:18312580-18331621|-  -            691 316064               -            268  1.9e-108  349.0  26.1   2   5   0.00041   0.00041    6.9   0.3     4    20   135   151   133   166 0.86 <unknown description>
+316064at7147_30069_0:001f6b|ctg4:18312580-18331621|-  -            691 316064               -            268  1.9e-108  349.0  26.1   3   5      0.25      0.25   -2.2   0.9    33    33   244   244   219   288 0.48 <unknown description>
+316064at7147_30069_0:001f6b|ctg4:18312580-18331621|-  -            691 316064               -            268  1.9e-108  349.0  26.1   4   5   2.5e-89   2.5e-89  286.3  21.3     7   219   356   596   348   606 0.79 <unknown description>
+316064at7147_30069_0:001f6b|ctg4:18312580-18331621|-  -            691 316064               -            268  1.9e-108  349.0  26.1   5   5   1.5e-24   1.5e-24   73.9   0.1   214   268   619   683   613   683 0.83 <unknown description>
+316064at7147_190385_0:001cc7|ctg4:18312580-18313388|- -            216 316064               -            268   2.7e-69  220.6   5.5   1   2   8.9e-47   8.9e-47  146.8   0.6   106   219     1   121     1   131 0.86 <unknown description>
+316064at7147_190385_0:001cc7|ctg4:18312580-18313388|- -            216 316064               -            268   2.7e-69  220.6   5.5   2   2   2.9e-25   2.9e-25   76.2   0.4   214   268   144   208   138   208 0.83 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/316064at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/316064at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/316064at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/316064at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/316064at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:17 2025
+# [ok]

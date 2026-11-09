@@ -1,0 +1,32 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+76235at7147_2498891_0:0027a9|ctg8:19996812-19999811|- -            677 76235                -            280   1.6e-93  301.3  18.6   1   5   2.5e-88   2.5e-88  284.3   7.0     2   200    35   242    33   259 0.90 <unknown description>
+76235at7147_2498891_0:0027a9|ctg8:19996812-19999811|- -            677 76235                -            280   1.6e-93  301.3  18.6   2   5      0.11      0.11   -0.0  15.6   169   237   293   363   288   370 0.60 <unknown description>
+76235at7147_2498891_0:0027a9|ctg8:19996812-19999811|- -            677 76235                -            280   1.6e-93  301.3  18.6   3   5      0.12      0.12   -0.1   2.7   200   226   401   429   380   452 0.46 <unknown description>
+76235at7147_2498891_0:0027a9|ctg8:19996812-19999811|- -            677 76235                -            280   1.6e-93  301.3  18.6   4   5     3e-11     3e-11   31.4   3.8   231   269   521   559   478   572 0.73 <unknown description>
+76235at7147_2498891_0:0027a9|ctg8:19996812-19999811|- -            677 76235                -            280   1.6e-93  301.3  18.6   5   5       3.1       3.1   -4.7  11.5   208   251   593   636   562   676 0.47 <unknown description>
+76235at7147_30069_0:00212b|ctg8:19997771-19999841|-   -            667 76235                -            280   2.5e-93  300.7  19.2   1   5   2.4e-88   2.4e-88  284.3   7.0     2   200    45   252    43   269 0.90 <unknown description>
+76235at7147_30069_0:00212b|ctg8:19997771-19999841|-   -            667 76235                -            280   2.5e-93  300.7  19.2   2   5     0.073     0.073    0.6  24.2   169   254   303   391   298   395 0.55 <unknown description>
+76235at7147_30069_0:00212b|ctg8:19997771-19999841|-   -            667 76235                -            280   2.5e-93  300.7  19.2   3   5      0.12      0.12   -0.1   2.7   200   226   428   456   407   479 0.46 <unknown description>
+76235at7147_30069_0:00212b|ctg8:19997771-19999841|-   -            667 76235                -            280   2.5e-93  300.7  19.2   4   5   4.6e-11   4.6e-11   30.8   4.4   231   269   548   586   505   598 0.73 <unknown description>
+76235at7147_30069_0:00212b|ctg8:19997771-19999841|-   -            667 76235                -            280   2.5e-93  300.7  19.2   5   5       1.4       1.4   -3.5   6.0   202   253   617   645   588   659 0.34 <unknown description>
+76235at7147_7160_0:0044a5|ctg8:19993055-19999781|-    -            668 76235                -            280   2.5e-93  300.7  19.2   1   5   2.4e-88   2.4e-88  284.3   7.0     2   200    25   232    23   249 0.90 <unknown description>
+76235at7147_7160_0:0044a5|ctg8:19993055-19999781|-    -            668 76235                -            280   2.5e-93  300.7  19.2   2   5      0.11      0.11    0.0  15.6   169   237   283   353   278   360 0.60 <unknown description>
+76235at7147_7160_0:0044a5|ctg8:19993055-19999781|-    -            668 76235                -            280   2.5e-93  300.7  19.2   3   5      0.12      0.12   -0.1   2.7   200   226   391   419   370   442 0.46 <unknown description>
+76235at7147_7160_0:0044a5|ctg8:19993055-19999781|-    -            668 76235                -            280   2.5e-93  300.7  19.2   4   5   4.6e-11   4.6e-11   30.8   4.3   231   269   511   549   473   563 0.74 <unknown description>
+76235at7147_7160_0:0044a5|ctg8:19993055-19999781|-    -            668 76235                -            280   2.5e-93  300.7  19.2   5   5       1.1       1.1   -3.3   5.7   203   253   581   608   550   620 0.34 <unknown description>
+76235at7147_13632_0:003610|ctg8:19998065-19999712|-   -            437 76235                -            280     1e-87  282.3   5.9   1   3     1e-87     1e-87  282.3   5.9     2   200     2   211     1   229 0.91 <unknown description>
+76235at7147_13632_0:003610|ctg8:19998065-19999712|-   -            437 76235                -            280     1e-87  282.3   5.9   2   3     0.026     0.026    2.1  11.5   169   234   262   329   257   349 0.54 <unknown description>
+76235at7147_13632_0:003610|ctg8:19998065-19999712|-   -            437 76235                -            280     1e-87  282.3   5.9   3   3    0.0055    0.0055    4.3   0.4   230   252   415   437   372   437 0.72 <unknown description>
+76235at7147_139649_0:003d46|ctg4:14134393-14134711|-  -            107 76235                -            280      0.41   -1.8  68.2   1   1      0.48      0.48   -2.1  68.2   162   247     2    87     1   105 0.62 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/76235at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/76235at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/76235at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/76235at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/76235at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:31 2025
+# [ok]

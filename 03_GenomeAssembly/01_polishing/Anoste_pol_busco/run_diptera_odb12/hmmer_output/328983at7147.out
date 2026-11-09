@@ -1,0 +1,20 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+328983at7147_139045_0:002784|ctg3:10368194-10371795|- -            402 328983               -            332  5.2e-186  605.1  63.4   1   2  5.2e-186  5.2e-186  605.1  63.4     3   324    15   343    13   351 0.96 <unknown description>
+328983at7147_139045_0:002784|ctg3:10368194-10371795|- -            402 328983               -            332  5.2e-186  605.1  63.4   2   2         3         3  -12.4  28.6   303   330   371   398   347   401 0.41 <unknown description>
+328983at7147_28588_0:00202b|ctg3:10368194-10370390|-  -            379 328983               -            332  1.6e-185  603.6  59.3   1   2  1.6e-185  1.6e-185  603.6  59.3     5   322     5   331     2   335 0.96 <unknown description>
+328983at7147_28588_0:00202b|ctg3:10368194-10370390|-  -            379 328983               -            332  1.6e-185  603.6  59.3   2   2         3         3  -10.5  25.4   302   330   351   375   343   378 0.33 <unknown description>
+328983at7147_30069_0:000c15|ctg3:10368194-10376096|-  -            381 328983               -            332  7.4e-185  601.3  70.2   1   3         3         3   -7.4   3.8   310   324     5    19     2    21 0.30 <unknown description>
+328983at7147_30069_0:000c15|ctg3:10368194-10376096|-  -            381 328983               -            332  7.4e-185  601.3  70.2   2   3  7.4e-185  7.4e-185  601.3  70.2     3   332    25   361    23   362 0.96 <unknown description>
+328983at7147_30069_0:000c15|ctg3:10368194-10376096|-  -            381 328983               -            332  7.4e-185  601.3  70.2   3   3         3         3  -13.8  23.4   313   330   361   378   358   380 0.31 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/328983at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/328983at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/328983at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/328983at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/328983at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:33 2025
+# [ok]

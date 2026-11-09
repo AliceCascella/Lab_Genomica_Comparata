@@ -1,0 +1,37 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+313468at7147_7200_0:0017ea|ctg5:12720948-12745329|+   -            489 313468               -            459   1.5e-72  235.0  12.7   1   1   9.1e-72   9.1e-72  232.4  12.7     4   451     3   470     1   477 0.68 <unknown description>
+313468at7147_38358_0:0007dd|ctg5:12720945-12730634|+  -            442 313468               -            459   2.4e-71  231.0  14.0   1   1   2.3e-69   2.3e-69  224.5  14.0     4   452     4   441     1   442 0.67 <unknown description>
+313468at7147_13632_0:00043f|ctg5:12720957-12721350|+  -            132 313468               -            459   5.6e-60  193.5   0.1   1   1   5.8e-60   5.8e-60  193.4   0.1     5   124     1   120     1   132 0.95 <unknown description>
+313468at7147_7167_0:000ba3|ctg6:5662581-5688538|+     -            387 313468               -            459   9.9e-56  179.5   2.6   1   1   1.2e-55   1.2e-55  179.2   2.6     1   263     1   263     1   318 0.74 <unknown description>
+313468at7147_68878_0:0028ac|ctg8:24152991-24153693|-  -            235 313468               -            459   3.8e-55  177.6   0.0   1   1   5.8e-55   5.8e-55  177.0   0.0     5   150     1   147     1   165 0.86 <unknown description>
+313468at7147_185578_0:000b99|ctg8:24131579-24153693|- -            337 313468               -            459   1.5e-54  175.6   0.0   1   2   1.5e-54   1.5e-54  175.6   0.0     5   149     1   146     1   164 0.86 <unknown description>
+313468at7147_185578_0:000b99|ctg8:24131579-24153693|- -            337 313468               -            459   1.5e-54  175.6   0.0   2   2       1.4       1.4   -2.3   5.2   169   292   211   334   189   337 0.56 <unknown description>
+313468at7147_30069_0:000b61|ctg1:4857221-4895416|+    -            202 313468               -            459   2.3e-52  168.4   0.6   1   1   2.9e-52   2.9e-52  168.1   0.6     1   121     1   121     1   165 0.92 <unknown description>
+313468at7147_139649_0:0011f2|ctg11:3084779-3102466|-  -            754 313468               -            459   8.4e-52  166.6  29.8   1   4   5.6e-44   5.6e-44  140.8  15.3     1   297     1   286     1   301 0.70 <unknown description>
+313468at7147_139649_0:0011f2|ctg11:3084779-3102466|-  -            754 313468               -            459   8.4e-52  166.6  29.8   2   4   3.6e-05   3.6e-05   12.8   2.0   242   445   301   485   274   491 0.71 <unknown description>
+313468at7147_139649_0:0011f2|ctg11:3084779-3102466|-  -            754 313468               -            459   8.4e-52  166.6  29.8   3   4    0.0068    0.0068    5.3   0.0   391   427   461   497   456   501 0.88 <unknown description>
+313468at7147_139649_0:0011f2|ctg11:3084779-3102466|-  -            754 313468               -            459   8.4e-52  166.6  29.8   4   4   3.6e-07   3.6e-07   19.4   0.5   368   446   609   687   537   695 0.86 <unknown description>
+313468at7147_7274_0:001be4|ctg5:10097477-10174195|-   -            701 313468               -            459   1.1e-48  156.3   8.1   1   2   1.2e-46   1.2e-46  149.5   5.2     5   160     2   163     1   229 0.83 <unknown description>
+313468at7147_7274_0:001be4|ctg5:10097477-10174195|-   -            701 313468               -            459   1.1e-48  156.3   8.1   2   2   3.3e-06   3.3e-06   16.3   0.0   316   446   571   699   548   701 0.71 <unknown description>
+313468at7147_95512_0:0011de|ctg11:3073637-3102466|-   -            699 313468               -            459   4.2e-46  147.7  37.6   1   4   5.6e-43   5.6e-43  137.5  15.5     1   225     1   215     1   258 0.68 <unknown description>
+313468at7147_95512_0:0011de|ctg11:3073637-3102466|-   -            699 313468               -            459   4.2e-46  147.7  37.6   2   4         3         3   -3.4  18.4   223   445   162   382   135   386 0.60 <unknown description>
+313468at7147_95512_0:0011de|ctg11:3073637-3102466|-   -            699 313468               -            459   4.2e-46  147.7  37.6   3   4       3.1       3.1   -3.4   0.1   325   358   442   475   424   509 0.49 <unknown description>
+313468at7147_95512_0:0011de|ctg11:3073637-3102466|-   -            699 313468               -            459   4.2e-46  147.7  37.6   4   4     6e-05     6e-05   12.1   1.5   359   431   608   681   540   698 0.76 <unknown description>
+313468at7147_42026_0:000e62|ctg11:3035471-3102466|-   -            947 313468               -            459   1.3e-44  142.9   9.3   1   2   1.3e-44   1.3e-44  142.9   9.3     1   215     1   210     1   262 0.65 <unknown description>
+313468at7147_42026_0:000e62|ctg11:3035471-3102466|-   -            947 313468               -            459   1.3e-44  142.9   9.3   2   2      0.02      0.02    3.8   0.8   380   423   741   784   722   804 0.64 <unknown description>
+313468at7147_43151_0:000c3f|ctg5:2164862-2180447|+    -            427 313468               -            459     4e-43  137.9   7.3   1   1   6.7e-43   6.7e-43  137.2   7.3     5   133     4   132     2   158 0.89 <unknown description>
+313468at7147_2530218_0:00228e|ctg2:3738292-3739525|-  -            162 313468               -            459   5.4e-43  137.5   0.0   1   1   6.3e-43   6.3e-43  137.3   0.0     7   122     1   115     1   132 0.93 <unknown description>
+313468at7147_290404_0:001e1c|ctg15:1242681-1244706|+  -            547 313468               -            459   7.9e-41  130.4   0.1   1   2   7.9e-41   7.9e-41  130.4   0.1     1   117     1   117     1   132 0.96 <unknown description>
+313468at7147_290404_0:001e1c|ctg15:1242681-1244706|+  -            547 313468               -            459   7.9e-41  130.4   0.1   2   2      0.73      0.73   -1.4   0.3   285   377   298   388   287   448 0.52 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/313468at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/313468at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/313468at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/313468at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/313468at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:15 2025
+# [ok]

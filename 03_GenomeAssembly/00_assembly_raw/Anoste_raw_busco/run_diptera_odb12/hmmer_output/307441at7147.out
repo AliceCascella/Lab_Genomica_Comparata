@@ -1,0 +1,32 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+307441at7147_30069_0:001a20|ctg2:10004583-10018311|-   -            690 307441               -            391  1.6e-128  417.6  13.0   1   5  2.4e-101  2.4e-101  328.2   0.0     2   153    87   236    86   259 0.92 <unknown description>
+307441at7147_30069_0:001a20|ctg2:10004583-10018311|-   -            690 307441               -            391  1.6e-128  417.6  13.0   2   5   1.6e-05   1.6e-05   12.7   0.1   183   261   356   452   310   459 0.58 <unknown description>
+307441at7147_30069_0:001a20|ctg2:10004583-10018311|-   -            690 307441               -            391  1.6e-128  417.6  13.0   3   5    0.0012    0.0012    6.5   1.8   262   302   480   524   457   532 0.66 <unknown description>
+307441at7147_30069_0:001a20|ctg2:10004583-10018311|-   -            690 307441               -            391  1.6e-128  417.6  13.0   4   5   1.2e-21   1.2e-21   65.8   0.0   297   351   548   605   535   616 0.84 <unknown description>
+307441at7147_30069_0:001a20|ctg2:10004583-10018311|-   -            690 307441               -            391  1.6e-128  417.6  13.0   5   5   0.00037   0.00037    8.2   0.1   365   391   663   689   643   689 0.72 <unknown description>
+307441at7147_2530218_0:0006d6|ctg2:10004583-10024574|- -            612 307441               -            391  4.9e-128  416.0  16.0   1   5  2.6e-101  2.6e-101  328.1   0.1     2   150    63   211    62   214 0.98 <unknown description>
+307441at7147_2530218_0:0006d6|ctg2:10004583-10024574|- -            612 307441               -            391  4.9e-128  416.0  16.0   2   5   1.2e-05   1.2e-05   13.1   0.3   182   262   280   375   235   404 0.63 <unknown description>
+307441at7147_2530218_0:0006d6|ctg2:10004583-10024574|- -            612 307441               -            391  4.9e-128  416.0  16.0   3   5   0.00082   0.00082    7.1   1.5   262   302   402   446   377   455 0.66 <unknown description>
+307441at7147_2530218_0:0006d6|ctg2:10004583-10024574|- -            612 307441               -            391  4.9e-128  416.0  16.0   4   5     1e-21     1e-21   66.0   0.0   297   351   470   527   458   537 0.84 <unknown description>
+307441at7147_2530218_0:0006d6|ctg2:10004583-10024574|- -            612 307441               -            391  4.9e-128  416.0  16.0   5   5   0.00025   0.00025    8.8   0.1   362   391   584   611   565   611 0.69 <unknown description>
+307441at7147_13632_0:001ae4|ctg2:10004753-10040671|-   -            753 307441               -            391  9.6e-124  401.9  10.4   1   4  6.6e-102  6.6e-102  330.0   0.3     2   154   134   286   133   329 0.91 <unknown description>
+307441at7147_13632_0:001ae4|ctg2:10004753-10040671|-   -            753 307441               -            391  9.6e-124  401.9  10.4   2   4     0.026     0.026    2.1   0.0   232   261   542   571   508   578 0.83 <unknown description>
+307441at7147_13632_0:001ae4|ctg2:10004753-10040671|-   -            753 307441               -            391  9.6e-124  401.9  10.4   3   4     0.001     0.001    6.8   1.4   262   302   599   643   574   652 0.66 <unknown description>
+307441at7147_13632_0:001ae4|ctg2:10004753-10040671|-   -            753 307441               -            391  9.6e-124  401.9  10.4   4   4   1.4e-21   1.4e-21   65.5   0.0   297   351   667   724   655   730 0.84 <unknown description>
+307441at7147_7159_0:00389c|ctg2:10015398-10018209|-    -            162 307441               -            391   3.1e-76  245.5   0.0   1   1   4.2e-76   4.2e-76  245.1   0.0     2   110    53   161    52   162 0.98 <unknown description>
+307441at7147_13632_0:002de4|ctg2:10004753-10011938|-   -            383 307441               -            391     8e-45  142.1  12.7   1   4   1.6e-22   1.6e-22   68.7   0.5   109   158     1    49     1    63 0.89 <unknown description>
+307441at7147_13632_0:002de4|ctg2:10004753-10011938|-   -            383 307441               -            391     8e-45  142.1  12.7   2   4    0.0094    0.0094    3.6   0.1   231   261   171   201   118   208 0.80 <unknown description>
+307441at7147_13632_0:002de4|ctg2:10004753-10011938|-   -            383 307441               -            391     8e-45  142.1  12.7   3   4    0.0004    0.0004    8.1   1.4   262   302   229   273   204   284 0.66 <unknown description>
+307441at7147_13632_0:002de4|ctg2:10004753-10011938|-   -            383 307441               -            391     8e-45  142.1  12.7   4   4   4.6e-22   4.6e-22   67.2   0.0   297   351   297   354   278   368 0.84 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/307441at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/307441at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/307441at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/307441at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/307441at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:22 2025
+# [ok]

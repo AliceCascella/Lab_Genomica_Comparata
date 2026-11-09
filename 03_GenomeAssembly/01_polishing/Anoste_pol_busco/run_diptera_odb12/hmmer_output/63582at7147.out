@@ -1,0 +1,20 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+63582at7147_30069_0:000e23|ctg3:5519158-5521947|+ -            881 63582                -            532  1.8e-236  772.9   9.6   1   4   1.7e-05   1.7e-05   10.7   0.1     1    11    22    32    22    43 0.88 <unknown description>
+63582at7147_30069_0:000e23|ctg3:5519158-5521947|+ -            881 63582                -            532  1.8e-236  772.9   9.6   2   4  1.1e-207  1.1e-207  677.9   0.0    11   427    53   484    46   596 0.89 <unknown description>
+63582at7147_30069_0:000e23|ctg3:5519158-5521947|+ -            881 63582                -            532  1.8e-236  772.9   9.6   3   4   1.1e-19   1.1e-19   57.6   2.1   407   484   639   721   613   748 0.83 <unknown description>
+63582at7147_30069_0:000e23|ctg3:5519158-5521947|+ -            881 63582                -            532  1.8e-236  772.9   9.6   4   4   5.8e-11   5.8e-11   28.7   0.0   480   531   772   823   754   824 0.84 <unknown description>
+63582at7147_28588_0:001862|ctg3:5519727-5521782|+ -            686 63582                -            532    1e-177  579.0   8.3   1   3  5.6e-152  5.6e-152  494.1   0.0   100   427     4   344     1   445 0.87 <unknown description>
+63582at7147_28588_0:001862|ctg3:5519727-5521782|+ -            686 63582                -            532    1e-177  579.0   8.3   2   3     9e-20     9e-20   57.8   2.1   408   482   500   579   492   599 0.82 <unknown description>
+63582at7147_28588_0:001862|ctg3:5519727-5521782|+ -            686 63582                -            532    1e-177  579.0   8.3   3   3   4.2e-11   4.2e-11   29.2   0.0   480   531   632   683   613   684 0.84 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/63582at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/63582at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/63582at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/63582at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/63582at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:42 2025
+# [ok]

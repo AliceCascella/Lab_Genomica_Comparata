@@ -1,0 +1,16 @@
+# Matched-pair tests of symmetry
+# This file can be read in MS Excel or in R with command:
+#    dat=read.csv('symmetry_test.symtest.csv',comment.char='#')
+# Columns are comma-separated with following meanings:
+#    Name:    Partition name
+#    SymSig:  Number of significant sequence pairs by test of symmetry
+#    SymNon:  Number of non-significant sequence pairs by test of symmetry
+#    SymPval: P-value for maximum test of symmetry
+#    MarSig:  Number of significant sequence pairs by test of marginal symmetry
+#    MarNon:  Number of non-significant sequence pairs by test of marginal symmetry
+#    MarPval: P-value for maximum test of marginal symmetry
+#    IntSig:  Number of significant sequence pairs by test of internal symmetry
+#    IntNon:  Number of non-significant sequence pairs by test of internal symmetry
+#    IntPval: P-value for maximum test of internal symmetry
+Name,SymSig,SymNon,SymPval,MarSig,MarNon,MarPval,IntSig,IntNon,IntPval
+Noname,12,3,2.15768e-10,14,1,0,2,13,0.455668

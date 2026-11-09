@@ -1,0 +1,11 @@
+#Taxon_ID	Increase	Decrease
+Anoara<1>	109	120
+Anocol<2>	64	130
+<8>	69	250
+<9>	16	210
+Anoste<3>	317	356
+Anodar<4>	149	396
+<10>	111	78
+<11>	98	120
+Culqui<5>	536	651
+Drosim<6>	668	412

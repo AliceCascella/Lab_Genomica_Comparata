@@ -1,0 +1,20 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+221190at7147_30069_0:001c89|ctg10:9438334-9493259|- -            958 221190               -            768         0 1051.3  88.1   1   3   4.2e-13   4.2e-13   35.9  46.1     3   238    12   276    10   327 0.55 <unknown description>
+221190at7147_30069_0:001c89|ctg10:9438334-9493259|- -            958 221190               -            768         0 1051.3  88.1   2   3     0.027     0.027    0.1  19.0     7    62   372   427   361   439 0.48 <unknown description>
+221190at7147_30069_0:001c89|ctg10:9438334-9493259|- -            958 221190               -            768         0 1051.3  88.1   3   3         0         0 1025.8   8.2   258   767   436   955   422   956 0.94 <unknown description>
+221190at7147_7160_0:005f82|ctg10:9490644-9493259|-  -            794 221190               -            768  6.2e-209  683.4  89.6   1   3   4.6e-17   4.6e-17   49.0  46.8     3   238    12   264    10   318 0.57 <unknown description>
+221190at7147_7160_0:005f82|ctg10:9490644-9493259|-  -            794 221190               -            768  6.2e-209  683.4  89.6   2   3     0.034     0.034   -0.2  19.7     7    62   360   415   348   426 0.47 <unknown description>
+221190at7147_7160_0:005f82|ctg10:9490644-9493259|-  -            794 221190               -            768  6.2e-209  683.4  89.6   3   3  8.6e-198  8.6e-198  646.6   7.2   256   616   422   790   404   793 0.91 <unknown description>
+221190at7147_7160_0:005ec2|ctg10:9438334-9444433|-  -            123 221190               -            768   1.5e-91  295.3   0.5   1   1   1.7e-91   1.7e-91  295.1   0.5   648   767     1   120     1   121 0.99 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/221190at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/221190at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/221190at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/221190at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/221190at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:13 2025
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+346119at7147_139649_0:000eb3|ctg6:2223615-2229577|- -           1532 346119               -           1152         0 1940.5  43.2   1   7         0         0 1456.9   0.0     9   712    37   771    31   796 0.92 <unknown description>
+346119at7147_139649_0:000eb3|ctg6:2223615-2229577|- -           1532 346119               -           1152         0 1940.5  43.2   2   7   1.7e-73   1.7e-73  235.4   8.8   696   845   814   965   806   970 0.91 <unknown description>
+346119at7147_139649_0:000eb3|ctg6:2223615-2229577|- -           1532 346119               -           1152         0 1940.5  43.2   3   7   7.8e-06   7.8e-06   11.3   0.0   862   898  1012  1048   990  1056 0.81 <unknown description>
+346119at7147_139649_0:000eb3|ctg6:2223615-2229577|- -           1532 346119               -           1152         0 1940.5  43.2   4   7   2.6e-08   2.6e-08   19.5   0.3   891   939  1092  1150  1056  1177 0.64 <unknown description>
+346119at7147_139649_0:000eb3|ctg6:2223615-2229577|- -           1532 346119               -           1152         0 1940.5  43.2   5   7     2e-14     2e-14   39.8   4.7   891  1012  1186  1312  1160  1318 0.71 <unknown description>
+346119at7147_139649_0:000eb3|ctg6:2223615-2229577|- -           1532 346119               -           1152         0 1940.5  43.2   6   7   4.8e-09   4.8e-09   22.0   1.1  1001  1046  1340  1386  1322  1403 0.74 <unknown description>
+346119at7147_139649_0:000eb3|ctg6:2223615-2229577|- -           1532 346119               -           1152         0 1940.5  43.2   7   7     3e-54     3e-54  171.7   0.3  1045  1152  1424  1531  1404  1531 0.94 <unknown description>
+346119at7147_30069_0:001ccd|ctg6:2223615-2246131|-  -           1708 346119               -           1152         0 1900.3  70.6   1  10         0         0 1238.8   0.5     9   520    85   600    79   612 0.96 <unknown description>
+346119at7147_30069_0:001ccd|ctg6:2223615-2246131|-  -           1708 346119               -           1152         0 1900.3  70.6   2  10   8.4e-27   8.4e-27   80.8   3.6   500   576   614   691   598   702 0.84 <unknown description>
+346119at7147_30069_0:001ccd|ctg6:2223615-2246131|-  -           1708 346119               -           1152         0 1900.3  70.6   3  10   1.9e-38   1.9e-38  119.3   0.0   576   712   721   873   705   881 0.77 <unknown description>
+346119at7147_30069_0:001ccd|ctg6:2223615-2246131|-  -           1708 346119               -           1152         0 1900.3  70.6   4  10     2e-73     2e-73  235.2   8.8   696   845   916  1067   908  1072 0.91 <unknown description>
+346119at7147_30069_0:001ccd|ctg6:2223615-2246131|-  -           1708 346119               -           1152         0 1900.3  70.6   5  10   8.9e-06   8.9e-06   11.2   0.1   862   898  1114  1150  1092  1158 0.81 <unknown description>
+346119at7147_30069_0:001ccd|ctg6:2223615-2246131|-  -           1708 346119               -           1152         0 1900.3  70.6   6  10   4.2e-08   4.2e-08   18.9   0.9   875   939  1177  1252  1153  1278 0.64 <unknown description>
+346119at7147_30069_0:001ccd|ctg6:2223615-2246131|-  -           1708 346119               -           1152         0 1900.3  70.6   7  10      0.31      0.31   -3.9   4.9   690   748  1269  1329  1265  1340 0.72 <unknown description>
+346119at7147_30069_0:001ccd|ctg6:2223615-2246131|-  -           1708 346119               -           1152         0 1900.3  70.6   8  10   1.3e-14   1.3e-14   40.4   1.1   917  1012  1388  1488  1347  1494 0.65 <unknown description>
+346119at7147_30069_0:001ccd|ctg6:2223615-2246131|-  -           1708 346119               -           1152         0 1900.3  70.6   9  10   5.5e-09   5.5e-09   21.8   1.1  1001  1046  1516  1562  1498  1579 0.74 <unknown description>
+346119at7147_30069_0:001ccd|ctg6:2223615-2246131|-  -           1708 346119               -           1152         0 1900.3  70.6  10  10   3.4e-54   3.4e-54  171.5   0.3  1045  1152  1600  1707  1580  1707 0.94 <unknown description>
+346119at7147_263140_0:00343b|ctg6:2225325-2226456|- -            339 346119               -           1152  2.5e-108  350.8   8.6   1   2  4.1e-104  4.1e-104  336.8   7.8   608   845     2   268     1   273 0.82 <unknown description>
+346119at7147_263140_0:00343b|ctg6:2225325-2226456|- -            339 346119               -           1152  2.5e-108  350.8   8.6   2   2   3.5e-05   3.5e-05    9.2   0.0   862   885   315   338   292   339 0.84 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/346119at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/346119at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/346119at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/346119at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/346119at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:16 2025
+# [ok]

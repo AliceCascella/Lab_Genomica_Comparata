@@ -1,0 +1,29 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+322639at7147_30069_0:00234b|ctg18:1437625-1440072|-   -            237 322639               -            104   8.6e-56  175.5   7.9   1   3     6e-37     6e-37  114.9   0.3     3    86    28   111    26   121 0.89 <unknown description>
+322639at7147_30069_0:00234b|ctg18:1437625-1440072|-   -            237 322639               -            104   8.6e-56  175.5   7.9   2   3   1.2e-16   1.2e-16   49.7   0.4    34    89   122   177   116   186 0.80 <unknown description>
+322639at7147_30069_0:00234b|ctg18:1437625-1440072|-   -            237 322639               -            104   8.6e-56  175.5   7.9   3   3   1.1e-05   1.1e-05   14.5   0.1    34    54   196   216   185   227 0.62 <unknown description>
+322639at7147_190385_0:001b66|ctg18:1438230-1440072|-  -            179 322639               -            104   1.1e-52  165.5   4.0   1   2   3.1e-37   3.1e-37  115.9   0.3     3    86    28   111    26   121 0.89 <unknown description>
+322639at7147_190385_0:001b66|ctg18:1438230-1440072|-  -            179 322639               -            104   1.1e-52  165.5   4.0   2   2   2.9e-17   2.9e-17   51.7   0.3    34    89   122   175   111   179 0.81 <unknown description>
+322639at7147_343691_0:00195f|ctg18:1438260-1438873|-  -            141 322639               -            104   5.2e-50  156.9   6.7   1   2   1.1e-36   1.1e-36  114.0   0.5     7    86     2    81     1    91 0.89 <unknown description>
+322639at7147_343691_0:00195f|ctg18:1438260-1438873|-  -            141 322639               -            104   5.2e-50  156.9   6.7   2   2   1.1e-15   1.1e-15   46.6   1.0    34    80    92   139    87   141 0.83 <unknown description>
+322639at7147_7274_0:0026ac|ctg18:1432702-1438870|-    -            238 322639               -            104   1.9e-49  155.1   8.9   1   3     9e-36     9e-36  111.2   0.5     7    86     1    80     1    89 0.89 <unknown description>
+322639at7147_7274_0:0026ac|ctg18:1432702-1438870|-    -            238 322639               -            104   1.9e-49  155.1   8.9   2   3   2.3e-16   2.3e-16   48.8   0.2    34    89    91   143    80   156 0.80 <unknown description>
+322639at7147_7274_0:0026ac|ctg18:1432702-1438870|-    -            238 322639               -            104   1.9e-49  155.1   8.9   3   3      0.63      0.63   -0.8   0.1    56    69   200   213   186   217 0.52 <unknown description>
+322639at7147_29031_0:002956|ctg18:1438119-1438909|-   -            152 322639               -            104   5.3e-43  134.4   6.4   1   2   2.3e-35   2.3e-35  109.9   0.5     5    86    12    90    10   100 0.86 <unknown description>
+322639at7147_29031_0:002956|ctg18:1438119-1438909|-   -            152 322639               -            104   5.3e-43  134.4   6.4   2   2   7.4e-10   7.4e-10   27.9   0.9    34    85   101   148    89   152 0.75 <unknown description>
+322639at7147_35570_0:001e61|ctg18:1437631-1438873|-   -            140 322639               -            104   1.7e-40  126.3   3.4   1   2   7.3e-36   7.3e-36  111.5   0.8     7    90     2    83     1    97 0.83 <unknown description>
+322639at7147_35570_0:001e61|ctg18:1437631-1438873|-   -            140 322639               -            104   1.7e-40  126.3   3.4   2   2   4.9e-06   4.9e-06   15.6   0.1    34    54   101   121    91   133 0.63 <unknown description>
+322639at7147_7200_0:001958|ctg18:1438480-1438873|-    -            103 322639               -            104     5e-38  118.4   5.0   1   1   2.2e-36   2.2e-36  113.1   5.0     7   103     2   102     1   103 0.80 <unknown description>
+322639at7147_2530218_0:00047c|ctg18:1438567-1438942|- -            110 322639               -            104   3.4e-33  102.9   1.2   1   1   1.2e-32   1.2e-32  101.1   1.2     5    80    23   108    21   110 0.79 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/322639at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/322639at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/322639at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/322639at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/322639at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:22 2025
+# [ok]

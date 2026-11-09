@@ -1,0 +1,20 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+67941at7147_13632_0:0015c9|ctg4:18887536-18899104|-  -           1336 67941                -            925         0 1771.5   6.9   1   1         0         0 1771.2   6.9     4   925   361  1310   358  1310 0.96 <unknown description>
+67941at7147_30069_0:003035|ctg4:18882641-18906802|-  -           1683 67941                -            925         0 1770.5   6.9   1   1         0         0 1770.2   6.9     4   925   399  1348   396  1348 0.96 <unknown description>
+67941at7147_30069_0:001ed1|ctg4:18882641-18921272|-  -           1666 67941                -            925         0 1770.4   7.3   1   1         0         0 1770.0   7.3     4   925   428  1377   425  1377 0.96 <unknown description>
+67941at7147_190385_0:004863|ctg4:18871629-18897358|- -           1394 67941                -            925         0 1751.3  10.5   1   1         0         0 1744.4  10.5     4   925   335  1305   332  1305 0.95 <unknown description>
+67941at7147_343691_0:0018a4|ctg4:18890259-18903695|- -           1375 67941                -            925         0 1750.9  10.4   1   1         0         0 1744.1  10.4     4   924   405  1374   402  1375 0.95 <unknown description>
+67941at7147_29031_0:0028c6|ctg4:18890166-18899185|-  -           1389 67941                -            925         0 1750.9  10.4   1   1         0         0 1744.0  10.4     4   924   388  1357   385  1358 0.95 <unknown description>
+67941at7147_7167_0:000730|ctg4:18882810-18899161|-   -           1654 67941                -            925         0 1750.3  10.5   1   1         0         0 1743.7  10.5     4   925   404  1374   401  1374 0.95 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/67941at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/67941at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/67941at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/67941at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/67941at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:35 2025
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+75531at7147_68878_0:00022b|ctg5:10430740-10436412|+  -            297 75531                -            256   6.5e-78  250.3  16.1   1   1   6.5e-78   7.8e-78  250.1  16.1     8   245    48   296    41   297 0.91 <unknown description>
+75531at7147_30069_0:00005f|ctg5:10430623-10434583|+  -            371 75531                -            256   1.3e-75  242.8  17.7   1   1   1.6e-75   1.9e-75  242.2  17.7     9   226    88   312    80   320 0.92 <unknown description>
+75531at7147_185578_0:002a4f|ctg5:10430650-10439032|+ -            358 75531                -            256   3.9e-75  241.2  21.2   1   1   4.3e-75   5.2e-75  240.8  21.2     9   231    79   308    71   331 0.89 <unknown description>
+75531at7147_329112_0:000d4a|ctg5:10433487-10436415|+ -            235 75531                -            256     8e-75  240.2  18.6   1   1   7.4e-75   8.9e-75  240.1  18.6    24   245     2   233     1   235 0.92 <unknown description>
+75531at7147_139047_0:002980|ctg5:10433821-10434412|+ -            174 75531                -            256   1.3e-63  203.5  30.6   1   1   1.2e-63   1.4e-63  203.4  30.6    64   225     3   171     1   174 0.92 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/75531at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/75531at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/75531at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/75531at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/75531at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:47 2025
+# [ok]

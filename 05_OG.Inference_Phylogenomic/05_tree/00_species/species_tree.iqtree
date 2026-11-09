@@ -1,0 +1,239 @@
+IQ-TREE 3.0.1 built Jul  9 2025
+
+Input file name: conc_species_tree.faa
+Type of analysis: ModelFinder + tree reconstruction + non-parametric bootstrap (100 replicates)
+Random seed number: 221722
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 6 sequences with 131324 amino-acid sites
+Number of constant sites: 61618 (= 46.9206% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 61618 (= 46.9206% of all sites)
+Number of parsimony informative sites: 14923
+Number of distinct site patterns: 28210
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: Q.INSECT+F+I+R3
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+Q.INSECT+F+I+R3 -909794.080 1819654.161 +        1 1819654.178 +        1 1819977.080 +        1
+Q.YEAST+F+I+R3  -910799.562 1821665.124 -        0 1821665.141 -        0 1821988.043 -        0
+LG+F+I+R3       -912430.455 1824926.911 -        0 1824926.928 -        0 1825249.830 -        0
+JTT+F+I+R3      -912683.915 1825433.829 -        0 1825433.846 -        0 1825756.748 -        0
+Q.PFAM+F+I+R3   -912755.215 1825576.430 -        0 1825576.447 -        0 1825899.349 -        0
+JTTDCMUT+F+I+R3 -912807.484 1825680.968 -        0 1825680.985 -        0 1826003.887 -        0
+Q.PLANT+F+I+R3  -913962.500 1827990.999 -        0 1827991.016 -        0 1828313.918 -        0
+DAYHOFF+F+I+R3  -913994.644 1828055.287 -        0 1828055.304 -        0 1828378.206 -        0
+DCMUT+F+I+R3    -914012.548 1828091.097 -        0 1828091.114 -        0 1828414.016 -        0
+JTT+I+R3        -914521.625 1829071.250 -        0 1829071.254 -        0 1829208.246 -        0
+WAG+F+I+R3      -914533.592 1829133.184 -        0 1829133.201 -        0 1829456.103 -        0
+JTTDCMUT+I+R3   -914684.780 1829397.560 -        0 1829397.563 -        0 1829534.556 -        0
+VT+F+I+R3       -914746.021 1829558.043 -        0 1829558.060 -        0 1829880.962 -        0
+RTREV+F+I+R3    -914798.633 1829663.266 -        0 1829663.283 -        0 1829986.185 -        0
+MTINV+F+I+R3    -915632.322 1831330.644 -        0 1831330.661 -        0 1831653.563 -        0
+Q.PFAM+I+R3     -915987.402 1832002.803 -        0 1832002.806 -        0 1832139.799 -        0
+LG+I+R3         -916558.999 1833145.999 -        0 1833146.002 -        0 1833282.995 -        0
+LG+I+R4         -916556.829 1833145.658 -        0 1833145.662 -        0 1833302.225 -        0
+LG+R5           -916559.407 1833152.815 -        0 1833152.820 -        0 1833319.167 -        0
+LG+R6           -916558.775 1833155.550 -        0 1833155.556 -        0 1833341.473 -        0
+LG+R4           -916589.264 1833208.528 -        0 1833208.532 -        0 1833355.310 -        0
+LG+R3           -916604.238 1833234.477 -        0 1833234.479 -        0 1833361.687 -        0
+LG+I+R2         -916689.076 1833402.151 -        0 1833402.154 -        0 1833519.576 -        0
+VT+I+R3         -916823.255 1833674.510 -        0 1833674.513 -        0 1833811.506 -        0
+WAG+I+R3        -917084.589 1834197.178 -        0 1834197.182 -        0 1834334.174 -        0
+Q.INSECT+I+R3   -917095.115 1834218.230 -        0 1834218.233 -        0 1834355.226 -        0
+LG+G4           -917306.623 1834633.247 -        0 1834633.248 -        0 1834731.101 -        0
+LG+I+G4         -917322.213 1834666.427 -        0 1834666.429 -        0 1834774.066 -        0
+LG+R2           -917432.846 1834887.691 -        0 1834887.693 -        0 1834995.331 -        0
+Q.MAMMAL+F+I+R3 -917636.212 1835338.424 -        0 1835338.441 -        0 1835661.343 -        0
+MTZOA+F+I+R3    -917882.492 1835830.984 -        0 1835831.001 -        0 1836153.903 -        0
+Q.PLANT+I+R3    -918117.222 1836262.444 -        0 1836262.447 -        0 1836399.440 -        0
+MTMET+F+I+R3    -918645.677 1837357.355 -        0 1837357.372 -        0 1837680.274 -        0
+DAYHOFF+I+R3    -918897.661 1837823.322 -        0 1837823.325 -        0 1837960.318 -        0
+DCMUT+I+R3      -918922.982 1837873.964 -        0 1837873.967 -        0 1838010.960 -        0
+CPREV+F+I+R3    -919016.887 1838099.775 -        0 1838099.792 -        0 1838422.694 -        0
+Q.MAMMAL+I+R3   -919183.699 1838395.398 -        0 1838395.402 -        0 1838532.394 -        0
+BLOSUM62+F+I+R3 -919223.408 1838512.815 -        0 1838512.832 -        0 1838835.734 -        0
+PMB+F+I+R3      -919274.878 1838615.756 -        0 1838615.773 -        0 1838938.675 -        0
+Q.YEAST+I+R3    -919721.525 1839471.049 -        0 1839471.052 -        0 1839608.045 -        0
+FLU+F+I+R3      -920184.508 1840435.016 -        0 1840435.033 -        0 1840757.935 -        0
+Q.BIRD+F+I+R3   -920599.272 1841264.544 -        0 1841264.561 -        0 1841587.463 -        0
+MTREV+F+I+R3    -920907.723 1841881.445 -        0 1841881.462 -        0 1842204.364 -        0
+LG+I            -921100.335 1842220.671 -        0 1842220.672 -        0 1842318.525 -        0
+Q.BIRD+I+R3     -922304.571 1844637.142 -        0 1844637.146 -        0 1844774.138 -        0
+HIVB+F+I+R3     -922267.066 1844600.131 -        0 1844600.148 -        0 1844923.050 -        0
+RTREV+I+R3      -922842.800 1845713.600 -        0 1845713.604 -        0 1845850.596 -        0
+MTART+F+I+R3    -922904.537 1845875.075 -        0 1845875.092 -        0 1846197.994 -        0
+PMB+I+R3        -924338.035 1848704.071 -        0 1848704.074 -        0 1848841.067 -        0
+MTVER+F+I+R3    -925051.395 1850168.791 -        0 1850168.808 -        0 1850491.710 -        0
+CPREV+I+R3      -925525.254 1851078.508 -        0 1851078.511 -        0 1851215.504 -        0
+BLOSUM62+I+R3   -925559.204 1851146.409 -        0 1851146.412 -        0 1851283.405 -        0
+MTMAM+F+I+R3    -928459.347 1856984.694 -        0 1856984.711 -        0 1857307.613 -        0
+FLAVI+F+I+R3    -928565.144 1857196.287 -        0 1857196.304 -        0 1857519.206 -        0
+FLU+I+R3        -929210.888 1858449.776 -        0 1858449.779 -        0 1858586.772 -        0
+HIVB+I+R3       -931391.880 1862811.761 -        0 1862811.764 -        0 1862948.757 -        0
+LG              -934873.420 1869764.839 -        0 1869764.841 -        0 1869852.908 -        0
+HIVW+F+I+R3     -935543.517 1871153.035 -        0 1871153.052 -        0 1871475.954 -        0
+FLAVI+I+R3      -940078.897 1880185.794 -        0 1880185.797 -        0 1880322.790 -        0
+MTZOA+I+R3      -956548.334 1913124.669 -        0 1913124.672 -        0 1913261.665 -        0
+HIVW+I+R3       -957525.141 1915078.281 -        0 1915078.284 -        0 1915215.277 -        0
+MTREV+I+R3      -962880.055 1925788.110 -        0 1925788.113 -        0 1925925.106 -        0
+MTVER+I+R3      -969084.788 1938197.576 -        0 1938197.580 -        0 1938334.572 -        0
+MTMET+I+R3      -969233.643 1938495.286 -        0 1938495.289 -        0 1938632.282 -        0
+MTART+I+R3      -970553.576 1941135.152 -        0 1941135.156 -        0 1941272.148 -        0
+MTMAM+I+R3      -973181.577 1946391.154 -        0 1946391.157 -        0 1946528.150 -        0
+MTINV+I+R3      -981360.585 1962749.170 -        0 1962749.173 -        0 1962886.166 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: Q.INSECT+F+I+R3
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0766
+  pi(R) = 0.0557
+  pi(N) = 0.0443
+  pi(D) = 0.0530
+  pi(C) = 0.0181
+  pi(Q) = 0.0520
+  pi(E) = 0.0638
+  pi(G) = 0.0643
+  pi(H) = 0.0264
+  pi(I) = 0.0492
+  pi(L) = 0.0907
+  pi(K) = 0.0555
+  pi(M) = 0.0234
+  pi(F) = 0.0333
+  pi(P) = 0.0539
+  pi(S) = 0.0813
+  pi(T) = 0.0589
+  pi(W) = 0.0091
+  pi(Y) = 0.0300
+  pi(V) = 0.0604
+
+Model of rate heterogeneity: Invar+FreeRate with 3 categories
+Proportion of invariable sites: 0.1977
+Site proportion and rates:  (0.4613,0.3223) (0.2823,1.5167) (0.0587,7.2041)
+
+ Category  Relative_rate  Proportion
+  0         0              0.1977
+  1         0.3223         0.4613
+  2         1.5167         0.2823
+  3         7.2041         0.0587
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -909805.1980 (s.e. 1393.0918)
+Unconstrained log-likelihood (without tree): -929009.8695
+Number of free parameters (#branches + #model parameters): 33
+Akaike information criterion (AIC) score: 1819676.3960
+Corrected Akaike information criterion (AICc) score: 1819676.4131
+Bayesian information criterion (BIC) score: 1819999.3150
+
+Total tree length (sum of branch lengths): 2.2040
+Sum of internal branch lengths: 0.3591 (16.2936% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Anoara' is drawn at root
+Numbers in parentheses are  standard bootstrap support (%)
+
++--Anoara
+|
++--Anocol
+|
+|     +-----Anodar
+|  +--| (100)
+|  |  |     +--------Culqui
+|  |  +-----| (100)
+|  |        +----------------------------------------------Drosim
++--| (100)
+   +--Anoste
+
+Tree in newick format:
+
+(Anoara:0.0037102730,Anocol:0.0039128751,((Anodar:0.1886033605,(Culqui:0.2666453101,Drosim:1.3037294241)100:0.1852212271)100:0.1054038731,Anoste:0.0783001582)100:0.0684882819);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 100 bootstrap trees
+Log-likelihood of consensus tree: -909805.16922117
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.00000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--Anoara
+|
++--Anocol
+|
+|     +-----Anodar
+|  +--| (100)
+|  |  |     +--------Culqui
+|  |  +-----| (100)
+|  |        +----------------------------------------------Drosim
++--| (100)
+   +--Anoste
+
+
+Consensus tree in newick format: 
+
+(Anoara:0.0037133593,Anocol:0.0039173336,((Anodar:0.1888427194,(Culqui:0.2669687889,Drosim:1.3055368813)100:0.1854927188)100:0.1055467366,Anoste:0.0783964536)100:0.0685775195);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t species_tree.treefile -m "Q.INSECT+F+I{0.197693}+R3{0.461309,0.32232,0.282251,1.5167,0.0587474,7.20408}" --length 131324
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s conc_species_tree.faa --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s conc_species_tree.faa --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Dec  9 15:57:32 2025
+Total CPU time used: 90568.01812 seconds (25h:9m:28s)
+Total wall-clock time used: 10363.67849 seconds (2h:52m:43s)
+

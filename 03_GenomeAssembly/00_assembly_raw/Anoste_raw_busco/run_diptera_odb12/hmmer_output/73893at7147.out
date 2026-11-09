@@ -1,0 +1,20 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+73893at7147_30069_0:001c64|ctg6:1972328-1975677|-  -            927 73893                -            880  1.7e-305 1004.1  28.0   1   1  2.1e-305  2.1e-305 1003.8  28.0     2   876     2   916     1   919 0.88 <unknown description>
+73893at7147_343691_0:00067b|ctg6:1972358-1982956|- -            940 73893                -            880  6.1e-288  946.0  40.8   1   2   1.8e-99   1.8e-99  322.5   3.6    34   237    45   252     9   259 0.86 <unknown description>
+73893at7147_343691_0:00067b|ctg6:1972358-1982956|- -            940 73893                -            880  6.1e-288  946.0  40.8   2   2  2.9e-192  2.9e-192  629.5  29.3   228   874   273   937   269   940 0.89 <unknown description>
+73893at7147_68878_0:0024e0|ctg6:1974035-1975662|-  -            453 73893                -            880  1.3e-167  547.9   7.7   1   2  1.6e-109  1.6e-109  355.7   2.4     8   237     3   238     1   245 0.94 <unknown description>
+73893at7147_68878_0:0024e0|ctg6:1974035-1975662|-  -            453 73893                -            880  1.3e-167  547.9   7.7   2   2   4.3e-61   4.3e-61  195.5   0.3   228   423   259   451   255   453 0.95 <unknown description>
+73893at7147_139047_0:0018de|ctg6:1974747-1975662|- -            242 73893                -            880  2.4e-110  358.4   2.6   1   1  2.9e-110  2.9e-110  358.2   2.6     8   237     3   238     1   240 0.94 <unknown description>
+73893at7147_139047_0:00003f|ctg6:1972669-1973217|- -            163 73893                -            880     1e-59  190.9   2.9   1   1   1.1e-59   1.1e-59  190.7   2.9   654   812     2   161     1   163 0.96 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/73893at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/73893at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/73893at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/73893at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/73893at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:36 2025
+# [ok]

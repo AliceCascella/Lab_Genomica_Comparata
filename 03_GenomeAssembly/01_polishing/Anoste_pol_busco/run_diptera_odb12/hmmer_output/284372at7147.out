@@ -1,0 +1,29 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+284372at7147_30069_0:001cfd|ctg8:7733816-7740827|+  -           1497 284372               -            988         0 1834.6  51.3   1   6  5.9e-300  5.9e-300  985.6  18.1     2   455    27   475    26   493 0.95 <unknown description>
+284372at7147_30069_0:001cfd|ctg8:7733816-7740827|+  -           1497 284372               -            988         0 1834.6  51.3   2   6         4         4   -7.8   8.3   417   454   591   630   574   662 0.46 <unknown description>
+284372at7147_30069_0:001cfd|ctg8:7733816-7740827|+  -           1497 284372               -            988         0 1834.6  51.3   3   6      0.29      0.29   -3.1   2.8   417   459   626   669   616   689 0.78 <unknown description>
+284372at7147_30069_0:001cfd|ctg8:7733816-7740827|+  -           1497 284372               -            988         0 1834.6  51.3   4   6  6.5e-210  6.5e-210  687.5   2.0   470   829   836  1216   799  1229 0.95 <unknown description>
+284372at7147_30069_0:001cfd|ctg8:7733816-7740827|+  -           1497 284372               -            988         0 1834.6  51.3   5   6     0.011     0.011    1.6   0.1   827   847  1265  1285  1257  1303 0.83 <unknown description>
+284372at7147_30069_0:001cfd|ctg8:7733816-7740827|+  -           1497 284372               -            988         0 1834.6  51.3   6   6   3.8e-57   3.8e-57  181.9   0.0   842   988  1309  1480  1285  1480 0.81 <unknown description>
+284372at7147_35570_0:003219|ctg8:7733840-7738839|+  -           1138 284372               -            988         0 1304.6  31.6   1   4  4.2e-296  4.2e-296  972.9  23.8     2   407    19   424    18   450 0.99 <unknown description>
+284372at7147_35570_0:003219|ctg8:7733840-7738839|+  -           1138 284372               -            988         0 1304.6  31.6   2   4       3.2       3.2   -6.6   7.5   417   454   690   729   665   755 0.48 <unknown description>
+284372at7147_35570_0:003219|ctg8:7733840-7738839|+  -           1138 284372               -            988         0 1304.6  31.6   3   4      0.35      0.35   -3.4   3.6   416   459   724   768   711   789 0.79 <unknown description>
+284372at7147_35570_0:003219|ctg8:7733840-7738839|+  -           1138 284372               -            988         0 1304.6  31.6   4   4    1e-106    1e-106  346.0   0.9   470   673   919  1137   887  1137 0.93 <unknown description>
+284372at7147_329112_0:00205a|ctg8:7739191-7740827|+ -            393 284372               -            988  1.2e-153  501.3   0.1   1   2     5e-90     5e-90  290.7   0.1   689   829     1   141     1   157 0.97 <unknown description>
+284372at7147_329112_0:00205a|ctg8:7739191-7740827|+ -            393 284372               -            988  1.2e-153  501.3   0.1   2   2   2.7e-65   2.7e-65  208.8   0.0   826   988   189   376   167   376 0.83 <unknown description>
+284372at7147_7396_0:002a89|ctg8:7736833-7739245|+   -            599 284372               -            988  8.4e-129  419.0   0.7   1   4      0.37      0.37   -3.5   2.7   418   467    46    98    37   117 0.55 <unknown description>
+284372at7147_7396_0:002a89|ctg8:7736833-7739245|+   -            599 284372               -            988  8.4e-129  419.0   0.7   2   4         4         4   -7.3   9.2   416   454    95   135    71   159 0.47 <unknown description>
+284372at7147_7396_0:002a89|ctg8:7736833-7739245|+   -            599 284372               -            988  8.4e-129  419.0   0.7   3   4       0.5       0.5   -3.9   5.2   416   459   130   174   115   194 0.79 <unknown description>
+284372at7147_7396_0:002a89|ctg8:7736833-7739245|+   -            599 284372               -            988  8.4e-129  419.0   0.7   4   4  8.4e-129  8.4e-129  419.0   0.7   470   707   341   599   295   599 0.93 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/284372at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/284372at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/284372at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/284372at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/284372at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:25 2025
+# [ok]

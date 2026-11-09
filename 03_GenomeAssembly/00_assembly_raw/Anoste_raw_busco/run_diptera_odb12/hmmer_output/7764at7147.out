@@ -1,0 +1,29 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+7764at7147_174621_0:00228d|ctg1:9721599-9726135|-  -            607 7764                 -            461  6.6e-228  745.4   2.8   1   3  8.5e-212  8.5e-212  692.3   0.3     1   407    85   497    85   511 0.97 <unknown description>
+7764at7147_174621_0:00228d|ctg1:9721599-9726135|-  -            607 7764                 -            461  6.6e-228  745.4   2.8   2   3    0.0015    0.0015    5.8   0.0   398   422   517   541   509   545 0.87 <unknown description>
+7764at7147_174621_0:00228d|ctg1:9721599-9726135|-  -            607 7764                 -            461  6.6e-228  745.4   2.8   3   3   7.1e-16   7.1e-16   46.4   0.0   421   461   564   606   557   606 0.89 <unknown description>
+7764at7147_2498891_0:003d01|ctg1:9721599-9729919|- -            613 7764                 -            461  6.9e-228  745.4   2.8   1   3  8.8e-212  8.8e-212  692.3   0.3     1   407    91   503    91   517 0.97 <unknown description>
+7764at7147_2498891_0:003d01|ctg1:9721599-9729919|- -            613 7764                 -            461  6.9e-228  745.4   2.8   2   3    0.0015    0.0015    5.8   0.0   398   422   523   547   515   551 0.87 <unknown description>
+7764at7147_2498891_0:003d01|ctg1:9721599-9729919|- -            613 7764                 -            461  6.9e-228  745.4   2.8   3   3   7.2e-16   7.2e-16   46.4   0.0   421   461   570   612   563   612 0.89 <unknown description>
+7764at7147_30069_0:00061b|ctg1:9721599-9725012|-   -            625 7764                 -            461  7.6e-228  745.2   2.8   1   3  9.3e-212  9.3e-212  692.2   0.3     1   407   103   515   103   529 0.97 <unknown description>
+7764at7147_30069_0:00061b|ctg1:9721599-9725012|-   -            625 7764                 -            461  7.6e-228  745.2   2.8   2   3    0.0015    0.0015    5.7   0.0   398   422   535   559   527   563 0.87 <unknown description>
+7764at7147_30069_0:00061b|ctg1:9721599-9725012|-   -            625 7764                 -            461  7.6e-228  745.2   2.8   3   3   7.4e-16   7.4e-16   46.3   0.0   421   461   582   624   575   624 0.89 <unknown description>
+7764at7147_190385_0:004687|ctg1:9721599-9724075|-  -            496 7764                 -            461  1.3e-219  718.1   2.6   1   3  2.8e-203  2.8e-203  664.2   0.2    25   407     1   386     1   399 0.98 <unknown description>
+7764at7147_190385_0:004687|ctg1:9721599-9724075|-  -            496 7764                 -            461  1.3e-219  718.1   2.6   2   3    0.0012    0.0012    6.1   0.0   398   422   406   430   399   434 0.87 <unknown description>
+7764at7147_190385_0:004687|ctg1:9721599-9724075|-  -            496 7764                 -            461  1.3e-219  718.1   2.6   3   3   5.5e-16   5.5e-16   46.8   0.0   421   461   453   495   446   495 0.89 <unknown description>
+7764at7147_139649_0:0008d6|ctg1:9723631-9724159|-  -            177 7764                 -            461   4.4e-90  291.0   0.1   1   1   4.8e-90   4.8e-90  290.9   0.1     1   171     2   175     2   177 0.97 <unknown description>
+7764at7147_139649_0:0014ec|ctg1:9721599-9722500|-  -            274 7764                 -            461   3.1e-88  285.0   1.7   1   3   5.2e-71   5.2e-71  228.1   0.1   248   407     2   164     1   178 0.94 <unknown description>
+7764at7147_139649_0:0014ec|ctg1:9721599-9722500|-  -            274 7764                 -            461   3.1e-88  285.0   1.7   2   3   0.00055   0.00055    7.2   0.0   398   422   184   208   175   212 0.87 <unknown description>
+7764at7147_139649_0:0014ec|ctg1:9721599-9722500|-  -            274 7764                 -            461   3.1e-88  285.0   1.7   3   3   2.4e-16   2.4e-16   47.9   0.0   421   461   231   273   224   273 0.89 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/7764at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/7764at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/7764at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/7764at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/7764at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:34 2025
+# [ok]

@@ -1,0 +1,29 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+320376at7147_38358_0:00057b|ctg3:25586232-25593382|-   -            669 320376               -            541  3.6e-288  945.7   0.1   1   1  4.6e-288  4.6e-288  945.4   0.1     2   534   113   656   112   662 0.96 <unknown description>
+320376at7147_190385_0:00024b|ctg3:25576690-25588289|-  -            676 320376               -            541  3.8e-284  932.4   0.1   1   2     2e-11     2e-11   32.3   0.1     2    70    14    88    13   106 0.87 <unknown description>
+320376at7147_190385_0:00024b|ctg3:25576690-25588289|-  -            676 320376               -            541  3.8e-284  932.4   0.1   2   2  9.3e-274  9.3e-274  898.2   0.0    67   534   174   643   146   649 0.97 <unknown description>
+320376at7147_30069_0:001904|ctg3:25586220-25588433|-   -            708 320376               -            541  4.7e-284  932.1   0.1   1   2   2.2e-11   2.2e-11   32.2   0.1     2    70    62   136    61   154 0.87 <unknown description>
+320376at7147_30069_0:001904|ctg3:25586220-25588433|-   -            708 320376               -            541  4.7e-284  932.1   0.1   2   2  1.1e-273  1.1e-273  898.0   0.0    67   534   222   691   194   697 0.97 <unknown description>
+320376at7147_286459_0:000c80|ctg3:25576690-25593280|-  -            652 320376               -            541  6.9e-279  915.1   0.0   1   2   4.1e-06   4.1e-06   14.8   0.0     2    36    56    90    55   103 0.92 <unknown description>
+320376at7147_286459_0:000c80|ctg3:25576690-25593280|-  -            652 320376               -            541  6.9e-279  915.1   0.0   2   2  8.3e-274  8.3e-274  898.3   0.0    67   534   150   619   122   625 0.97 <unknown description>
+320376at7147_7225_0:000c79|ctg3:25586226-25590210|-    -            686 320376               -            541  7.3e-279  915.0   0.0   1   2   3.6e-06   3.6e-06   15.0   0.0     2    37    78   113    77   144 0.90 <unknown description>
+320376at7147_7225_0:000c79|ctg3:25586226-25590210|-    -            686 320376               -            541  7.3e-279  915.0   0.0   2   2  9.7e-274  9.7e-274  898.1   0.0    67   534   202   671   174   677 0.97 <unknown description>
+320376at7147_2530218_0:001e32|ctg3:25586226-25587918|- -            565 320376               -            541    4e-274  899.4   0.0   1   1  5.1e-274  5.1e-274  899.0   0.0    67   534    81   550    53   556 0.97 <unknown description>
+320376at7147_139649_0:005f06|ctg3:25586262-25587339|-  -            360 320376               -            541  1.5e-224  735.7   0.3   1   1  1.8e-224  1.8e-224  735.5   0.3   178   534     1   357     1   359 1.00 <unknown description>
+320376at7147_139649_0:003e9f|ctg3:25586571-25588229|-  -            523 320376               -            541    2e-220  722.1   0.0   1   2     1e-09     1e-09   26.7   0.1     9    70     1    68     1    87 0.86 <unknown description>
+320376at7147_139649_0:003e9f|ctg3:25586571-25588229|-  -            523 320376               -            541    2e-220  722.1   0.0   2   2  8.6e-212  8.6e-212  693.6   0.0    67   434   154   523   126   523 0.97 <unknown description>
+320376at7147_139649_0:00605c|ctg3:25587054-25588229|-  -            362 320376               -            541  6.6e-117  380.5   0.0   1   2   5.8e-10   5.8e-10   27.5   0.1     9    70     1    68     1    89 0.86 <unknown description>
+320376at7147_139649_0:00605c|ctg3:25587054-25588229|-  -            362 320376               -            541  6.6e-117  380.5   0.0   2   2  4.8e-108  4.8e-108  351.2   0.0    67   273   154   362   126   362 0.94 <unknown description>
+320376at7147_139649_0:0061a4|ctg3:25586220-25586835|-  -            206 320376               -            541  1.7e-108  352.7   0.2   1   1    2e-108    2e-108  352.5   0.2   346   534     1   189     1   195 0.99 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/320376at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/320376at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/320376at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/320376at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/320376at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:26 2025
+# [ok]

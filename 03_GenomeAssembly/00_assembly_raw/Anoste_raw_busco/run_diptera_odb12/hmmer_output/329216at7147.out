@@ -1,0 +1,37 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+329216at7147_265458_0:0035d7|ctg2:2527934-2540211|+ -           2402 329216               -           1617         0 3005.9  63.3   1   5         4         4  -13.0  12.9   637   699   157   219   112   286 0.59 <unknown description>
+329216at7147_265458_0:0035d7|ctg2:2527934-2540211|+ -           2402 329216               -           1617         0 3005.9  63.3   2   5  1.9e-296  1.9e-296  974.6   6.6     5   473   471   941   467   954 0.96 <unknown description>
+329216at7147_265458_0:0035d7|ctg2:2527934-2540211|+ -           2402 329216               -           1617         0 3005.9  63.3   3   5     2e-86     2e-86  278.4   0.0   458   613   981  1138   968  1160 0.93 <unknown description>
+329216at7147_265458_0:0035d7|ctg2:2527934-2540211|+ -           2402 329216               -           1617         0 3005.9  63.3   4   5     5e-13     5e-13   35.2  12.7   598   681  1259  1342  1252  1373 0.81 <unknown description>
+329216at7147_265458_0:0035d7|ctg2:2527934-2540211|+ -           2402 329216               -           1617         0 3005.9  63.3   5   5         0         0 1740.6   6.6   656  1617  1351  2401  1340  2401 0.89 <unknown description>
+329216at7147_7225_0:001582|ctg2:2515938-2540211|+   -           2719 329216               -           1617         0 3000.3  59.1   1   6         4         4  -11.7  10.0   597   693   149   243   132   291 0.77 <unknown description>
+329216at7147_7225_0:001582|ctg2:2515938-2540211|+   -           2719 329216               -           1617         0 3000.3  59.1   2   6  2.3e-296  2.3e-296  974.3   6.6     5   473   593  1063   589  1076 0.96 <unknown description>
+329216at7147_7225_0:001582|ctg2:2515938-2540211|+   -           2719 329216               -           1617         0 3000.3  59.1   3   6   2.4e-86   2.4e-86  278.2   0.0   458   613  1103  1260  1090  1281 0.93 <unknown description>
+329216at7147_7225_0:001582|ctg2:2515938-2540211|+   -           2719 329216               -           1617         0 3000.3  59.1   4   6   5.6e-14   5.6e-14   38.3   8.5   598   678  1473  1553  1465  1564 0.85 <unknown description>
+329216at7147_7225_0:001582|ctg2:2515938-2540211|+   -           2719 329216               -           1617         0 3000.3  59.1   5   6         0         0 1061.2  10.9   657  1289  1566  2285  1557  2301 0.84 <unknown description>
+329216at7147_7225_0:001582|ctg2:2515938-2540211|+   -           2719 329216               -           1617         0 3000.3  59.1   6   6    2e-203    2e-203  666.3   0.0  1276  1617  2375  2718  2361  2718 0.97 <unknown description>
+329216at7147_7370_0:00098e|ctg2:2522005-2540211|+   -           2880 329216               -           1617         0 2998.4  62.0   1   6         4         4  -12.5  13.2   616   746   236   368   208   390 0.58 <unknown description>
+329216at7147_7370_0:00098e|ctg2:2522005-2540211|+   -           2880 329216               -           1617         0 2998.4  62.0   2   6  2.5e-296  2.5e-296  974.2   6.6     5   473   728  1198   724  1211 0.96 <unknown description>
+329216at7147_7370_0:00098e|ctg2:2522005-2540211|+   -           2880 329216               -           1617         0 2998.4  62.0   3   6   2.3e-86   2.3e-86  278.3   0.0   458   613  1238  1395  1225  1483 0.94 <unknown description>
+329216at7147_7370_0:00098e|ctg2:2522005-2540211|+   -           2880 329216               -           1617         0 2998.4  62.0   4   6     7e-14     7e-14   38.0   8.6   598   678  1634  1714  1627  1724 0.85 <unknown description>
+329216at7147_7370_0:00098e|ctg2:2522005-2540211|+   -           2880 329216               -           1617         0 2998.4  62.0   5   6         0         0 1061.6  10.4   657  1288  1727  2445  1718  2460 0.84 <unknown description>
+329216at7147_7370_0:00098e|ctg2:2522005-2540211|+   -           2880 329216               -           1617         0 2998.4  62.0   6   6  2.2e-203  2.2e-203  666.2   0.0  1276  1617  2536  2879  2522  2879 0.97 <unknown description>
+329216at7147_30069_0:0013cb|ctg2:2530393-2540211|+  -           3084 329216               -           1617         0 2994.1  65.8   1   7         4         4  -13.8  13.8   638   700   270   332   225   417 0.54 <unknown description>
+329216at7147_30069_0:0013cb|ctg2:2530393-2540211|+  -           3084 329216               -           1617         0 2994.1  65.8   2   7       3.6       3.6   -7.4   5.9   615   708   367   462   329   505 0.59 <unknown description>
+329216at7147_30069_0:0013cb|ctg2:2530393-2540211|+  -           3084 329216               -           1617         0 2994.1  65.8   3   7  2.8e-296  2.8e-296  974.1   6.6     5   473   861  1331   857  1344 0.96 <unknown description>
+329216at7147_30069_0:0013cb|ctg2:2530393-2540211|+  -           3084 329216               -           1617         0 2994.1  65.8   4   7   2.6e-86   2.6e-86  278.1   0.0   458   613  1371  1528  1358  1559 0.92 <unknown description>
+329216at7147_30069_0:0013cb|ctg2:2530393-2540211|+  -           3084 329216               -           1617         0 2994.1  65.8   5   7   5.9e-14   5.9e-14   38.3   8.3   598   678  1838  1918  1831  1929 0.85 <unknown description>
+329216at7147_30069_0:0013cb|ctg2:2530393-2540211|+  -           3084 329216               -           1617         0 2994.1  65.8   6   7         0         0 1061.9   9.9   657  1288  1931  2649  1922  2664 0.84 <unknown description>
+329216at7147_30069_0:0013cb|ctg2:2530393-2540211|+  -           3084 329216               -           1617         0 2994.1  65.8   7   7  2.4e-203  2.4e-203  666.0   0.0  1276  1617  2740  3083  2726  3083 0.97 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/329216at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/329216at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/329216at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/329216at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/329216at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:16 2025
+# [ok]

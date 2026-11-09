@@ -1,0 +1,29 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+154496at7147_68878_0:00048c|ctg1:16521578-16526331|-   -            425 154496               -            205   4.9e-86  276.1  32.6   1   3   6.1e-70   6.1e-70  223.6  14.7    19   169    72   222    59   247 0.77 <unknown description>
+154496at7147_68878_0:00048c|ctg1:16521578-16526331|-   -            425 154496               -            205   4.9e-86  276.1  32.6   2   3   5.6e-17   5.6e-17   50.6   5.2   114   175   285   349   270   366 0.67 <unknown description>
+154496at7147_68878_0:00048c|ctg1:16521578-16526331|-   -            425 154496               -            205   4.9e-86  276.1  32.6   3   3   8.4e-05   8.4e-05   10.9   0.1   140   201   355   415   346   418 0.68 <unknown description>
+154496at7147_2530218_0:001c68|ctg1:16521644-16522785|- -            296 154496               -            205     1e-85  275.1  21.0   1   2   6.2e-71   6.2e-71  226.8  11.1    20   178    10   164     3   177 0.75 <unknown description>
+154496at7147_2530218_0:001c68|ctg1:16521644-16522785|- -            296 154496               -            205     1e-85  275.1  21.0   2   2     1e-17     1e-17   53.0   3.9   114   179   178   246   164   266 0.68 <unknown description>
+154496at7147_30069_0:0010d7|ctg1:16521578-16539430|-   -            534 154496               -            205   2.1e-85  274.1  33.9   1   4       1.2       1.2   -2.7   0.0     9    22   113   126   111   138 0.77 <unknown description>
+154496at7147_30069_0:0010d7|ctg1:16521578-16539430|-   -            534 154496               -            205   2.1e-85  274.1  33.9   2   4   1.2e-69   1.2e-69  222.7  15.0    19   169   181   331   165   356 0.78 <unknown description>
+154496at7147_30069_0:0010d7|ctg1:16521578-16539430|-   -            534 154496               -            205   2.1e-85  274.1  33.9   3   4   6.8e-17   6.8e-17   50.3   5.2   114   175   394   458   378   477 0.67 <unknown description>
+154496at7147_30069_0:0010d7|ctg1:16521578-16539430|-   -            534 154496               -            205   2.1e-85  274.1  33.9   4   4   0.00012   0.00012   10.4   0.1   140   201   464   524   455   527 0.68 <unknown description>
+154496at7147_2498891_0:003144|ctg1:16521578-16523247|- -            516 154496               -            205   4.4e-85  273.0  35.2   1   4       1.2       1.2   -2.7   0.0     9    22    95   108    93   120 0.77 <unknown description>
+154496at7147_2498891_0:003144|ctg1:16521578-16523247|- -            516 154496               -            205   4.4e-85  273.0  35.2   2   4   1.9e-69   1.9e-69  222.0  15.9    18   169   162   313   145   340 0.78 <unknown description>
+154496at7147_2498891_0:003144|ctg1:16521578-16523247|- -            516 154496               -            205   4.4e-85  273.0  35.2   3   4   8.2e-17   8.2e-17   50.1   5.4   114   175   376   440   360   457 0.67 <unknown description>
+154496at7147_2498891_0:003144|ctg1:16521578-16523247|- -            516 154496               -            205   4.4e-85  273.0  35.2   4   4   0.00011   0.00011   10.5   0.0   140   201   446   506   437   509 0.68 <unknown description>
+154496at7147_7225_0:0029b2|ctg1:16521734-16532527|-    -            391 154496               -            205   8.8e-83  265.5  27.5   1   3      0.88      0.88   -2.3   0.0     9    21    68    80    66    90 0.76 <unknown description>
+154496at7147_7225_0:0029b2|ctg1:16521734-16532527|-    -            391 154496               -            205   8.8e-83  265.5  27.5   2   3   1.3e-69   1.3e-69  222.5  15.8    19   169   136   286   123   306 0.78 <unknown description>
+154496at7147_7225_0:0029b2|ctg1:16521734-16532527|-    -            391 154496               -            205   8.8e-83  265.5  27.5   3   3   3.5e-16   3.5e-16   48.0   4.5   108   177   297   369   291   385 0.75 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/154496at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/154496at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/154496at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/154496at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/154496at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:09 2025
+# [ok]

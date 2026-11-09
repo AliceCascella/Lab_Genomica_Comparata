@@ -1,0 +1,29 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+22024at7147_30069_0:002b36|ctg11:1742450-1745587|- -            854 22024                -            634    4e-297  974.9  24.7   1   4   1.9e-15   1.9e-15   44.4   0.0     4    66    32    94    30   108 0.88 <unknown description>
+22024at7147_30069_0:002b36|ctg11:1742450-1745587|- -            854 22024                -            634    4e-297  974.9  24.7   2   4   3.4e-12   3.4e-12   33.6   0.0    55   111   149   204   138   225 0.77 <unknown description>
+22024at7147_30069_0:002b36|ctg11:1742450-1745587|- -            854 22024                -            634    4e-297  974.9  24.7   3   4  1.6e-244  1.6e-244  801.1   5.0    98   555   262   738   257   746 0.88 <unknown description>
+22024at7147_30069_0:002b36|ctg11:1742450-1745587|- -            854 22024                -            634    4e-297  974.9  24.7   4   4   2.2e-32   2.2e-32  100.3  11.3   527   632   740   846   731   848 0.86 <unknown description>
+22024at7147_35570_0:0003aa|ctg11:1742489-1754271|- -            802 22024                -            634  1.1e-293  963.6  26.8   1   4   3.2e-16   3.2e-16   46.9   0.1     2    72    20    90    19   104 0.83 <unknown description>
+22024at7147_35570_0:0003aa|ctg11:1742489-1754271|- -            802 22024                -            634  1.1e-293  963.6  26.8   2   4   1.4e-11   1.4e-11   31.6   0.0    53   111   136   194   114   215 0.81 <unknown description>
+22024at7147_35570_0:0003aa|ctg11:1742489-1754271|- -            802 22024                -            634  1.1e-293  963.6  26.8   3   4  6.3e-242  6.3e-242  792.6   6.7   130   555   258   699   249   707 0.91 <unknown description>
+22024at7147_35570_0:0003aa|ctg11:1742489-1754271|- -            802 22024                -            634  1.1e-293  963.6  26.8   4   4   1.1e-31   1.1e-31   98.0  11.2   525   627   699   802   689   802 0.86 <unknown description>
+22024at7147_7225_0:003027|ctg11:1742486-1744688|-  -            683 22024                -            634    1e-282  927.3  18.8   1   3     3e-10     3e-10   27.2   0.0    77   111    11    45     3    66 0.81 <unknown description>
+22024at7147_7225_0:003027|ctg11:1742486-1744688|-  -            683 22024                -            634    1e-282  927.3  18.8   2   3  4.1e-245  4.1e-245  803.1   3.7    98   555   103   579    98   586 0.88 <unknown description>
+22024at7147_7225_0:003027|ctg11:1742486-1744688|-  -            683 22024                -            634    1e-282  927.3  18.8   3   3   4.6e-32   4.6e-32   99.2  10.9   525   627   579   682   569   683 0.87 <unknown description>
+22024at7147_29031_0:0017be|ctg11:1742456-1744201|- -            557 22024                -            634    3e-271  889.4  23.8   1   2  4.4e-242  4.4e-242  793.1   7.0   131   556     3   444     2   451 0.91 <unknown description>
+22024at7147_29031_0:0017be|ctg11:1742456-1744201|- -            557 22024                -            634    3e-271  889.4  23.8   2   2   8.5e-33   8.5e-33  101.7  11.4   523   632   441   551   431   553 0.86 <unknown description>
+22024at7147_13632_0:001bff|ctg11:1742978-1745097|- -            625 22024                -            634  3.9e-262  859.3   6.2   1   3   4.2e-16   4.2e-16   46.5   0.1     4    72     8    76     5    89 0.83 <unknown description>
+22024at7147_13632_0:001bff|ctg11:1742978-1745097|- -            625 22024                -            634  3.9e-262  859.3   6.2   2   3   9.8e-12   9.8e-12   32.1   0.0    53   111   122   180    92   200 0.81 <unknown description>
+22024at7147_13632_0:001bff|ctg11:1742978-1745097|- -            625 22024                -            634  3.9e-262  859.3   6.2   3   3  1.9e-238  1.9e-238  781.0   2.3   130   511   244   624   230   625 0.99 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/22024at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/22024at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/22024at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/22024at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/22024at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:01 2025
+# [ok]

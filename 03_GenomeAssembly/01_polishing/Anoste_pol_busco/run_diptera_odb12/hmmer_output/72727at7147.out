@@ -1,0 +1,20 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+72727at7147_30069_0:000fc7|ctg1:18729021-18735924|- -            746 72727                -            610  7.8e-211  688.7  99.5   1   5   8.3e-28   8.3e-28   84.1  12.0     1    94     1   110     1   112 0.79 <unknown description>
+72727at7147_30069_0:000fc7|ctg1:18729021-18735924|- -            746 72727                -            610  7.8e-211  688.7  99.5   2   5    0.0041    0.0041    2.6   0.0   133   154   119   140   116   150 0.90 <unknown description>
+72727at7147_30069_0:000fc7|ctg1:18729021-18735924|- -            746 72727                -            610  7.8e-211  688.7  99.5   3   5  4.9e-171  4.9e-171  557.2  55.7   169   533   169   579   166   585 0.84 <unknown description>
+72727at7147_30069_0:000fc7|ctg1:18729021-18735924|- -            746 72727                -            610  7.8e-211  688.7  99.5   4   5   2.6e-20   2.6e-20   59.4  10.2   521   586   588   653   579   659 0.86 <unknown description>
+72727at7147_30069_0:000fc7|ctg1:18729021-18735924|- -            746 72727                -            610  7.8e-211  688.7  99.5   5   5      0.17      0.17   -2.7   0.2   581   599   684   701   677   705 0.73 <unknown description>
+72727at7147_7370_0:002643|ctg1:18729021-18732811|-  -            422 72727                -            610   3.2e-97  313.4  49.1   1   2   3.2e-97   3.2e-97  313.4  49.1   308   581     1   329     1   361 0.77 <unknown description>
+72727at7147_7370_0:002643|ctg1:18729021-18732811|-  -            422 72727                -            610   3.2e-97  313.4  49.1   2   2     0.071     0.071   -1.5   0.2   580   599   359   377   347   382 0.75 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/72727at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/72727at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/72727at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/72727at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/72727at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:48 2025
+# [ok]

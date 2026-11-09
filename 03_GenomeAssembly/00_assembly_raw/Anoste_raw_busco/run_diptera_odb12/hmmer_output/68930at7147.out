@@ -1,0 +1,20 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+68930at7147_329112_0:0001b9|ctg13:1603060-1604468|+ -            368 68930                -            348   1.6e-81  261.7  42.0   1   3     1e-11     1e-11   32.1   4.7    21    95    20    94     5   105 0.67 <unknown description>
+68930at7147_329112_0:0001b9|ctg13:1603060-1604468|+ -            368 68930                -            348   1.6e-81  261.7  42.0   2   3     8e-61     8e-61  193.6   0.2    82   202   116   233   112   243 0.88 <unknown description>
+68930at7147_329112_0:0001b9|ctg13:1603060-1604468|+ -            368 68930                -            348   1.6e-81  261.7  42.0   3   3   1.2e-15   1.2e-15   45.0  24.0   214   298   264   361   252   367 0.74 <unknown description>
+68930at7147_30069_0:000aaf|ctg13:1602826-1604663|+  -            511 68930                -            348   5.8e-81  259.8  42.7   1   2   9.6e-12   9.6e-12   32.2   3.9    20    95    97   172    78   183 0.68 <unknown description>
+68930at7147_30069_0:000aaf|ctg13:1602826-1604663|+  -            511 68930                -            348   5.8e-81  259.8  42.7   2   2     8e-72     8e-72  229.8  30.9    82   299   194   440   190   487 0.78 <unknown description>
+68930at7147_290404_0:000437|ctg13:1603063-1610727|+ -            379 68930                -            348   9.6e-70  222.9  55.1   1   2   1.1e-11   1.1e-11   32.0   4.7    21    95    19    93     4   104 0.67 <unknown description>
+68930at7147_290404_0:000437|ctg13:1603063-1610727|+ -            379 68930                -            348   9.6e-70  222.9  55.1   2   2   2.6e-59   2.6e-59  188.6  42.4    82   299   115   309   111   325 0.76 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/68930at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/68930at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/68930at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/68930at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/68930at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:28 2025
+# [ok]

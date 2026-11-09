@@ -1,0 +1,19 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+61443at7147_1496333_0:000962|ctg1:411543-415899|+ -           1453 61443                -           1215         0 2234.5  38.3   1   2         0         0 2234.5  38.3     3  1165    45  1234    43  1278 0.97 <unknown description>
+61443at7147_1496333_0:000962|ctg1:411543-415899|+ -           1453 61443                -           1215         0 2234.5  38.3   2   2     0.004     0.004    2.5   0.8  1157  1203  1279  1326  1263  1335 0.74 <unknown description>
+61443at7147_263140_0:00291a|ctg1:402136-415899|+  -           1467 61443                -           1215         0 2234.5  38.2   1   2         0         0 2234.5  38.2     3  1165    59  1248    57  1292 0.97 <unknown description>
+61443at7147_263140_0:00291a|ctg1:402136-415899|+  -           1467 61443                -           1215         0 2234.5  38.2   2   2     0.004     0.004    2.5   0.8  1157  1203  1293  1340  1277  1349 0.74 <unknown description>
+61443at7147_68878_0:000355|ctg1:412620-415899|+   -            969 61443                -           1215         0 1674.6  30.5   1   1         0         0 1674.3  30.5   301  1138     1   841     1   875 0.99 <unknown description>
+61443at7147_7225_0:001960|ctg1:411672-413745|+    -            692 61443                -           1215         0 1257.0  24.1   1   1         0         0 1256.6  24.1     4   676     3   692     1   692 0.97 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/61443at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/61443at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/61443at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/61443at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/61443at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:33 2025
+# [ok]

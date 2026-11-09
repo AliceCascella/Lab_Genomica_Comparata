@@ -1,0 +1,20 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+76622at7147_30069_0:001251|ctg2:7984218-7986923|- -            877 76622                -            295  1.1e-107  345.9 111.4   1   7   1.7e-34   1.7e-34  105.6  32.0     1   149     2   166     2   180 0.79 <unknown description>
+76622at7147_30069_0:001251|ctg2:7984218-7986923|- -            877 76622                -            295  1.1e-107  345.9 111.4   2   7         1         1  -19.4  37.0    90   172   170   249   164   256 0.65 <unknown description>
+76622at7147_30069_0:001251|ctg2:7984218-7986923|- -            877 76622                -            295  1.1e-107  345.9 111.4   3   7    0.0058    0.0058    2.1  21.6    88   134   247   292   240   293 0.85 <unknown description>
+76622at7147_30069_0:001251|ctg2:7984218-7986923|- -            877 76622                -            295  1.1e-107  345.9 111.4   4   7   3.4e-16   3.4e-16   45.5  39.7    96   216   291   419   287   426 0.80 <unknown description>
+76622at7147_30069_0:001251|ctg2:7984218-7986923|- -            877 76622                -            295  1.1e-107  345.9 111.4   5   7         1         1   -8.2  20.9   130   223   415   506   408   513 0.83 <unknown description>
+76622at7147_30069_0:001251|ctg2:7984218-7986923|- -            877 76622                -            295  1.1e-107  345.9 111.4   6   7         1         1  -16.3  27.9    77   166   564   650   556   660 0.65 <unknown description>
+76622at7147_30069_0:001251|ctg2:7984218-7986923|- -            877 76622                -            295  1.1e-107  345.9 111.4   7   7   9.2e-71   9.2e-71  224.6  23.6    88   295   665   876   660   876 0.77 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/76622at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/76622at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/76622at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/76622at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/76622at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:43 2025
+# [ok]

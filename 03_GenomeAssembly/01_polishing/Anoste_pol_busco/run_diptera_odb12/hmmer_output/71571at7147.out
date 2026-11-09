@@ -1,0 +1,20 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+71571at7147_30069_0:002653|ctg4:1188666-1191712|+  -            648 71571                -            489  3.9e-231  755.6  50.7   1   4  5.3e-155  5.3e-155  504.5   0.2     1   236     1   240     1   248 0.96 <unknown description>
+71571at7147_30069_0:002653|ctg4:1188666-1191712|+  -            648 71571                -            489  3.9e-231  755.6  50.7   2   4   6.9e-05   6.9e-05    9.4   0.0   229   254   262   287   250   293 0.76 <unknown description>
+71571at7147_30069_0:002653|ctg4:1188666-1191712|+  -            648 71571                -            489  3.9e-231  755.6  50.7   3   4     1e-30     1e-30   94.6  23.1   263   356   325   432   309   467 0.66 <unknown description>
+71571at7147_30069_0:002653|ctg4:1188666-1191712|+  -            648 71571                -            489  3.9e-231  755.6  50.7   4   4   1.2e-49   1.2e-49  157.0  11.8   349   489   482   647   468   647 0.75 <unknown description>
+71571at7147_104688_0:002e4e|ctg4:1189533-1190055|+ -            175 71571                -            489   9.9e-38  117.7  14.1   1   2   4.9e-05   4.9e-05    9.8   0.0   238   255     8    25     2    34 0.84 <unknown description>
+71571at7147_104688_0:002e4e|ctg4:1189533-1190055|+ -            175 71571                -            489   9.9e-38  117.7  14.1   2   2   2.6e-34   2.6e-34  106.4  13.7   262   342    61   152    44   172 0.75 <unknown description>
+71571at7147_104688_0:0013b2|ctg4:1191511-1191712|+ -             68 71571                -            489     1e-28   87.9   2.5   1   1   1.1e-28   1.1e-28   87.8   2.5   431   489     6    67     2    67 0.91 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/71571at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/71571at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/71571at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/71571at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/71571at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:43 2025
+# [ok]

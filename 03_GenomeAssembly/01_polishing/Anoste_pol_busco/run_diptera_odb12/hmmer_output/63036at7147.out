@@ -1,0 +1,28 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+63036at7147_30069_0:001232|ctg3:22909933-22915870|+  -           1353 63036                -           1045         0 1016.6  81.1   1   5  1.3e-114  1.3e-114  372.2  12.0    86   402     1   353     1   362 0.83 <unknown description>
+63036at7147_30069_0:001232|ctg3:22909933-22915870|+  -           1353 63036                -           1045         0 1016.6  81.1   2   5   3.6e-34   3.6e-34  105.9   9.3   375   487   359   493   345   517 0.69 <unknown description>
+63036at7147_30069_0:001232|ctg3:22909933-22915870|+  -           1353 63036                -           1045         0 1016.6  81.1   3   5  7.8e-100  7.8e-100  323.3  12.2   507   832   601   997   592  1042 0.73 <unknown description>
+63036at7147_30069_0:001232|ctg3:22909933-22915870|+  -           1353 63036                -           1045         0 1016.6  81.1   4   5   2.1e-28   2.1e-28   86.8   7.4   814   920  1037  1175  1018  1185 0.70 <unknown description>
+63036at7147_30069_0:001232|ctg3:22909933-22915870|+  -           1353 63036                -           1045         0 1016.6  81.1   5   5   6.8e-43   6.8e-43  134.8  13.2   903  1038  1192  1331  1176  1337 0.84 <unknown description>
+63036at7147_290404_0:001239|ctg3:22909981-22922972|+ -           1217 63036                -           1045  2.2e-306 1007.1  77.5   1   5  1.3e-109  1.3e-109  355.7  11.9   103   402     2   336     1   341 0.82 <unknown description>
+63036at7147_290404_0:001239|ctg3:22909981-22922972|+ -           1217 63036                -           1045  2.2e-306 1007.1  77.5   2   5   3.1e-34   3.1e-34  106.1   6.9   375   476   342   465   329   480 0.73 <unknown description>
+63036at7147_290404_0:001239|ctg3:22909981-22922972|+ -           1217 63036                -           1045  2.2e-306 1007.1  77.5   3   5  1.4e-123  1.4e-123  401.9  17.5   507   892   521  1000   512  1027 0.72 <unknown description>
+63036at7147_290404_0:001239|ctg3:22909981-22922972|+ -           1217 63036                -           1045  2.2e-306 1007.1  77.5   4   5   4.9e-07   4.9e-07   16.1   0.6   892   920  1025  1053  1015  1063 0.83 <unknown description>
+63036at7147_290404_0:001239|ctg3:22909981-22922972|+ -           1217 63036                -           1045  2.2e-306 1007.1  77.5   5   5   2.7e-44   2.7e-44  139.4  13.4   904  1044  1071  1215  1061  1216 0.86 <unknown description>
+63036at7147_7370_0:000bec|ctg3:22909801-22913991|+   -           1246 63036                -           1045  5.8e-296  972.7  72.3   1   4  1.1e-110  1.1e-110  359.2  15.9    73   402    32   419    26   424 0.78 <unknown description>
+63036at7147_7370_0:000bec|ctg3:22909801-22913991|+   -           1246 63036                -           1045  5.8e-296  972.7  72.3   2   4   2.2e-34   2.2e-34  106.6   8.2   376   487   426   559   415   583 0.70 <unknown description>
+63036at7147_7370_0:000bec|ctg3:22909801-22913991|+   -           1246 63036                -           1045  5.8e-296  972.7  72.3   3   4  1.2e-125  1.2e-125  408.8  26.4   493   920   598  1149   591  1159 0.70 <unknown description>
+63036at7147_7370_0:000bec|ctg3:22909801-22913991|+   -           1246 63036                -           1045  5.8e-296  972.7  72.3   4   4     3e-30     3e-30   92.9   0.8   903   981  1166  1246  1149  1246 0.85 <unknown description>
+63036at7147_139649_0:003802|ctg3:22909966-22910852|+ -            237 63036                -           1045  3.9e-101  327.6  10.1   1   1   7.9e-99   7.9e-99  320.0  10.1    97   311     1   234     1   237 0.86 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/63036at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/63036at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/63036at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/63036at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/63036at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:40 2025
+# [ok]

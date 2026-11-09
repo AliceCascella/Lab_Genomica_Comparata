@@ -1,0 +1,39 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+45005at7147_139045_0:0001d0|ctg4:9366943-9518591|+ -           1025 45005                -            602         0 1039.4  29.3   1   5     0.017     0.017    2.0   1.3     4    27   219   242   216   254 0.78 <unknown description>
+45005at7147_139045_0:0001d0|ctg4:9366943-9518591|+ -           1025 45005                -            602         0 1039.4  29.3   2   5  5.7e-259  5.7e-259  849.0   0.0     9   450   267   720   256   747 0.93 <unknown description>
+45005at7147_139045_0:0001d0|ctg4:9366943-9518591|+ -           1025 45005                -            602         0 1039.4  29.3   3   5   5.2e-05   5.2e-05   10.3   6.4   444   484   762   802   752   821 0.72 <unknown description>
+45005at7147_139045_0:0001d0|ctg4:9366943-9518591|+ -           1025 45005                -            602         0 1039.4  29.3   4   5   2.8e-21   2.8e-21   64.0   7.1   461   533   815   893   796   900 0.74 <unknown description>
+45005at7147_139045_0:0001d0|ctg4:9366943-9518591|+ -           1025 45005                -            602         0 1039.4  29.3   5   5   4.1e-39   4.1e-39  122.9   0.3   512   602   930  1017   901  1017 0.83 <unknown description>
+45005at7147_7160_0:00125f|ctg4:9515723-9518591|+   -            855 45005                -            602         0 1037.4  33.1   1   5     0.014     0.014    2.3   1.3     4    27    49    72    46    84 0.78 <unknown description>
+45005at7147_7160_0:00125f|ctg4:9515723-9518591|+   -            855 45005                -            602         0 1037.4  33.1   2   5  3.6e-259  3.6e-259  849.7   0.0     9   450    97   550    86   577 0.93 <unknown description>
+45005at7147_7160_0:00125f|ctg4:9515723-9518591|+   -            855 45005                -            602         0 1037.4  33.1   3   5     5e-05     5e-05   10.3   6.5   444   484   592   632   582   649 0.73 <unknown description>
+45005at7147_7160_0:00125f|ctg4:9515723-9518591|+   -            855 45005                -            602         0 1037.4  33.1   4   5   9.7e-22   9.7e-22   65.6   5.3   462   533   646   723   630   729 0.77 <unknown description>
+45005at7147_7160_0:00125f|ctg4:9515723-9518591|+   -            855 45005                -            602         0 1037.4  33.1   5   5   1.3e-38   1.3e-38  121.3   2.3   512   602   760   847   732   847 0.83 <unknown description>
+45005at7147_30069_0:002dc9|ctg4:9499903-9518591|+  -            868 45005                -            602         0 1037.2  33.1   1   5     0.014     0.014    2.3   1.3     4    27    62    85    59    97 0.78 <unknown description>
+45005at7147_30069_0:002dc9|ctg4:9499903-9518591|+  -            868 45005                -            602         0 1037.2  33.1   2   5  3.8e-259  3.8e-259  849.6   0.0     9   450   110   563    99   590 0.93 <unknown description>
+45005at7147_30069_0:002dc9|ctg4:9499903-9518591|+  -            868 45005                -            602         0 1037.2  33.1   3   5   5.1e-05   5.1e-05   10.3   6.5   444   484   605   645   595   662 0.73 <unknown description>
+45005at7147_30069_0:002dc9|ctg4:9499903-9518591|+  -            868 45005                -            602         0 1037.2  33.1   4   5   9.9e-22   9.9e-22   65.5   5.3   462   533   659   736   643   742 0.77 <unknown description>
+45005at7147_30069_0:002dc9|ctg4:9499903-9518591|+  -            868 45005                -            602         0 1037.2  33.1   5   5   1.3e-38   1.3e-38  121.2   2.3   512   602   773   860   745   860 0.83 <unknown description>
+45005at7147_185578_0:0026cf|ctg4:9454809-9518591|+ -            937 45005                -            602         0 1036.5  33.1   1   5     0.015     0.015    2.2   1.3     4    27   131   154   128   166 0.78 <unknown description>
+45005at7147_185578_0:0026cf|ctg4:9454809-9518591|+ -            937 45005                -            602         0 1036.5  33.1   2   5  4.6e-259  4.6e-259  849.4   0.0     9   450   179   632   168   659 0.93 <unknown description>
+45005at7147_185578_0:0026cf|ctg4:9454809-9518591|+ -            937 45005                -            602         0 1036.5  33.1   3   5   5.6e-05   5.6e-05   10.2   6.5   444   484   674   714   664   731 0.73 <unknown description>
+45005at7147_185578_0:0026cf|ctg4:9454809-9518591|+ -            937 45005                -            602         0 1036.5  33.1   4   5   1.1e-21   1.1e-21   65.4   5.3   462   533   728   805   712   811 0.77 <unknown description>
+45005at7147_185578_0:0026cf|ctg4:9454809-9518591|+ -            937 45005                -            602         0 1036.5  33.1   5   5   1.5e-38   1.5e-38  121.1   2.3   512   602   842   929   814   929 0.84 <unknown description>
+45005at7147_7167_0:000f0f|ctg4:9482689-9518591|+   -            937 45005                -            602         0 1028.4  44.5   1   6      0.27      0.27   -2.0   3.5   459   533    12    87     7   104 0.69 <unknown description>
+45005at7147_7167_0:000f0f|ctg4:9482689-9518591|+   -            937 45005                -            602         0 1028.4  44.5   2   6     0.015     0.015    2.2   1.3     4    27   131   154   128   166 0.78 <unknown description>
+45005at7147_7167_0:000f0f|ctg4:9482689-9518591|+   -            937 45005                -            602         0 1028.4  44.5   3   6  4.6e-259  4.6e-259  849.4   0.0     9   450   179   632   168   659 0.93 <unknown description>
+45005at7147_7167_0:000f0f|ctg4:9482689-9518591|+   -            937 45005                -            602         0 1028.4  44.5   4   6   5.6e-05   5.6e-05   10.2   6.5   444   484   674   714   664   731 0.73 <unknown description>
+45005at7147_7167_0:000f0f|ctg4:9482689-9518591|+   -            937 45005                -            602         0 1028.4  44.5   5   6   1.1e-21   1.1e-21   65.4   5.3   462   533   728   805   712   811 0.77 <unknown description>
+45005at7147_7167_0:000f0f|ctg4:9482689-9518591|+   -            937 45005                -            602         0 1028.4  44.5   6   6   1.5e-38   1.5e-38  121.1   2.3   512   602   842   929   814   929 0.84 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/45005at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/45005at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/45005at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/45005at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/45005at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:18 2025
+# [ok]

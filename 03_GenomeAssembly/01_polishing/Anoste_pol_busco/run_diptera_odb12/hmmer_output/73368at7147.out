@@ -1,0 +1,24 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+73368at7147_7396_0:000536|ctg2:6769655-6777423|-  -            746 73368                -            478  1.8e-181  591.8  43.7   1   4  2.2e-121  2.9e-121  393.3   8.1     2   261    26   288    25   297 0.95 <unknown description>
+73368at7147_7396_0:000536|ctg2:6769655-6777423|-  -            746 73368                -            478  1.8e-181  591.8  43.7   2   4     1e-33   1.3e-33  104.2   7.0   250   434   305   487   296   503 0.78 <unknown description>
+73368at7147_7396_0:000536|ctg2:6769655-6777423|-  -            746 73368                -            478  1.8e-181  591.8  43.7   3   4   2.8e-11   3.7e-11   30.2   0.9   363   425   591   656   559   658 0.74 <unknown description>
+73368at7147_7396_0:000536|ctg2:6769655-6777423|-  -            746 73368                -            478  1.8e-181  591.8  43.7   4   4   1.4e-27   1.9e-27   83.9   2.0   413   478   668   734   661   734 0.94 <unknown description>
+73368at7147_30069_0:0012c1|ctg2:6775070-6777420|- -            739 73368                -            478  2.6e-181  591.3  44.4   1   3  2.7e-147  3.6e-147  478.7  23.2     2   434    25   486    24   502 0.83 <unknown description>
+73368at7147_30069_0:0012c1|ctg2:6775070-6777420|- -            739 73368                -            478  2.6e-181  591.3  44.4   2   3   2.7e-11   3.6e-11   30.2   0.9   363   425   590   655   558   657 0.74 <unknown description>
+73368at7147_30069_0:0012c1|ctg2:6775070-6777420|- -            739 73368                -            478  2.6e-181  591.3  44.4   3   3   1.4e-27   1.9e-27   83.9   2.0   413   478   667   733   660   733 0.94 <unknown description>
+73368at7147_28588_0:00288b|ctg2:6775070-6781272|- -            723 73368                -            478  1.3e-180  589.0  47.5   1   4  1.7e-121  2.3e-121  393.6   8.0     2   261    40   302    39   313 0.95 <unknown description>
+73368at7147_28588_0:00288b|ctg2:6775070-6781272|- -            723 73368                -            478  1.3e-180  589.0  47.5   2   4   5.5e-32   7.3e-32   98.5  14.1   250   432   319   507   313   523 0.75 <unknown description>
+73368at7147_28588_0:00288b|ctg2:6775070-6781272|- -            723 73368                -            478  1.3e-180  589.0  47.5   3   4   2.6e-11   3.5e-11   30.3   0.9   363   425   574   639   543   641 0.74 <unknown description>
+73368at7147_28588_0:00288b|ctg2:6775070-6781272|- -            723 73368                -            478  1.3e-180  589.0  47.5   4   4   1.4e-27   1.8e-27   84.0   2.0   413   478   651   717   644   717 0.94 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/73368at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/73368at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/73368at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/73368at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/73368at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:50 2025
+# [ok]

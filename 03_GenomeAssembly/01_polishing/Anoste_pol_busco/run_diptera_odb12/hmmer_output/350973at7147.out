@@ -1,0 +1,33 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+350973at7147_30069_0:0011f8|ctg13:1698814-1702480|+ -           1197 350973               -            432   2.4e-84  271.4  65.2   1  10      0.78       1.2   -4.4   0.7   319   341    63    84    54   105 0.54 <unknown description>
+350973at7147_30069_0:0011f8|ctg13:1698814-1702480|+ -           1197 350973               -            432   2.4e-84  271.4  65.2   2  10      0.48      0.72   -3.7   0.1   353   389   147   183   140   190 0.78 <unknown description>
+350973at7147_30069_0:0011f8|ctg13:1698814-1702480|+ -           1197 350973               -            432   2.4e-84  271.4  65.2   3  10   2.5e-11   3.7e-11   30.2   0.0     4    49   235   288   232   305 0.84 <unknown description>
+350973at7147_30069_0:0011f8|ctg13:1698814-1702480|+ -           1197 350973               -            432   2.4e-84  271.4  65.2   4  10      0.02     0.031    0.9   0.1    48    71   384   407   374   416 0.82 <unknown description>
+350973at7147_30069_0:0011f8|ctg13:1698814-1702480|+ -           1197 350973               -            432   2.4e-84  271.4  65.2   5  10   4.7e-12   7.1e-12   32.6   0.2    50   125   421   498   412   506 0.78 <unknown description>
+350973at7147_30069_0:0011f8|ctg13:1698814-1702480|+ -           1197 350973               -            432   2.4e-84  271.4  65.2   6  10   3.4e-16   5.2e-16   46.2   0.4   117   179   630   697   594   703 0.83 <unknown description>
+350973at7147_30069_0:0011f8|ctg13:1698814-1702480|+ -           1197 350973               -            432   2.4e-84  271.4  65.2   7  10   2.9e-07   4.3e-07   16.8   1.1   184   235   757   817   746   830 0.71 <unknown description>
+350973at7147_30069_0:0011f8|ctg13:1698814-1702480|+ -           1197 350973               -            432   2.4e-84  271.4  65.2   8  10   7.3e-08   1.1e-07   18.8   0.9   230   282   865   921   842   941 0.74 <unknown description>
+350973at7147_30069_0:0011f8|ctg13:1698814-1702480|+ -           1197 350973               -            432   2.4e-84  271.4  65.2   9  10   2.3e-07   3.5e-07   17.1   0.0   274   300   998  1024   990  1028 0.88 <unknown description>
+350973at7147_30069_0:0011f8|ctg13:1698814-1702480|+ -           1197 350973               -            432   2.4e-84  271.4  65.2  10  10   2.4e-44   3.6e-44  139.0  18.7   295   432  1049  1194  1046  1194 0.94 <unknown description>
+350973at7147_7167_0:0006d1|ctg13:1686412-1702480|+  -           1225 350973               -            432   3.4e-84  270.9  65.4   1  10       0.8       1.2   -4.4   0.7   319   341    91   112    82   133 0.54 <unknown description>
+350973at7147_7167_0:0006d1|ctg13:1686412-1702480|+  -           1225 350973               -            432   3.4e-84  270.9  65.4   2  10      0.54      0.81   -3.8   0.1   353   388   175   210   168   217 0.78 <unknown description>
+350973at7147_7167_0:0006d1|ctg13:1686412-1702480|+  -           1225 350973               -            432   3.4e-84  270.9  65.4   3  10   2.5e-11   3.8e-11   30.2   0.0     4    49   263   316   260   333 0.84 <unknown description>
+350973at7147_7167_0:0006d1|ctg13:1686412-1702480|+  -           1225 350973               -            432   3.4e-84  270.9  65.4   4  10     0.021     0.031    0.8   0.1    48    71   412   435   402   444 0.82 <unknown description>
+350973at7147_7167_0:0006d1|ctg13:1686412-1702480|+  -           1225 350973               -            432   3.4e-84  270.9  65.4   5  10   4.9e-12   7.3e-12   32.6   0.2    50   125   449   526   440   534 0.78 <unknown description>
+350973at7147_7167_0:0006d1|ctg13:1686412-1702480|+  -           1225 350973               -            432   3.4e-84  270.9  65.4   6  10   3.5e-16   5.3e-16   46.2   0.4   117   179   658   725   622   731 0.83 <unknown description>
+350973at7147_7167_0:0006d1|ctg13:1686412-1702480|+  -           1225 350973               -            432   3.4e-84  270.9  65.4   7  10   2.9e-07   4.4e-07   16.8   1.1   184   235   785   845   774   858 0.71 <unknown description>
+350973at7147_7167_0:0006d1|ctg13:1686412-1702480|+  -           1225 350973               -            432   3.4e-84  270.9  65.4   8  10   7.8e-08   1.2e-07   18.7   0.9   230   282   893   949   871   969 0.74 <unknown description>
+350973at7147_7167_0:0006d1|ctg13:1686412-1702480|+  -           1225 350973               -            432   3.4e-84  270.9  65.4   9  10   2.4e-07   3.6e-07   17.1   0.0   274   300  1026  1052  1018  1056 0.88 <unknown description>
+350973at7147_7167_0:0006d1|ctg13:1686412-1702480|+  -           1225 350973               -            432   3.4e-84  270.9  65.4  10  10   2.5e-44   3.7e-44  139.0  18.7   295   432  1077  1222  1074  1222 0.94 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/350973at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/350973at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/350973at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/350973at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/350973at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:32 2025
+# [ok]

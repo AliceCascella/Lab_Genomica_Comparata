@@ -1,0 +1,20 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+336049at7147_7160_0:002120|ctg3:10106341-10108582|+    -            701 336049               -            578  9.3e-304  996.3   0.1   1   2  1.8e-176  1.8e-176  576.0   0.0     3   343    27   390    25   399 0.92 <unknown description>
+336049at7147_7160_0:002120|ctg3:10106341-10108582|+    -            701 336049               -            578  9.3e-304  996.3   0.1   2   2  3.7e-127  3.7e-127  413.1   0.1   339   575   410   670   400   673 0.88 <unknown description>
+336049at7147_2530218_0:000880|ctg3:10105456-10108522|+ -            976 336049               -            578  6.3e-303  993.5   0.1   1   2  3.7e-176  3.7e-176  574.9   0.0     3   343   322   685   320   696 0.92 <unknown description>
+336049at7147_2530218_0:000880|ctg3:10105456-10108522|+ -            976 336049               -            578  6.3e-303  993.5   0.1   2   2    7e-127    7e-127  412.2   0.1   339   575   705   965   694   968 0.88 <unknown description>
+336049at7147_263140_0:00322e|ctg3:10087319-10108525|+  -           1658 336049               -            578  4.1e-302  990.8   0.0   1   1  5.7e-301  5.7e-301  987.1   0.0     3   575  1015  1646  1013  1649 0.89 <unknown description>
+336049at7147_325434_0:000662|ctg3:10103264-10108570|+  -           1672 336049               -            578  8.4e-302  989.8   0.0   1   1  1.1e-298  1.1e-298  979.5   0.0     3   575  1002  1645  1000  1648 0.87 <unknown description>
+336049at7147_30069_0:000609|ctg3:10068548-10108597|+   -           1788 336049               -            578  1.1e-301  989.4   0.0   1   1  1.3e-298  1.3e-298  979.3   0.0     3   575  1109  1752  1107  1755 0.87 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/336049at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/336049at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/336049at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/336049at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/336049at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:22 2025
+# [ok]

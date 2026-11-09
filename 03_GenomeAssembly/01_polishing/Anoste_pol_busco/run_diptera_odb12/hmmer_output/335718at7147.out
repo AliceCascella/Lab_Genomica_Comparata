@@ -1,0 +1,31 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+335718at7147_174621_0:000335|ctg13:2546676-2552215|- -           1698 335718               -            570  3.1e-136  442.7   6.0   1   5   9.6e-78   1.3e-77  249.2   0.0     6   314   384   766   379   770 0.78 <unknown description>
+335718at7147_174621_0:000335|ctg13:2546676-2552215|- -           1698 335718               -            570  3.1e-136  442.7   6.0   2   5     2e-26   2.6e-26   79.8   0.1   309   398   879   980   842   997 0.80 <unknown description>
+335718at7147_174621_0:000335|ctg13:2546676-2552215|- -           1698 335718               -            570  3.1e-136  442.7   6.0   3   5   1.2e-32   1.6e-32  100.4   0.0   400   510  1011  1131  1001  1135 0.87 <unknown description>
+335718at7147_174621_0:000335|ctg13:2546676-2552215|- -           1698 335718               -            570  3.1e-136  442.7   6.0   4   5      0.13      0.17   -2.1   0.1   515   541  1164  1190  1159  1197 0.76 <unknown description>
+335718at7147_174621_0:000335|ctg13:2546676-2552215|- -           1698 335718               -            570  3.1e-136  442.7   6.0   5   5   0.00028   0.00037    6.7   0.1   545   564  1223  1242  1209  1247 0.80 <unknown description>
+335718at7147_30069_0:0005df|ctg13:2546676-2568487|-  -           1674 335718               -            570  1.3e-135  440.7   8.5   1   6      0.27      0.36   -3.2   0.0   104   155   300   361   293   365 0.43 <unknown description>
+335718at7147_30069_0:0005df|ctg13:2546676-2568487|-  -           1674 335718               -            570  1.3e-135  440.7   8.5   2   6   9.3e-78   1.2e-77  249.3   0.0     6   314   389   771   384   775 0.78 <unknown description>
+335718at7147_30069_0:0005df|ctg13:2546676-2568487|-  -           1674 335718               -            570  1.3e-135  440.7   8.5   3   6   1.9e-26   2.6e-26   79.8   0.1   309   398   884   985   847  1002 0.80 <unknown description>
+335718at7147_30069_0:0005df|ctg13:2546676-2568487|-  -           1674 335718               -            570  1.3e-135  440.7   8.5   4   6   1.2e-32   1.6e-32  100.4   0.0   400   510  1016  1136  1006  1140 0.87 <unknown description>
+335718at7147_30069_0:0005df|ctg13:2546676-2568487|-  -           1674 335718               -            570  1.3e-135  440.7   8.5   5   6      0.12      0.16   -2.0   0.1   515   541  1169  1195  1164  1203 0.76 <unknown description>
+335718at7147_30069_0:0005df|ctg13:2546676-2568487|-  -           1674 335718               -            570  1.3e-135  440.7   8.5   6   6   0.00027   0.00036    6.7   0.1   545   564  1228  1247  1214  1252 0.80 <unknown description>
+335718at7147_265458_0:001603|ctg13:2547996-2551849|- -           1011 335718               -            570  1.1e-128  417.9  12.3   1   7      0.39      0.52   -3.7   0.2   116   135    49    68    47    71 0.76 <unknown description>
+335718at7147_265458_0:001603|ctg13:2547996-2551849|- -           1011 335718               -            570  1.1e-128  417.9  12.3   2   7      0.12      0.16   -2.0   0.0   103   155   150   212   138   219 0.49 <unknown description>
+335718at7147_265458_0:001603|ctg13:2547996-2551849|- -           1011 335718               -            570  1.1e-128  417.9  12.3   3   7   3.3e-78   4.4e-78  250.8   0.0     6   314   240   622   235   630 0.78 <unknown description>
+335718at7147_265458_0:001603|ctg13:2547996-2551849|- -           1011 335718               -            570  1.1e-128  417.9  12.3   4   7     3e-19     4e-19   56.1   0.0   309   374   643   710   637   738 0.86 <unknown description>
+335718at7147_265458_0:001603|ctg13:2547996-2551849|- -           1011 335718               -            570  1.1e-128  417.9  12.3   5   7   6.2e-33   8.3e-33  101.3   0.0   400   510   764   884   755   888 0.87 <unknown description>
+335718at7147_265458_0:001603|ctg13:2547996-2551849|- -           1011 335718               -            570  1.1e-128  417.9  12.3   6   7     0.068     0.091   -1.2   0.1   515   541   917   943   911   951 0.76 <unknown description>
+335718at7147_265458_0:001603|ctg13:2547996-2551849|- -           1011 335718               -            570  1.1e-128  417.9  12.3   7   7   0.00016   0.00021    7.5   0.1   545   564   976   995   962  1000 0.80 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/335718at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/335718at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/335718at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/335718at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/335718at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:32 2025
+# [ok]

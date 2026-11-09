@@ -1,0 +1,30 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+70188at7147_28588_0:0019ff|ctg9:4375083-4378576|+ -            903 70188                -            543  6.6e-217  708.4  78.7   1   8    0.0056    0.0056    2.2   7.9     3    41     2    38     1    40 0.66 <unknown description>
+70188at7147_28588_0:0019ff|ctg9:4375083-4378576|+ -            903 70188                -            543  6.6e-217  708.4  78.7   2   8   5.2e-16   5.2e-16   45.3  16.6     9    65    34    91    28    97 0.84 <unknown description>
+70188at7147_28588_0:0019ff|ctg9:4375083-4378576|+ -            903 70188                -            543  6.6e-217  708.4  78.7   3   8      0.21      0.21   -2.9   7.5    43   100    98   164    89   172 0.66 <unknown description>
+70188at7147_28588_0:0019ff|ctg9:4375083-4378576|+ -            903 70188                -            543  6.6e-217  708.4  78.7   4   8  6.7e-181  6.7e-181  589.5  14.5    52   390   198   561   182   578 0.85 <unknown description>
+70188at7147_28588_0:0019ff|ctg9:4375083-4378576|+ -            903 70188                -            543  6.6e-217  708.4  78.7   5   8       1.9       1.9   -6.1   5.6    80   118   592   633   570   635 0.58 <unknown description>
+70188at7147_28588_0:0019ff|ctg9:4375083-4378576|+ -            903 70188                -            543  6.6e-217  708.4  78.7   6   8   4.2e-20   4.2e-20   58.8  17.3   390   484   637   760   627   778 0.72 <unknown description>
+70188at7147_28588_0:0019ff|ctg9:4375083-4378576|+ -            903 70188                -            543  6.6e-217  708.4  78.7   7   8         2         2   -9.3  11.1     7    40   786   819   780   827 0.76 <unknown description>
+70188at7147_28588_0:0019ff|ctg9:4375083-4378576|+ -            903 70188                -            543  6.6e-217  708.4  78.7   8   8   2.3e-20   2.3e-20   59.6   6.3   495   543   850   902   819   902 0.84 <unknown description>
+70188at7147_30069_0:0021c1|ctg9:4374121-4378576|+ -           1234 70188                -            543  4.6e-210  685.8 159.8   1   9      0.26      0.26   -3.2  11.3    11    45   143   175   132   204 0.72 <unknown description>
+70188at7147_30069_0:0021c1|ctg9:4374121-4378576|+ -           1234 70188                -            543  4.6e-210  685.8 159.8   2   9     0.019     0.019    0.5  10.8     3    35   243   279   241   286 0.63 <unknown description>
+70188at7147_30069_0:0021c1|ctg9:4374121-4378576|+ -           1234 70188                -            543  4.6e-210  685.8 159.8   3   9   1.4e-15   1.4e-15   43.8  17.6     9    66   275   333   270   341 0.84 <unknown description>
+70188at7147_30069_0:0021c1|ctg9:4374121-4378576|+ -           1234 70188                -            543  4.6e-210  685.8 159.8   4   9      0.36      0.36   -3.7   7.7    43   100   339   405   330   412 0.65 <unknown description>
+70188at7147_30069_0:0021c1|ctg9:4374121-4378576|+ -           1234 70188                -            543  4.6e-210  685.8 159.8   5   9  1.3e-180  1.3e-180  588.5  14.6    52   390   439   802   423   821 0.85 <unknown description>
+70188at7147_30069_0:0021c1|ctg9:4374121-4378576|+ -           1234 70188                -            543  4.6e-210  685.8 159.8   6   9      0.83      0.83   -4.9   4.2    80   118   833   874   812   880 0.61 <unknown description>
+70188at7147_30069_0:0021c1|ctg9:4374121-4378576|+ -           1234 70188                -            543  4.6e-210  685.8 159.8   7   9   2.9e-10   2.9e-10   26.3   7.3   390   429   878   925   868   934 0.85 <unknown description>
+70188at7147_30069_0:0021c1|ctg9:4374121-4378576|+ -           1234 70188                -            543  4.6e-210  685.8 159.8   8   9   3.7e-12   3.7e-12   32.6   9.5   430   484   970  1038   958  1054 0.73 <unknown description>
+70188at7147_30069_0:0021c1|ctg9:4374121-4378576|+ -           1234 70188                -            543  4.6e-210  685.8 159.8   9   9   6.4e-16   6.4e-16   45.0  22.0   475   543  1152  1233  1103  1233 0.68 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/70188at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/70188at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/70188at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/70188at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/70188at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:44 2025
+# [ok]

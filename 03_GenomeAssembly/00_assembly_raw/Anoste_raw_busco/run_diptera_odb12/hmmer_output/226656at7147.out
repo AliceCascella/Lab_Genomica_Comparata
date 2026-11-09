@@ -1,0 +1,20 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+226656at7147_7200_0:0013f0|ctg3:3137911-3145344|-    -            780 226656               -            663         0 1261.7  23.9   1   2  3.7e-191  3.7e-191  624.8   0.2    13   366    77   433    59   459 0.89 <unknown description>
+226656at7147_7200_0:0013f0|ctg3:3137911-3145344|-    -            780 226656               -            663         0 1261.7  23.9   2   2  8.2e-196  8.2e-196  640.2  18.6   356   663   470   779   461   779 0.97 <unknown description>
+226656at7147_30069_0:000653|ctg3:3137911-3148570|-   -            917 226656               -            663         0 1255.6  24.6   1   2  1.3e-189  1.3e-189  619.7   0.2    13   386   174   551   159   556 0.88 <unknown description>
+226656at7147_30069_0:000653|ctg3:3137911-3148570|-   -            917 226656               -            663         0 1255.6  24.6   2   2  2.3e-195  2.3e-195  638.7  19.5   357   663   608   916   601   916 0.97 <unknown description>
+226656at7147_53552_0:002144|ctg3:3137911-3140362|-   -            678 226656               -            663         0 1244.5  24.2   1   2  6.1e-186  6.1e-186  607.6   0.1    35   366     1   331     1   358 0.92 <unknown description>
+226656at7147_53552_0:002144|ctg3:3137911-3140362|-   -            678 226656               -            663         0 1244.5  24.2   2   2  1.4e-195  1.4e-195  639.4  19.8   357   663   369   677   363   677 0.98 <unknown description>
+226656at7147_2498891_0:0014c3|ctg3:3137911-3138334|- -            142 226656               -            663   3.6e-89  287.8   5.7   1   1   3.9e-89   3.9e-89  287.6   5.7   523   663     1   141     1   141 1.00 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/226656at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/226656at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/226656at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/226656at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/226656at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:02 2025
+# [ok]

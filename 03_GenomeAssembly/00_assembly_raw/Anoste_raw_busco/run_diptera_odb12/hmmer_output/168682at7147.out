@@ -1,0 +1,24 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+168682at7147_30069_0:0027a3|ctg4:17871697-17894355|-  -            771 168682               -            425  1.6e-198  647.8  24.6   1   5    0.0028    0.0028    4.5   0.0     1    20    84   103    84   106 0.89 <unknown description>
+168682at7147_30069_0:0027a3|ctg4:17871697-17894355|-  -            771 168682               -            425  1.6e-198  647.8  24.6   2   5  1.2e-177  1.2e-177  579.1   7.5    14   292   120   410   116   432 0.90 <unknown description>
+168682at7147_30069_0:0027a3|ctg4:17871697-17894355|-  -            771 168682               -            425  1.6e-198  647.8  24.6   3   5   1.3e-05   1.3e-05   12.2   9.0   266   342   426   508   409   517 0.51 <unknown description>
+168682at7147_30069_0:0027a3|ctg4:17871697-17894355|-  -            771 168682               -            425  1.6e-198  647.8  24.6   4   5   1.5e-13   1.5e-13   38.4   0.0   329   400   523   605   506   618 0.74 <unknown description>
+168682at7147_30069_0:0027a3|ctg4:17871697-17894355|-  -            771 168682               -            425  1.6e-198  647.8  24.6   5   5   8.2e-07   8.2e-07   16.2   0.0   404   425   749   770   703   770 0.85 <unknown description>
+168682at7147_68878_0:0019c2|ctg4:17871697-17873194|-  -            500 168682               -            425  9.6e-108  348.7  28.6   1   4     3e-87     3e-87  281.2  14.2   158   292     1   139     1   167 0.86 <unknown description>
+168682at7147_68878_0:0019c2|ctg4:17871697-17873194|-  -            500 168682               -            425  9.6e-108  348.7  28.6   2   4   9.9e-06   9.9e-06   12.6   9.5   265   342   154   237   138   246 0.51 <unknown description>
+168682at7147_68878_0:0019c2|ctg4:17871697-17873194|-  -            500 168682               -            425  9.6e-108  348.7  28.6   3   4   8.5e-14   8.5e-14   39.2   0.0   329   401   252   335   241   347 0.73 <unknown description>
+168682at7147_68878_0:0019c2|ctg4:17871697-17873194|-  -            500 168682               -            425  9.6e-108  348.7  28.6   4   4   4.7e-07   4.7e-07   17.0   0.0   404   425   478   499   430   499 0.84 <unknown description>
+168682at7147_190385_0:0015ce|ctg4:17893542-17894361|- -            274 168682               -            425   7.2e-86  276.6   0.7   1   2   0.00087   0.00087    6.2   0.0     1    20    86   105    86   108 0.90 <unknown description>
+168682at7147_190385_0:0015ce|ctg4:17893542-17894361|- -            274 168682               -            425   7.2e-86  276.6   0.7   2   2   1.7e-83   1.7e-83  268.8   0.3    14   157   122   273   118   273 0.93 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/168682at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/168682at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/168682at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/168682at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/168682at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:24:52 2025
+# [ok]

@@ -1,0 +1,29 @@
+IQ-TREE multicore version 2.4.0 for Linux x86 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    SGBGA-D142242S (AVX512, FMA3, 754 GB RAM)
+Command: iqtree2 -s ../../05_OG.Inference_Phylogenomic/05_tree/00_species/conc_species_tree.faa --symtest-only --prefix symmetry_test
+Seed:    258848 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Nov  4 12:47:47 2026
+Kernel:  AVX+FMA - 1 threads (80 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 80 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file ../../05_OG.Inference_Phylogenomic/05_tree/00_species/conc_species_tree.faa ... Fasta format detected
+Reading fasta file: done in 0.0112069 secs using 94.18% CPU
+Alignment most likely contains protein sequences
+Alignment has 6 sequences with 131324 columns, 28210 distinct patterns
+14923 parsimony-informative, 54783 singleton sites, 61618 constant sites
+        Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000745916 secs using 99.88% CPU
+   1  Anoara    0.30%    failed      0.20%
+   2  Anocol    0.33%    failed      0.39%
+   3  Anodar    1.86%    failed      0.72%
+   4  Anoste    3.75%    passed     35.94%
+   5  Culqui    6.68%    failed      0.00%
+   6  Drosim   10.09%    failed      0.00%
+****  TOTAL     3.83%  5 sequences failed composition chi2 test (p-value<5%; df=19)
+Performing matched-pair tests of symmetry... 100% 0.002 seconds
+SymTest results written to symmetry_test.symtest.csv

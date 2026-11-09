@@ -1,0 +1,26 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+74259at7147_290404_0:001dd9|ctg9:5628540-5632848|+ -            865 74259                -            629  2.4e-246  807.7   3.0   1   2   2.2e-37   2.2e-37  117.4   0.4    31   216   133   340   108   346 0.73 <unknown description>
+74259at7147_290404_0:001dd9|ctg9:5628540-5632848|+ -            865 74259                -            629  2.4e-246  807.7   3.0   2   2    4e-210    4e-210  688.1   0.1   217   629   368   784   360   784 0.97 <unknown description>
+74259at7147_343691_0:0013c5|ctg9:5630664-5632875|+ -            738 74259                -            629  2.1e-244  801.3   0.4   1   2   1.5e-34   1.5e-34  108.0   0.0    82   216    49   204    23   210 0.77 <unknown description>
+74259at7147_343691_0:0013c5|ctg9:5630664-5632875|+ -            738 74259                -            629  2.1e-244  801.3   0.4   2   2  2.6e-210  2.6e-210  688.7   0.1   217   629   232   648   224   648 0.97 <unknown description>
+74259at7147_68878_0:000b44|ctg9:5630352-5633217|+  -            930 74259                -            629  3.7e-244  800.5   0.7   1   2   1.1e-34   1.1e-34  108.5   0.0    78   216   149   308    84   314 0.71 <unknown description>
+74259at7147_68878_0:000b44|ctg9:5630352-5633217|+  -            930 74259                -            629  3.7e-244  800.5   0.7   2   2  4.7e-210  4.7e-210  687.8   0.1   217   629   336   752   328   752 0.97 <unknown description>
+74259at7147_30069_0:002dce|ctg9:5629428-5633217|+  -           1238 74259                -            629  5.9e-241  789.9  12.2   1   3      0.23      0.23   -1.6   1.8    42   105   166   229   134   239 0.81 <unknown description>
+74259at7147_30069_0:002dce|ctg9:5629428-5633217|+  -           1238 74259                -            629  5.9e-241  789.9  12.2   2   3   1.7e-34   1.7e-34  107.9   0.0    78   216   457   616   392   622 0.71 <unknown description>
+74259at7147_30069_0:002dce|ctg9:5629428-5633217|+  -           1238 74259                -            629  5.9e-241  789.9  12.2   3   3  8.9e-210  8.9e-210  686.9   0.1   217   629   644  1060   636  1060 0.97 <unknown description>
+74259at7147_7160_0:0029a8|ctg9:5629428-5640967|+   -           1258 74259                -            629  6.1e-241  789.9  12.2   1   3      0.24      0.24   -1.6   1.8    42   105   166   229   134   239 0.81 <unknown description>
+74259at7147_7160_0:0029a8|ctg9:5629428-5640967|+   -           1258 74259                -            629  6.1e-241  789.9  12.2   2   3   1.8e-34   1.8e-34  107.8   0.0    78   216   457   616   392   622 0.71 <unknown description>
+74259at7147_7160_0:0029a8|ctg9:5629428-5640967|+   -           1258 74259                -            629  6.1e-241  789.9  12.2   3   3  9.2e-210  9.2e-210  686.9   0.1   217   629   644  1060   636  1060 0.97 <unknown description>
+74259at7147_139045_0:0001ed|ctg9:5631663-5633112|+ -            458 74259                -            629  2.6e-165  540.1   2.2   1   1  3.2e-165  3.2e-165  539.8   2.2   317   629     1   315     1   315 0.99 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/74259at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/74259at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/74259at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/74259at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/74259at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:43 2025
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+65076at7147_30069_0:0003af|ctg5:14097980-14114589|-  -           1737 65076                -           1251         0 1625.0  64.9   1   3  5.2e-213  5.2e-213  698.6  55.6    22   773   206  1055   178  1126 0.73 <unknown description>
+65076at7147_30069_0:0003af|ctg5:14097980-14114589|-  -           1737 65076                -           1251         0 1625.0  64.9   2   3  8.1e-261  8.1e-261  857.0   0.1   784  1208  1232  1669  1192  1677 0.90 <unknown description>
+65076at7147_30069_0:0003af|ctg5:14097980-14114589|-  -           1737 65076                -           1251         0 1625.0  64.9   3   3   6.1e-24   6.1e-24   72.3   0.2  1209  1250  1693  1734  1686  1735 0.96 <unknown description>
+65076at7147_30069_0:000250|ctg5:14097980-14130307|-  -           1607 65076                -           1251         0 1625.0  65.6   1   3  3.5e-213  3.5e-213  699.2  55.4    22   773    76   925    47   997 0.73 <unknown description>
+65076at7147_30069_0:000250|ctg5:14097980-14130307|-  -           1607 65076                -           1251         0 1625.0  65.6   2   3  7.1e-261  7.1e-261  857.2   0.1   784  1208  1102  1539  1062  1546 0.90 <unknown description>
+65076at7147_30069_0:000250|ctg5:14097980-14130307|-  -           1607 65076                -           1251         0 1625.0  65.6   3   3   6.1e-24   6.1e-24   72.3   0.3  1209  1250  1563  1604  1558  1605 0.96 <unknown description>
+65076at7147_186751_0:002d04|ctg5:14097980-14106892|- -           1459 65076                -           1251         0 1520.8  67.4   1   3  1.1e-181  1.1e-181  594.8  56.8    91   773     7   777     3   849 0.72 <unknown description>
+65076at7147_186751_0:002d04|ctg5:14097980-14106892|- -           1459 65076                -           1251         0 1520.8  67.4   2   3    6e-261    6e-261  857.4   0.1   783  1208   953  1391   914  1397 0.90 <unknown description>
+65076at7147_186751_0:002d04|ctg5:14097980-14106892|- -           1459 65076                -           1251         0 1520.8  67.4   3   3     6e-24     6e-24   72.3   0.4  1209  1250  1415  1456  1411  1457 0.96 <unknown description>
+65076at7147_7159_0:00360e|ctg5:14104219-14108269|-   -            700 65076                -           1251  9.6e-197  644.7  20.0   1   1  1.5e-196  1.5e-196  644.1  20.0    23   660    18   690     2   696 0.76 <unknown description>
+65076at7147_28588_0:002770|ctg5:14097983-14098997|-  -            271 65076                -           1251  1.1e-184  604.7   5.9   1   2  6.6e-163  6.6e-163  532.6   0.6  1006  1208     2   204     1   208 0.99 <unknown description>
+65076at7147_28588_0:002770|ctg5:14097983-14098997|-  -            271 65076                -           1251  1.1e-184  604.7   5.9   2   2   8.3e-25   8.3e-25   75.1   0.5  1209  1250   228   269   225   270 0.96 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/65076at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/65076at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/65076at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/65076at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/65076at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:36 2025
+# [ok]

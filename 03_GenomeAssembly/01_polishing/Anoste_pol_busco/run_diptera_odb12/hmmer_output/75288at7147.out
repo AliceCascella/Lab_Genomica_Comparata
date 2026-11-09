@@ -1,0 +1,17 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+75288at7147_30069_0:002787|ctg8:5877589-5886537|+  -            372 75288                -            262    5e-110  354.0   3.6   1   2   4.2e-99   4.2e-99  318.1   0.8     4   207     7   212     4   227 0.91 <unknown description>
+75288at7147_30069_0:002787|ctg8:5877589-5886537|+  -            372 75288                -            262    5e-110  354.0   3.6   2   2   3.2e-13   3.2e-13   36.6   0.1   199   250   261   312   243   323 0.79 <unknown description>
+75288at7147_139045_0:000819|ctg8:5884874-5886522|+ -            353 75288                -            262  1.2e-107  346.2   6.2   1   2   5.5e-97   5.5e-97  311.2   2.5    13   207     2   198     1   213 0.91 <unknown description>
+75288at7147_139045_0:000819|ctg8:5884874-5886522|+ -            353 75288                -            262  1.2e-107  346.2   6.2   2   2     3e-13     3e-13   36.7   0.1   199   250   247   298   229   309 0.79 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/75288at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/75288at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/75288at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/75288at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/75288at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:46 2025
+# [ok]

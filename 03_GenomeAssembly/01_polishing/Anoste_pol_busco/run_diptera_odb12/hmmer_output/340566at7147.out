@@ -1,0 +1,20 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+340566at7147_1496333_0:00176c|ctg23:256334-257663|+ -            317 340566               -            269  4.4e-122  394.8  24.5   1   2  1.6e-113  1.6e-113  366.8  13.5     1   227     1   229     1   245 0.90 <unknown description>
+340566at7147_1496333_0:00176c|ctg23:256334-257663|+ -            317 340566               -            269  4.4e-122  394.8  24.5   2   2   7.3e-12   7.3e-12   33.4   4.2   210   269   248   313   229   313 0.77 <unknown description>
+340566at7147_2530218_0:002471|ctg23:256334-257354|+ -            273 340566               -            269  9.7e-114  367.5  13.5   1   2  9.7e-114  9.7e-114  367.5  13.5     1   227     1   229     1   242 0.90 <unknown description>
+340566at7147_2530218_0:002471|ctg23:256334-257354|+ -            273 340566               -            269  9.7e-114  367.5  13.5   2   2      0.18      0.18   -0.7   0.1   211   232   249   270   236   271 0.72 <unknown description>
+340566at7147_35570_0:00054b|ctg23:256334-278875|+   -            334 340566               -            269  1.7e-113  366.7  13.3   1   2  1.7e-113  1.7e-113  366.7  13.3     1   227     1   229     1   241 0.91 <unknown description>
+340566at7147_35570_0:00054b|ctg23:256334-278875|+   -            334 340566               -            269  1.7e-113  366.7  13.3   2   2      0.58      0.58   -2.3   3.6   217   232   255   270   229   333 0.57 <unknown description>
+340566at7147_7225_0:002a52|ctg23:256643-257159|+    -            173 340566               -            269   3.8e-91  293.4  12.0   1   1   4.3e-91   4.3e-91  293.2  12.0    37   198     2   165     1   172 0.95 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/340566at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/340566at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/340566at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/340566at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/340566at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:36 2025
+# [ok]

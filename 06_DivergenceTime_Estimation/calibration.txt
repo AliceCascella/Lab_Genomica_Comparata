@@ -1,0 +1,4 @@
+Anoara,Anocol -1.9
+Anodar,Anoste -84
+Anodar,Culqui -138
+Culqui,Drosim -252

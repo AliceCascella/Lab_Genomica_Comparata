@@ -1,0 +1,5 @@
+Model Base Final Likelihood (-lnL): 68834.2
+Lambda: 0.00042532129396814, 0.0010116976667199
+Epsilon: 0.00842995
+Maximum possible lambda for this topology: 0.00396825
+215 values were attempted (6% rejected)

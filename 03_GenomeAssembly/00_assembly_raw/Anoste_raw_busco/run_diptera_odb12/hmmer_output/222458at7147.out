@@ -1,0 +1,20 @@
+#                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+222458at7147_30069_0:0020e6|ctg6:65506-67063|-  -            283 222458               -            203  4.4e-129  415.3   2.3   1   2  4.4e-129  4.4e-129  415.3   2.3     1   199    18   216    18   220 0.98 <unknown description>
+222458at7147_30069_0:0020e6|ctg6:65506-67063|-  -            283 222458               -            203  4.4e-129  415.3   2.3   2   2         3         3   -5.7  11.8   169   200   220   251   213   259 0.51 <unknown description>
+222458at7147_68878_0:00089f|ctg6:65506-66534|-  -            266 222458               -            203  7.7e-124  398.2   2.1   1   2  7.7e-124  7.7e-124  398.2   2.1    10   199    10   199     5   203 0.98 <unknown description>
+222458at7147_68878_0:00089f|ctg6:65506-66534|-  -            266 222458               -            203  7.7e-124  398.2   2.1   2   2         3         3   -5.8  12.1   169   200   203   234   196   242 0.51 <unknown description>
+222458at7147_190385_0:004811|ctg6:65506-66241|- -            197 222458               -            203   7.4e-77  244.8   4.7   1   3   7.4e-77   7.4e-77  244.8   4.7    70   199     1   130     1   134 0.98 <unknown description>
+222458at7147_190385_0:004811|ctg6:65506-66241|- -            197 222458               -            203   7.4e-77  244.8   4.7   2   3         3         3   -6.1  13.7   157   200   131   165   123   173 0.44 <unknown description>
+222458at7147_190385_0:004811|ctg6:65506-66241|- -            197 222458               -            203   7.4e-77  244.8   4.7   3   3      0.68      0.68   -3.3   0.0   193   203   186   196   184   196 0.82 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/222458at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/222458at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/hmmer_output/222458at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/222458at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw/Anoste_raw_busco/run_diptera_odb12/miniprot_output/translated_proteins/222458at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/00_assembly_raw
+# Date:            Mon Nov  3 12:25:03 2025
+# [ok]

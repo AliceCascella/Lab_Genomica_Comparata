@@ -1,0 +1,32 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+271424at7147_30069_0:0013a2|ctg3:11199026-11201477|+  -            795 271424               -            390  5.1e-102  330.0  21.6   1   7   1.7e-55   1.7e-55  176.8   2.6     1   108    28   139    28   144 0.94 <unknown description>
+271424at7147_30069_0:0013a2|ctg3:11199026-11201477|+  -            795 271424               -            390  5.1e-102  330.0  21.6   2   7   3.3e-16   3.3e-16   47.4   0.6   106   195   182   316   169   327 0.67 <unknown description>
+271424at7147_30069_0:0013a2|ctg3:11199026-11201477|+  -            795 271424               -            390  5.1e-102  330.0  21.6   3   7   3.6e-08   3.6e-08   21.0   0.0   165   234   332   403   320   412 0.77 <unknown description>
+271424at7147_30069_0:0013a2|ctg3:11199026-11201477|+  -            795 271424               -            390  5.1e-102  330.0  21.6   4   7   9.4e-10   9.4e-10   26.2   0.0   199   280   428   521   410   533 0.77 <unknown description>
+271424at7147_30069_0:0013a2|ctg3:11199026-11201477|+  -            795 271424               -            390  5.1e-102  330.0  21.6   5   7   9.2e-07   9.2e-07   16.3   0.2   295   329   594   628   560   664 0.68 <unknown description>
+271424at7147_30069_0:0013a2|ctg3:11199026-11201477|+  -            795 271424               -            390  5.1e-102  330.0  21.6   6   7   0.00098   0.00098    6.4   0.1   324   364   700   740   691   746 0.84 <unknown description>
+271424at7147_30069_0:0013a2|ctg3:11199026-11201477|+  -            795 271424               -            390  5.1e-102  330.0  21.6   7   7   9.6e-15   9.6e-15   42.6   0.1   357   390   756   789   741   789 0.90 <unknown description>
+271424at7147_13632_0:001b7f|ctg3:11199026-11200961|+  -            585 271424               -            390   1.2e-88  286.0  15.4   1   4   1.1e-55   1.1e-55  177.5   2.6     1   108    28   139    28   144 0.94 <unknown description>
+271424at7147_13632_0:001b7f|ctg3:11199026-11200961|+  -            585 271424               -            390   1.2e-88  286.0  15.4   2   4   3.9e-16   3.9e-16   47.2   1.6   106   195   182   316   168   328 0.67 <unknown description>
+271424at7147_13632_0:001b7f|ctg3:11199026-11200961|+  -            585 271424               -            390   1.2e-88  286.0  15.4   3   4   2.5e-08   2.5e-08   21.5   0.0   165   234   332   403   321   411 0.77 <unknown description>
+271424at7147_13632_0:001b7f|ctg3:11199026-11200961|+  -            585 271424               -            390   1.2e-88  286.0  15.4   4   4   1.2e-13   1.2e-13   39.0   0.0   199   320   428   581   409   584 0.64 <unknown description>
+271424at7147_265458_0:00125c|ctg3:11199158-11200667|+ -            504 271424               -            390   2.6e-85  275.0   9.7   1   4   8.3e-56   8.3e-56  177.8   2.6     1   108     7   118     7   123 0.94 <unknown description>
+271424at7147_265458_0:00125c|ctg3:11199158-11200667|+ -            504 271424               -            390   2.6e-85  275.0   9.7   2   4   2.3e-16   2.3e-16   48.0   1.2   106   195   161   295   148   306 0.67 <unknown description>
+271424at7147_265458_0:00125c|ctg3:11199158-11200667|+ -            504 271424               -            390   2.6e-85  275.0   9.7   3   4     2e-08     2e-08   21.8   0.0   165   234   311   382   299   390 0.77 <unknown description>
+271424at7147_265458_0:00125c|ctg3:11199158-11200667|+ -            504 271424               -            390   2.6e-85  275.0   9.7   4   4   6.8e-10   6.8e-10   26.7   0.0   199   279   407   499   385   502 0.78 <unknown description>
+271424at7147_95512_0:0025c3|ctg3:11199026-11232951|+  -            772 271424               -            390   6.6e-84  270.3  15.6   1   4   1.6e-55   1.6e-55  176.9   2.6     1   108    28   139    28   144 0.94 <unknown description>
+271424at7147_95512_0:0025c3|ctg3:11199026-11232951|+  -            772 271424               -            390   6.6e-84  270.3  15.6   2   4   3.3e-16   3.3e-16   47.4   0.7   106   195   182   316   169   327 0.67 <unknown description>
+271424at7147_95512_0:0025c3|ctg3:11199026-11232951|+  -            772 271424               -            390   6.6e-84  270.3  15.6   3   4   3.8e-08   3.8e-08   20.9   0.0   165   234   332   403   321   410 0.76 <unknown description>
+271424at7147_95512_0:0025c3|ctg3:11199026-11232951|+  -            772 271424               -            390   6.6e-84  270.3  15.6   4   4   4.3e-11   4.3e-11   30.6   0.1   199   309   428   548   407   605 0.68 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/271424at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/271424at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/271424at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/271424at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/271424at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:20 2025
+# [ok]

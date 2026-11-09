@@ -1,0 +1,20 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+23278at7147_139047_0:0013f5|ctg4:6701152-6709604|+ -            792 23278                -            564    2e-271  888.3  53.2   1   3   1.1e-98   1.1e-98  318.0   2.7     1   195    32   252    32   263 0.85 <unknown description>
+23278at7147_139047_0:0013f5|ctg4:6701152-6709604|+ -            792 23278                -            564    2e-271  888.3  53.2   2   3    8e-162    8e-162  526.5   8.6   188   512   276   607   272   637 0.91 <unknown description>
+23278at7147_139047_0:0013f5|ctg4:6701152-6709604|+ -            792 23278                -            564    2e-271  888.3  53.2   3   3   1.2e-17   1.2e-17   50.5  26.3   505   564   682   758   677   758 0.79 <unknown description>
+23278at7147_30069_0:001d8b|ctg4:6700553-6715319|+  -           1199 23278                -            564  3.5e-262  857.8  66.9   1   4   1.5e-98   1.5e-98  317.6   2.0     1   195    32   252    32   263 0.86 <unknown description>
+23278at7147_30069_0:001d8b|ctg4:6700553-6715319|+  -           1199 23278                -            564  3.5e-262  857.8  66.9   2   4  7.8e-103  7.8e-103  331.8   0.9   188   385   276   479   272   488 0.90 <unknown description>
+23278at7147_30069_0:001d8b|ctg4:6700553-6715319|+  -           1199 23278                -            564  3.5e-262  857.8  66.9   3   4   3.8e-54   3.8e-54  171.0  15.6   378   512   493   628   481   658 0.90 <unknown description>
+23278at7147_30069_0:001d8b|ctg4:6700553-6715319|+  -           1199 23278                -            564  3.5e-262  857.8  66.9   4   4   1.7e-17   1.7e-17   50.0  26.0   505   564   703   779   698   779 0.79 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/23278at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/23278at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/23278at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/23278at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/23278at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:24 2025
+# [ok]

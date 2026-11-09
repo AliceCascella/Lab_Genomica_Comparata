@@ -1,0 +1,20 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+66044at7147_30069_0:0029b8|ctg4:21662322-21664891|- -            790 66044                -            487  6.4e-186  605.5   7.0   1   4     0.025     0.025    0.0   7.3     5    47    20    62    15    82 0.70 <unknown description>
+66044at7147_30069_0:0029b8|ctg4:21662322-21664891|- -            790 66044                -            487  6.4e-186  605.5   7.0   2   4  2.8e-111  2.8e-111  359.3   0.0    41   295   117   397   101   406 0.85 <unknown description>
+66044at7147_30069_0:0029b8|ctg4:21662322-21664891|- -            790 66044                -            487  6.4e-186  605.5   7.0   3   4   1.4e-72   1.4e-72  231.8   0.0   303   459   461   623   446   628 0.93 <unknown description>
+66044at7147_30069_0:0029b8|ctg4:21662322-21664891|- -            790 66044                -            487  6.4e-186  605.5   7.0   4   4   6.9e-05   6.9e-05    8.5   0.0   467   486   768   787   712   788 0.77 <unknown description>
+66044at7147_29031_0:0003d6|ctg4:21662976-21664749|- -            592 66044                -            487  7.3e-181  588.9   3.8   1   3     0.016     0.016    0.6   4.7    12    47     4    39     1    61 0.66 <unknown description>
+66044at7147_29031_0:0003d6|ctg4:21662976-21664749|- -            592 66044                -            487  7.3e-181  588.9   3.8   2   3  1.5e-111  1.5e-111  360.3   0.0    41   295    94   374    78   383 0.85 <unknown description>
+66044at7147_29031_0:0003d6|ctg4:21662976-21664749|- -            592 66044                -            487  7.3e-181  588.9   3.8   3   3   5.7e-70   5.7e-70  223.1   0.1   303   450   438   591   422   592 0.94 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /usr/local/share/busco_databases/diptera_odb12/hmms/66044at7147.hmm
+# Target file:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/66044at7147.faa
+# Option settings: hmmsearch --domtblout /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/hmmer_output/66044at7147.out --cpu 1 /usr/local/share/busco_databases/diptera_odb12/hmms/66044at7147.hmm /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing/Anoste_pol_busco/run_diptera_odb12/miniprot_output/translated_proteins/66044at7147.faa 
+# Current dir:     /home/STUDENTI/alice.cascella/Lab_Genomica_Comparata/03_GenomeAssembly/01_polishing
+# Date:            Mon Nov 10 12:03:47 2025
+# [ok]
