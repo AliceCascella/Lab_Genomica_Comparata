@@ -1,0 +1,10 @@
+[M::mm_idx_gen::4.231*1.41] collected minimizers
+[M::mm_idx_gen::4.372*2.67] sorted minimizers
+[M::main::4.372*2.67] loaded/built the index for 494 target sequence(s)
+[M::mm_mapopt_update::4.722*2.55] mid_occ = 133
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 494
+[M::mm_idx_stat::4.946*2.48] distinct minimizers: 19398089 (94.56% are singletons); average occurrences: 1.259; average spacing: 9.970; total length: 243460342
+[M::worker_pipeline::18.699*7.87] mapped 775 sequences
+[M::main] Version: 2.28-r1209
+[M::main] CMD: minimap2 -x asm5 -t 50 /home/PERSONALE/mirko.martini3/Lab_CompGeno/00_practice/03_GenomeAssembly/03_scaffolding/GCF_013141755.1_UCI_ANSTEP_V1.0_genomic.fna /home/PERSONALE/mirko.martini3/Lab_CompGeno/00_practice/03_GenomeAssembly/03_scaffolding/Anoste_noContaminants.fasta
+[M::main] Real time: 18.878 sec; CPU: 147.371 sec; Peak RSS: 5.080 GB
