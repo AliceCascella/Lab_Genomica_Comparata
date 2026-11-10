@@ -1,8 +1,0 @@
-Model Gamma Final Likelihood (-lnL): 66565.2
-Lambda: 0.000780537915805
-Epsilon: 0.00842995
-Maximum possible lambda for this topology: 0.00396825
-194 values were attempted (0% rejected)
-The following families had failure rates >20% of the time:
-OG0000000 had 61 failures
-Alpha: 0.917094

@@ -1,0 +1,12 @@
+# Intermediate gene family count matrices
+/00_input/gene_families.tsv
+/00_input/gene_families_shared.tsv
+/00_input/gene_families_species_specific.tsv
+
+# CAFE5 intermediate outputs (100 runs)
+/01_CAFE5/00_1L/
+/01_CAFE5/00_2L/
+
+# Error model: retain only the main parameter file
+/01_CAFE5/Error_model/*
+!/01_CAFE5/Error_model/Base_error_model.txt

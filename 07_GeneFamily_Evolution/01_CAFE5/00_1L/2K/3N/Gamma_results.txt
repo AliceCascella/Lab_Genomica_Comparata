@@ -1,6 +1,0 @@
-Model Gamma Final Likelihood (-lnL): 67719.1
-Lambda: 0.00059998806412547
-Epsilon: 0.00842995
-Maximum possible lambda for this topology: 0.00396825
-124 values were attempted (2% rejected)
-Alpha: 1.30992
