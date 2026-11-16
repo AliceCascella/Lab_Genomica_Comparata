@@ -1,0 +1,43 @@
+GO.ID	Term	Annotated	Significant	Expected	elim_Fisher	p_value
+GO:0030527	structural constituent of chromatin	9	6	0.24	2.6e-08	2.6e-08
+GO:0003677	DNA binding	443	24	11.87	0.00051	0.00051
+GO:0004568	chitinase activity	9	3	0.24	0.00140	0.0014
+GO:0008061	chitin binding	9	3	0.24	0.00140	0.0014
+GO:0008013	beta-catenin binding	10	3	0.27	0.00196	0.00196
+GO:0008017	microtubule binding	41	5	1.1	0.00439	0.00439
+GO:0070573	metallodipeptidase activity	5	2	0.13	0.00675	0.00675
+GO:0043565	sequence-specific DNA binding	326	16	8.73	0.01241	0.01241
+GO:0050839	cell adhesion molecule binding	35	4	0.94	0.01349	0.01349
+GO:0003700	DNA-binding transcription factor activity	304	15	8.14	0.01472	0.01472
+GO:0005546	phosphatidylinositol-4,5-bisphosphate binding	8	2	0.21	0.01792	0.01792
+GO:0080019	alcohol-forming very long-chain fatty acyl-CoA reductase activity	8	2	0.21	0.01792	0.01792
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	287	14	7.69	0.02003	0.02003
+GO:0000987	cis-regulatory region sequence-specific DNA binding	210	11	5.63	0.02393	0.02393
+GO:0005042	netrin receptor activity	1	1	0.03	0.02679	0.02679
+GO:0099095	ligand-gated monoatomic anion channel activity	1	1	0.03	0.02679	0.02679
+GO:0004055	argininosuccinate synthase activity	1	1	0.03	0.02679	0.02679
+GO:0072320	volume-sensitive chloride channel activity	1	1	0.03	0.02679	0.02679
+GO:0005225	volume-sensitive anion channel activity	1	1	0.03	0.02679	0.02679
+GO:0005229	intracellularly calcium-gated chloride channel activity	1	1	0.03	0.02679	0.02679
+GO:0004038	allantoinase activity	1	1	0.03	0.02679	0.02679
+GO:0033765	steroid dehydrogenase activity, acting on the CH-CH group of donors	1	1	0.03	0.02679	0.02679
+GO:0008311	double-stranded DNA 3'-5' DNA exonuclease activity	1	1	0.03	0.02679	0.02679
+GO:0003918	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity	1	1	0.03	0.02679	0.02679
+GO:0003865	3-oxo-5-alpha-steroid 4-dehydrogenase activity	1	1	0.03	0.02679	0.02679
+GO:0004450	isocitrate dehydrogenase (NADP+) activity	1	1	0.03	0.02679	0.02679
+GO:0141147	intracellularly calcium-gated channel activity	1	1	0.03	0.02679	0.02679
+GO:0016428	tRNA (cytidine-5-)-methyltransferase activity	1	1	0.03	0.02679	0.02679
+GO:0008309	double-stranded DNA exodeoxyribonuclease activity	1	1	0.03	0.02679	0.02679
+GO:0031434	mitogen-activated protein kinase kinase binding	1	1	0.03	0.02679	0.02679
+GO:0045296	cadherin binding	10	2	0.27	0.02782	0.02782
+GO:1990837	sequence-specific double-stranded DNA binding	306	14	8.2	0.03264	0.03264
+GO:0005507	copper ion binding	11	2	0.29	0.03341	0.03341
+GO:0016405	CoA-ligase activity	12	2	0.32	0.03940	0.0394
+GO:0005549	odorant binding	12	2	0.32	0.03940	0.0394
+GO:0003690	double-stranded DNA binding	319	14	8.55	0.04411	0.04411
+GO:0022834	ligand-gated channel activity	30	3	0.8	0.04498	0.04498
+GO:0015276	ligand-gated monoatomic ion channel activity	30	3	0.8	0.04498	0.04498
+GO:0004984	olfactory receptor activity	13	2	0.35	0.04577	0.04577
+GO:0001067	transcription regulatory region nucleic acid binding	291	13	7.8	0.04583	0.04583
+GO:0000976	transcription cis-regulatory region binding	291	13	7.8	0.04583	0.04583
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	205	10	5.49	0.04659	0.04659

@@ -1,0 +1,12 @@
+GO.ID	Term	Annotated	Significant	Expected	elim_Fisher	p_value
+GO:0000786	nucleosome	8	5	0.22	8.1e-07	8.1e-07
+GO:0005615	extracellular space	171	13	4.76	0.00084	0.00084
+GO:0016342	catenin complex	9	3	0.25	0.00156	0.00156
+GO:0005576	extracellular region	218	18	6.06	0.00712	0.00712
+GO:0030312	external encapsulating structure	75	6	2.09	0.01736	0.01736
+GO:0031012	extracellular matrix	75	6	2.09	0.01736	0.01736
+GO:0005881	cytoplasmic microtubule	9	2	0.25	0.02432	0.02432
+GO:1990023	mitotic spindle midzone	1	1	0.03	0.02781	0.02781
+GO:0030314	junctional membrane complex	1	1	0.03	0.02781	0.02781
+GO:1905202	methylcrotonoyl-CoA carboxylase complex	1	1	0.03	0.02781	0.02781
+GO:0045025	mitochondrial degradosome	1	1	0.03	0.02781	0.02781

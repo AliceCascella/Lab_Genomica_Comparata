@@ -1,0 +1,16 @@
+GO.ID	Term	Annotated	Significant	Expected	elim_Fisher	p_value
+GO:0000786	nucleosome	8	7	0.21	5.6e-11	5.6e-11
+GO:0005615	extracellular space	171	17	4.48	1.7e-06	1.7e-06
+GO:0031012	extracellular matrix	75	8	1.96	0.00069	0.00069
+GO:0005576	extracellular region	218	22	5.71	0.00465	0.00465
+GO:0030678	mitochondrial ribonuclease P complex	1	1	0.03	0.02620	0.0262
+GO:0031312	extrinsic component of organelle membrane	1	1	0.03	0.02620	0.0262
+GO:0097632	extrinsic component of phagophore assembly site membrane	1	1	0.03	0.02620	0.0262
+GO:0031533	mRNA capping enzyme complex	1	1	0.03	0.02620	0.0262
+GO:1903349	omegasome membrane	1	1	0.03	0.02620	0.0262
+GO:1990462	omegasome	1	1	0.03	0.02620	0.0262
+GO:0000795	synaptonemal complex	1	1	0.03	0.02620	0.0262
+GO:0099086	synaptonemal structure	1	1	0.03	0.02620	0.0262
+GO:0030314	junctional membrane complex	1	1	0.03	0.02620	0.0262
+GO:0097629	extrinsic component of omegasome membrane	1	1	0.03	0.02620	0.0262
+GO:0005665	RNA polymerase II, core complex	10	2	0.26	0.02671	0.02671

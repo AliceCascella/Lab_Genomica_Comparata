@@ -1,0 +1,59 @@
+GO.ID	Term	Annotated	Significant	Expected	elim_Fisher	p_value
+GO:0006032	chitin catabolic process	9	3	0.23	0.0011	0.0011
+GO:0043066	negative regulation of apoptotic process	20	4	0.5	0.0013	0.0013
+GO:0007608	sensory perception of smell	21	4	0.53	0.0016	0.0016
+GO:0043171	peptide catabolic process	11	3	0.28	0.0022	0.0022
+GO:0006357	regulation of transcription by RNA polymerase II	468	22	11.7	0.0024	0.0024
+GO:0035337	fatty-acyl-CoA metabolic process	12	3	0.3	0.0028	0.0028
+GO:0072350	tricarboxylic acid metabolic process	5	2	0.13	0.0059	0.0059
+GO:0008049	male courtship behavior	7	2	0.18	0.0120	0.012
+GO:0019098	reproductive behavior	7	2	0.18	0.0120	0.012
+GO:0060179	male mating behavior	7	2	0.18	0.0120	0.012
+GO:0007617	mating behavior	7	2	0.18	0.0120	0.012
+GO:0007619	courtship behavior	7	2	0.18	0.0120	0.012
+GO:0022414	reproductive process	57	5	1.43	0.0133	0.0133
+GO:0048609	multicellular organismal reproductive process	21	3	0.53	0.0146	0.0146
+GO:0008045	motor neuron axon guidance	8	2	0.2	0.0157	0.0157
+GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	22	3	0.55	0.0166	0.0166
+GO:0060828	regulation of canonical Wnt signaling pathway	9	2	0.23	0.0199	0.0199
+GO:0007635	chemosensory behavior	9	2	0.23	0.0199	0.0199
+GO:0035336	long-chain fatty-acyl-CoA metabolic process	9	2	0.23	0.0199	0.0199
+GO:1901880	negative regulation of protein depolymerization	10	2	0.25	0.0245	0.0245
+GO:0043242	negative regulation of protein-containing complex disassembly	10	2	0.25	0.0245	0.0245
+GO:0007610	behavior	10	2	0.25	0.0245	0.0245
+GO:0038007	netrin-activated signaling pathway	1	1	0.03	0.0250	0.025
+GO:0071941	nitrogen cycle metabolic process	1	1	0.03	0.0250	0.025
+GO:0000729	DNA double-strand break processing	1	1	0.03	0.0250	0.025
+GO:0019627	urea metabolic process	1	1	0.03	0.0250	0.025
+GO:0000706	meiotic DNA double-strand break processing	1	1	0.03	0.0250	0.025
+GO:0000050	urea cycle	1	1	0.03	0.0250	0.025
+GO:0000053	argininosuccinate metabolic process	1	1	0.03	0.0250	0.025
+GO:0016093	polyprenol metabolic process	1	1	0.03	0.0250	0.025
+GO:0016095	polyprenol catabolic process	1	1	0.03	0.0250	0.025
+GO:0010639	negative regulation of organelle organization	27	3	0.68	0.0288	0.0288
+GO:1901879	regulation of protein depolymerization	11	2	0.28	0.0294	0.0294
+GO:0051129	negative regulation of cellular component organization	29	3	0.73	0.0347	0.0347
+GO:0009593	detection of chemical stimulus	12	2	0.3	0.0347	0.0347
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell	12	2	0.3	0.0347	0.0347
+GO:0050906	detection of stimulus involved in sensory perception	12	2	0.3	0.0347	0.0347
+GO:0050907	detection of chemical stimulus involved in sensory perception	12	2	0.3	0.0347	0.0347
+GO:0032501	multicellular organismal process	272	15	6.8	0.0399	0.0399
+GO:0006720	isoprenoid metabolic process	13	2	0.33	0.0404	0.0404
+GO:0030111	regulation of Wnt signaling pathway	13	2	0.33	0.0404	0.0404
+GO:1902904	negative regulation of supramolecular fiber organization	13	2	0.33	0.0404	0.0404
+GO:0098609	cell-cell adhesion	53	4	1.33	0.0425	0.0425
+GO:0051494	negative regulation of cytoskeleton organization	14	2	0.35	0.0464	0.0464
+GO:0098542	defense response to other organism	14	2	0.35	0.0464	0.0464
+GO:0045087	innate immune response	14	2	0.35	0.0464	0.0464
+GO:0140546	defense response to symbiont	14	2	0.35	0.0464	0.0464
+GO:0043244	regulation of protein-containing complex disassembly	14	2	0.35	0.0464	0.0464
+GO:1902903	regulation of supramolecular fiber organization	33	3	0.83	0.0483	0.0483
+GO:0070973	protein localization to endoplasmic reticulum exit site	2	1	0.05	0.0494	0.0494
+GO:0007140	male meiotic nuclear division	2	1	0.05	0.0494	0.0494
+GO:0007026	negative regulation of microtubule depolymerization	2	1	0.05	0.0494	0.0494
+GO:0006145	purine nucleobase catabolic process	2	1	0.05	0.0494	0.0494
+GO:0008300	isoprenoid catabolic process	2	1	0.05	0.0494	0.0494
+GO:0031111	negative regulation of microtubule polymerization or depolymerization	2	1	0.05	0.0494	0.0494
+GO:0016185	synaptic vesicle budding from presynaptic endocytic zone membrane	2	1	0.05	0.0494	0.0494
+GO:0006526	L-arginine biosynthetic process	2	1	0.05	0.0494	0.0494
+GO:0042138	meiotic DNA double-strand break formation	2	1	0.05	0.0494	0.0494
