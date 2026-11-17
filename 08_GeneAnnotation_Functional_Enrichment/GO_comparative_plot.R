@@ -75,10 +75,10 @@ p <- ggplot(
   aes(x = Significance, y = TermLabel, fill = Direction)
 ) +
   geom_col(width = 0.75) +
-  facet_grid( 
-    Direction ~ Ontology,
+  facet_wrap( 
+    vars(Direction, Ontology),
+    ncol = 3,
     scales = "free_y",
-    space = "free_y",
     labeller = label_value
   ) +
   scale_y_discrete(
